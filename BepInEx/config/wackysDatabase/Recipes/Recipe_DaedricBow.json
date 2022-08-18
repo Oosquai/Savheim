@@ -1,0 +1,14 @@
+{
+    "name": "DaedricBow",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "TrophySurtling:5:25:True",
+        "Obsidian:20:150:True",
+        "Flametal:10:75:True"
+    ]
+}

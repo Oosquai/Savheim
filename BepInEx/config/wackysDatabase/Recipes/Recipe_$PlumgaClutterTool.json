@@ -1,0 +1,12 @@
+{
+    "name": "$PlumgaClutterTool",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "Wood:2:1:False"
+    ]
+}

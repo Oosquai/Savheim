@@ -1,0 +1,14 @@
+{
+    "name": "RPickaxeBlackmetal",
+    "clone": true,
+    "clonePrefabName": "PickaxeBlackmetal",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:6:1:True",
+        "BlackMetal:20:10:True",
+        "LinenThread:5:2:True"
+    ]
+}

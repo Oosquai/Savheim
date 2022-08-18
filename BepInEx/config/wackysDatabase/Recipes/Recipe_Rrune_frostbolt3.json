@@ -1,0 +1,14 @@
+{
+    "name": "Rrune_frostbolt3",
+    "clone": true,
+    "clonePrefabName": "rune_frostbolt3",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "bonemass_drop:1:0:False",
+        "AmberPearl:4:1:False",
+        "BoneFragments:16:4:False"
+    ]
+}

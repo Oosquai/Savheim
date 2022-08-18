@@ -1,0 +1,14 @@
+{
+    "name": "RBowBlackmetalSkirmisher",
+    "clone": true,
+    "clonePrefabName": "BowBlackmetalSkirmisher",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:40:10:True",
+        "BlackMetal:10:15:True",
+        "LinenThread:5:5:True"
+    ]
+}

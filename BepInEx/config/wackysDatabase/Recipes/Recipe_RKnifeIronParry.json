@@ -1,0 +1,14 @@
+{
+    "name": "RKnifeIronParry",
+    "clone": true,
+    "clonePrefabName": "KnifeIronParry",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:2:0:True",
+        "Iron:15:4:True",
+        "LeatherScraps:2:1:True"
+    ]
+}

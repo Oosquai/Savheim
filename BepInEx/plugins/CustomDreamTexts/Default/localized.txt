@@ -1,0 +1,42 @@
+$dream_random01: You dream of a river running uphill, of green shoots turning downward into the earth…
+$dream_random02: Once again, you run at the head of your warriors, the weight of your father's axe in your hand.
+
+You wake with the war-cry on your lips…
+$dream_random03: In your dream, you sit beside a fire in a great hall, surrounded by the chatter of familiar voices.
+
+Their faces blur like smoke and their names slip your mind, but the warmth of their memory lingers…
+$dream_random04: You stand at the prow of a leaping ship, the salt spray before you and the joyful shriek of gulls above.
+
+Folded within a dream, you remember what it was like to be alive in the land of your birth.
+$dream_random05: You dream of a great tree reaching out through the night. One half of its branches crackle with flames, the others are green with leaves.
+$dream_eikthyr01: You dream of running through a meadow, the sky alight with pale fire. There is a thunder of hoofbeats behind you but when you turn, nothing is there.
+
+You awaken with your heart pounding in your chest.
+$dream_elder01: In your dream, the forest rises before you, dragging the trees upward like a cloak, its dark mass hiding the stars. At the mountain's peak, vast antlers frame the moon...
+$dream_bonemass01: You dream of a hundred ghosts crowding thickly around your bedside, seeking warmth and life until something thumps deep below the ground and they jump like crumbs on a drumskin and are gone.
+$dream_moder01: You dream that you are flying over mountaintops, all of Valheim spread out below you.
+
+As you wheel and dive in the cold air, a great shape soars up past you to block the sun. In the darkness, it speaks. Seek me.
+$dream_yagluth01: In a chamber hung with golden drapes, you kneel before the throne of a veiled king. Sleep is but a mask, he tells you, lifting the veil slowly.
+
+You wake screaming.
+$dream_random06: Amidst the crash of arms, on the dark and glimmering plain of sleep, a face swells snarling before you. Your shield arm hangs limp, your spear is broken. You welcome the cold blade when it comes.
+
+From a dream of death, you awaken to death itself.
+$dream_random07: You dream you are lying on your back in a meadow, gazing upward at the clouds. Your name is nothing, your mind is free of thought. But there is a warm hand in yours.
+
+In the dream, you are laughing. But when you awaken, you find your face damp with tears.
+$dream_random08: On a boat carved from dark wood, beneath ragged sails, you lie with your arms folded across your chest. Blurred faces, like thumbprints on the darkness, croon familiar songs as they push you out to float on a sea as black and flat as glass.
+$dream_random09: You lie on the battlefield, dreaming eyes turned upward to a sky veiled by smoke. The calls of your warriors grow fainter and your eyes close for a second time. Great talons slide beneath you and you feel yourself rising, lifted from your body like a babe from its crib…
+$dream_random10: You fall into the deep well of sleep and dream only of darkness.
+$dream_random11: You dream of a bright hall filled with gracious warriors and fair maidens. The air hums with song, the boards groan under the weight of steaming dishes, the mead flows like water.
+
+You awake slowly with the laughter still ringing in your ears…
+$dream_random12: You sleep in fits and fretful dreams, the weight of the nightmare heavy on your chest. When morning comes, you greet it with relief.
+$dream_random13: Sleep is a river and dreams are live fish. You wake in the morning with your net empty.
+$dream_random14: You dream you are hunting with your companions, running high over green hills and down through mist-haunted valleys. Ahead of you, your prey stumbles and you leap forward, sinking your teeth into warm flesh.
+
+When you wake, the taste of metal lingers in your mouth.
+$dream_random15: You dream you are walking in a snowy wood when you come upon a naked child, sitting against a tree with his eyes closed but his chest moving to breathe. As you kneel beside him, you know he has been sleeping here for many centuries, waiting for you. When you touch his shoulder, you both awaken.
+$dream_random16: You dream of a mighty bear, sleeping deep below the earth in the winter of the world. It turns in its sleep, folds upon folds of flesh and fur. It has no head, no limbs. A vast mass of bear flesh, mercifully quiet.
+$dream_random17: You fall asleep planning your next day's labor and in your dreams you complete it, hewing wood, foraging for food and hunting after swift deer. You return home exhausted but happy, only to awaken and find the day is still ahead of you...

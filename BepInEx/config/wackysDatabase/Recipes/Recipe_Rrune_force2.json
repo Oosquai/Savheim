@@ -1,0 +1,14 @@
+{
+    "name": "Rrune_force2",
+    "clone": true,
+    "clonePrefabName": "rune_force2",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "bonemass_drop:1:0:False",
+        "SilverNecklace:1:1:False",
+        "Iron:4:2:False"
+    ]
+}

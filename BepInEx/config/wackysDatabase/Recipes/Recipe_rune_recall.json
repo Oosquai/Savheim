@@ -1,0 +1,14 @@
+{
+    "name": "rune_recall",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "bonemass_drop:1:0:False",
+        "AmberPearl:4:2:False",
+        "Bloodbag:4:2:False"
+    ]
+}

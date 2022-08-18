@@ -1,0 +1,14 @@
+{
+    "name": "RCauterizingClaws",
+    "clone": true,
+    "clonePrefabName": "CauterizingClaws",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "LinenThread:15:5:True",
+        "RRR_GrigHorn:6:2:True",
+        "Flametal:10:3:True"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "rune_chain_lightning",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "goblin_drop:1:1:False",
+        "Amber:5:2:False",
+        "Coins:100:100:False"
+    ]
+}

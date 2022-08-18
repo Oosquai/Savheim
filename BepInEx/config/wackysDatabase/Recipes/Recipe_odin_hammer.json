@@ -1,0 +1,13 @@
+{
+    "name": "odin_hammer",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "Wood:5:0:False",
+        "Stone:5:0:False"
+    ]
+}

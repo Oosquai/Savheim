@@ -1,0 +1,14 @@
+{
+    "name": "RHelmetLeatherInvisible",
+    "clone": true,
+    "clonePrefabName": "HelmetLeatherInvisible",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeerHide:6:6:True",
+        "GreydwarfEye:3:1:True",
+        "Crystal:3:1:True"
+    ]
+}

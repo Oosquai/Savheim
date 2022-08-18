@@ -1,0 +1,14 @@
+{
+    "name": "rune_blink",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "bonemass_drop:1:0:False",
+        "SurtlingCore:4:1:False",
+        "RRR_GrigHorn:4:2:False"
+    ]
+}

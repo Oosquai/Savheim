@@ -1,0 +1,15 @@
+{
+    "name": "XBow",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "Crystal:10:2:False",
+        "BlackMetal:60:10:False",
+        "FineWood:8:0:False",
+        "LinenThread:20:2:False"
+    ]
+}

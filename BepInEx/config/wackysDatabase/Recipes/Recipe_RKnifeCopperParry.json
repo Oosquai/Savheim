@@ -1,0 +1,14 @@
+{
+    "name": "RKnifeCopperParry",
+    "clone": true,
+    "clonePrefabName": "KnifeCopperParry",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:2:0:True",
+        "Copper:8:4:True",
+        "GreydwarfEye:0:8:True"
+    ]
+}

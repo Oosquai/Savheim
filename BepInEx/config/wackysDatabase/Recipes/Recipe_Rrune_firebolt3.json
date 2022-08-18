@@ -1,0 +1,14 @@
+{
+    "name": "Rrune_firebolt3",
+    "clone": true,
+    "clonePrefabName": "rune_firebolt3",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "bonemass_drop:1:0:False",
+        "Ruby:3:1:False",
+        "Resin:20:5:False"
+    ]
+}

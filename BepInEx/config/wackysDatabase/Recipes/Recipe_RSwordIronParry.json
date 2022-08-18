@@ -1,0 +1,14 @@
+{
+    "name": "RSwordIronParry",
+    "clone": true,
+    "clonePrefabName": "SwordIronParry",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:2:1:True",
+        "Iron:20:10:True",
+        "LeatherScraps:3:2:True"
+    ]
+}

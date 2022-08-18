@@ -1,0 +1,13 @@
+{
+    "name": "MS_hammer",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "Wood:4:1:True",
+        "Stone:4:1:True"
+    ]
+}

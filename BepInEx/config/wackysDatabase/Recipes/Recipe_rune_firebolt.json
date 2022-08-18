@@ -1,0 +1,14 @@
+{
+    "name": "rune_firebolt",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "HardAntler:1:0:False",
+        "Ruby:3:1:False",
+        "Resin:10:5:False"
+    ]
+}

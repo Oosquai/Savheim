@@ -1,0 +1,13 @@
+{
+    "name": "rk_hammer",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "Wood:4:0:False",
+        "Stone:2:0:False"
+    ]
+}

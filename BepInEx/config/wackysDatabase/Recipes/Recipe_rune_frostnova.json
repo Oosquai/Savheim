@@ -1,0 +1,14 @@
+{
+    "name": "rune_frostnova",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DragonTear:2:0:False",
+        "AmberPearl:6:3:False",
+        "FreezeGland:6:3:False"
+    ]
+}

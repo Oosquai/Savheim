@@ -1,0 +1,854 @@
+{
+  // Legendary Items
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  "LegendaryItems": [
+    {
+      "ID": "Dyrnwyn",
+      "Name": "$mod_epicloot_l_dyrnwyn",
+      "Description": "$mod_epicloot_l_dyrnwyn_desc",
+      "EquipFx": "FireAura", 
+      "EquipFxMode": "EquipRoot", 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddFireDamage", "Values": { "MinValue": 36, "MaxValue": 48, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "SleipnirsHoof",
+      "Name": "$mod_epicloot_l_sleipnirshoof",
+      "Description": "$mod_epicloot_l_sleipnirshoof_desc",
+      "EquipFx": "WhiteAura", 
+      "EquipFxMode": "EquipRoot", 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 10, "MaxValue": 14, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "Gungnir",
+      "Name": "$mod_epicloot_l_gungnir",
+      "Description": "$mod_epicloot_l_gungnir_desc",
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Spears" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 20, "MaxValue": 25, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "Mjolnir",
+      "Name": "$mod_epicloot_l_mjolnir",
+      "Description": "$mod_epicloot_l_mjolnir_desc",
+      "EquipFx": "LightningAuraSledge",
+      "EquipFxMode": "EquipRoot", 
+      "Requirements": {
+        "AllowedItemNames": [ "$item_sledge_iron" ]
+      },
+      "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyPhysicalDamage", "Values": { "MinValue": 36, "MaxValue": 44, "Increment": 1 } },
+        { "Type": "AddLightningDamage", "Values": { "MinValue": 25, "MaxValue": 30, "Increment": 1 } },
+        { "Type": "Throwable" },
+        { "Type": "RecallWeapon" }
+      ]
+    },
+    {
+      "ID": "Lindisfarne",
+      "Name": "$mod_epicloot_l_lind",
+      "Description": "$mod_epicloot_l_lind_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Throwable" },
+        { "Type": "RecallWeapon" },
+        { "Type": "Opportunist", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 80, "MaxValue" : 90, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "Gram",
+      "Name": "$mod_epicloot_l_gram",
+      "Description": "$mod_epicloot_l_gram_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "Executioner", "Values": { "MinValue" : 900, "MaxValue" : 1000, "Increment" : 10 } },
+        { "Type": "ModifyPhysicalDamage", "Values": { "MinValue" : 27, "MaxValue" : 30, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "Angurvadal",
+      "Name": "$mod_epicloot_l_angurvadal",
+      "Description": "$mod_epicloot_l_angurvadal_desc",
+      "EquipFx": "WhiteAura", 
+      "EquipFxMode" : "EquipRoot", 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Glowing" },
+        { "Type": "RemoveSpeedPenalty" },
+        { "Type": "Opportunist", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 61, "MaxValue" : 80, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "Laevateinn",
+      "Name": "$mod_epicloot_l_lokis",
+      "Description": "$mod_epicloot_l_lokis_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Throwable" },
+        { "Type": "RecallWeapon" },
+        { "Type": "AddPoisonDamage", "Values": { "MinValue" : 45, "MaxValue" : 55, "Increment" : 1 } },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 90, "MaxValue" : 100, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "NjordsFavor",
+      "Name": "$mod_epicloot_l_njord",
+      "Description": "$mod_epicloot_l_njord_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 10, "MaxValue" : 14, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "ValkyriesBlessing",
+      "Name": "$mod_epicloot_l_valk",
+      "Description": "Angelic fury to smite thine foes.",
+      "EquipFx": "LightningAuraSledge",
+      "EquipFxMode": "EquipRoot", 
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes", "Polearms", "Clubs" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddLightningDamage" },
+        { "Type": "AddFireDamage" },
+        { "Type": "ModifyAttackSpeed" },
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "Skofnung",
+      "Name": "$mod_epicloot_l_skofnung",
+      "Description": "$mod_epicloot_l_skofnung_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+    {
+      "ID": "Hofund",
+      "Name": "$mod_epicloot_l_hofund",
+      "Description": "$mod_epicloot_l_hofund_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 4, "MaxValue" : 4.5, "Increment" : 0.1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+    {
+      "ID": "ShardMace",
+      "Name": "$mod_epicloot_l_shard",
+      "Description": "$mod_epicloot_l_shard_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddFireDamage", "Values": { "MinValue" : 12, "MaxValue" : 21, "Increment" : 1 } },
+        { "Type": "AddFrostDamage", "Values": { "MinValue" : 6, "MaxValue" : 10, "Increment" : 1 } },
+        { "Type": "AddLightningDamage", "Values": { "MinValue" : 7, "MaxValue" : 15, "Increment" : 1 } },
+        { "Type": "AddPoisonDamage", "Values": { "MinValue" : 22, "MaxValue" : 30, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "Bloodmace",
+      "Name": "$mod_epicloot_l_bloodmace",
+      "Description": "$mod_epicloot_l_bloodmace_desc",
+      "Requirements" : {
+        "AllowedItemNames" : [ "$item_mace_needle" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddPiercingDamage", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 4, "MaxValue" : 4.5, "Increment" : 0.1 } },
+        { "Type": "LifeStealLowHealth", "Values": { "MinValue" : 6, "MaxValue" : 8, "Increment" : 0.1 } }
+      ]
+    },
+    {
+      "ID": "GunnarsAtgeir",
+      "Name": "$mod_epicloot_l_gunnar",
+      "Description": "$mod_epicloot_l_gunnar_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Polearms" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddPiercingDamage", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 22, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 20, "MaxValue" : 22, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "SkadiBow",
+      "Name": "$mod_epicloot_l_skadi",
+      "Description": "$mod_epicloot_l_skadi_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 8, "MaxValue" : 13, "Increment" : 1 } },
+        { "Type": "RemoveSpeedPenalty" }
+      ]
+    },
+    {
+      "ID": "UllrBow",
+      "Name": "$mod_epicloot_l_ullr",
+      "Description": "$mod_epicloot_l_ullr_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Riches" },
+        { "Type": "AddFrostDamage", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+    {
+      "ID": "EndlessBow",
+      "Name": "$mod_epicloot_l_endbow",
+      "Description": "$mod_epicloot_l_endbow_desc",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "QuickDraw", "Values": { "MinValue" : 25, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 17, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "Indestructible" }
+      ]
+    },
+
+    //////////////////////////////
+    // Personalized
+    {
+      "ID": "Grace1h",
+      "Name": "Grace's Foot",
+      "Description": "Sometimes agility and speed are more important than strength.  Floppy would be proud.",
+      "EquipFx": "WhiteAura", 
+      "EquipFxMode": "EquipRoot", 
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords", "Clubs" ]
+      },
+      "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "Riches" },
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "AddMovementSkills", "Values": { "MinValue": 25, "MaxValue": 30, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "MfknBearodactyl2h",
+      "Name": "MfknBearodactyl's Epitaph",
+      "Description": "Like a Phoenix from the flames, he will rise from the ashes.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedEffectCount": 3, 
+      "GuaranteedMagicEffects": [
+        { "Type": "Undying" }
+      ]
+    },
+    {
+      "ID": "Slaymate2h",
+      "Name": "Claymate's Slaymore",
+      "Description": "Long ago, a dark cleric with a hollow soul once wielded this massive, lightning-infused blade.",
+      "EquipFx": "LightningAuraSledge",
+      "EquipFxMode": "EquipRoot",
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddLightningDamage", "Values": { "MinValue": 51, "MaxValue": 59, "Increment": 1 } },
+        { "Type": "AddHealthRegen", "Values": { "MinValue": 11, "MaxValue": 19, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "CleverCleaver",
+      "Name": "Clever Crystal Cleaver",
+      "Description": "Lighter, faster, and more precise, this is the clever viking's weapon.",
+      "EquipFx": "WhiteAura",
+      "EquipFxMode": "EquipRoot",
+      "Requirements" : {
+        "AllowedItemNames": [ "$item_battleaxe_crystal" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 225, "MaxValue" : 250, "Increment" : 1 } },
+        { "Type": "ModifyParry", "Values": { "MinValue" : 90, "MaxValue" : 99, "Increment" : 1 } },
+        { "Type": "Opportunist", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "RemoveSpeedPenalty" }
+      ]
+    },
+    {
+      "ID": "HeadsmanAxe",
+      "Name": "The Headsman",
+      "Description": "He thirsts, and your neck runneth over.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes" ],
+        "ExcludedItemNames": [ "$item_battleaxe_crystal" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Executioner", "Values": { "MinValue" : 901, "MaxValue" : 999, "Increment" : 1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 4.5, "MaxValue" : 5.5, "Increment" : 0.1 } }
+      ]
+    },
+    {
+      "ID": "HoodrockBow",
+      "Name": "Hoodrock's Hyper Hunting Hurler of Hurting",
+      "Description": "MORE DOTS MORE DOTS MORE DOTS!",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "QuickDraw" },
+        { "Type": "AddFrostDamage", "Values": { "MinValue" : 11, "MaxValue" : 17, "Increment" : 1 } },
+        { "Type": "AddFireDamage", "Values": { "MinValue" : 11, "MaxValue" : 17, "Increment" : 1 } },
+        { "Type": "AddPoisonDamage", "Values": { "MinValue" : 11, "MaxValue" : 17, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "SlaymateTools",
+      "Name": "Slaymate's Gardening Tools",
+      "Description": "The most comforting work I've ever done.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Tool" ],
+        "ExcludedItemNames": [ "$item_hammer", "$odin_hammer" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Indestructible" },
+        { "Type": "Comfortable", "Values": { "MinValue" : 1, "MaxValue" : 2, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "ModifyStaminaRegen", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "SlaymatePickaxe",
+      "Name": "Slaymate's Gardening Tools",
+      "Description": "The most comforting work I've ever done.",
+      "Requirements" : {
+        "AllowedSkillTypes": [ "Pickaxes" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Indestructible" },
+        { "Type": "Comfortable", "Values": { "MinValue" : 1, "MaxValue" : 2, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "ModifyStaminaRegen", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "BlakeHammer",
+      "Name": "Blake the Builder",
+      "Description": "Rain or shine, night or day...  Must. Keep. Building.",
+      "Requirements" : {
+        "AllowedItemNames" : [ "$item_hammer", "$odin_hammer" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "FreeBuild" },
+        { "Type": "Indestructible" },
+        { "Type": "Waterproof" },
+        { "Type": "Glowing" },
+        { "Type": "AddCarryWeight", "Values": { "MinValue" : 40, "MaxValue" : 60, "Increment" : 5 } }
+      ]
+    },
+    {
+      "ID": "DanTrinket",
+      "Name": "Lou's Finkter",
+      "Description": "All your friends are happy you have one of these.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Utility" ],
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Riches", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
+        { "Type": "AvoidDamageTaken", "Values": { "MinValue" : 7, "MaxValue" : 12, "Increment" : 1 } },
+        { "Type": "ModifyArmorLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 55, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "PlaysSpear",
+      "Name": "Spicy Turkey Jerky Gun",
+      "Description": "If you had this, you'd plays for days, until you suddenly didn't.  We miss you.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Spears" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "RecallWeapon" },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 250, "MaxValue" : 300, "Increment" : 1 } },
+        { "Type": "AddFireDamage", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "SanctuaryShield",
+      "Name": "Sanctuary",
+      "Description": "Come all ye who seek shelter.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Shield" ],
+        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddHealthRegen", "Values": { "MinValue": 6, "MaxValue": 9, "Increment": 1 } },
+        { "Type": "ModifyHealthRegenLowHealth", "Values": { "MinValue": 40, "MaxValue": 60, "Increment": 1 } },
+        { "Type": "ModifyArmorLowHealth", "Values": { "MinValue": 40, "MaxValue": 60, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "StaggerShield",
+      "Name": "Myranmystagger",
+      "Description": "All ye who strike me shall falter.",
+      "Requirements": {
+        "AllowedItemTypes": [ "Shield" ],
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Immovable" },
+        { "Type": "StaggerOnDamageTaken" },
+        { "Type": "ReflectDamage" }
+      ]
+    },
+    {
+      "ID": "MyraclewhipKnife",
+      "Name": "Myraclewhip's Rotten Edge",
+      "Description": "Running out of arrows really stinks, and so does this blade.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddPoisonDamage", "Values": { "MinValue": 21, "MaxValue": 25, "Increment": 1 } },
+        { "Type": "AddFireDamage", "Values": { "MinValue": 16, "MaxValue": 20, "Increment": 1 } },
+        { "Type": "Slow" }
+      ]
+    },
+    {
+      "ID": "BrightPrismaticShard",
+      "Name": "Bright Prismatic Shard",
+      "Description": "Light bounces off this blade into a rainbow of colors.",
+      "Requirements" : {
+        "AllowedItemNames": [ "$item_knife_silver" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddFireDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } },
+        { "Type": "AddLightningDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } },
+        { "Type": "AddPoisonDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } },
+        { "Type": "AddFrostDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "Thrillseeker",
+      "Name": "Thrillseeker's Glory",
+      "Description": "Life is never more precious than when it's just about to end.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes", "Clubs", "Swords", "Knives" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "LifeSteal", "Values": { "MinValue" : 3.1, "MaxValue" : 3.9, "Increment" : 0.1 } },
+        { "Type": "ModifyDamageLowHealth", "Values": { "MinValue" : 25, "MaxValue" : 29, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
+        { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } }
+      ]
+    },
+
+// Tower shield names:  "$item_shield_woodtower", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower"
+
+    //////////////////////////////
+    // Generics
+    {
+      "ID": "GenericSword1h",
+      "Name": "Legendary sword",
+      "Description": "The pointy end goes in the bad guy.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      }
+    },
+    {
+      "ID": "GenericDagger",
+      "Name": "Legendary Dagger",
+      "Description": "Never underestimate the damage a quick blade can do.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
+      }
+    },
+    {
+      "ID": "Generic2h",
+      "Name": "Legendary weapon",
+      "Description": "Bigger is better.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "ExcludedSkillTypes": [ "Pickaxes" ]
+      }
+    },
+    {
+      "ID": "GenericTrinket1",
+      "Description": "So much utility in such a tiny package.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Utility" ]
+      }
+    },
+    {
+      "ID": "GenericTrinket2",
+      "Description": "So much utility in such a tiny package.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Utility" ]
+      }
+    },
+    {
+      "ID": "GenericTools",
+      "Description": "Make this land your home.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Tool" ]
+      }
+    },
+    {
+      "ID": "GenericPickaxe",
+      "Description": "Make this land your home.",
+      "Requirements" : {
+        "AllowedSkillTypes": [ "Pickaxes" ]
+      }
+    },
+    {
+      "ID": "GenericSpear",
+      "Name": "Legendary spear",
+      "Description": "Throw the stabby end at the bad guys.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Spears" ]
+      }
+    },
+    {
+      "ID": "GenericShield",
+      "Name": "Legendary shield",
+      "Description": "The best defense is... well, a good defense, really.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "Shield" ]
+      }
+    },
+
+    {
+      "ID": "DevBoots",
+      "Name": "Developer's Boots",
+      "Description": "You're a cheater if you have these, but you'll probably kill yourself trying to use them anyway.",
+      "Requirements": {
+        "NoRoll": true,
+        "AllowedItemTypes": ["Legs"]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Indestructible" },
+        { "Type": "DoubleJump" },
+        { "Type": "FeatherFall" },
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 300, "MaxValue": 300, "Increment": 1 } },
+        { "Type": "Luck", "Values": { "MinValue": 49, "MaxValue": 49, "Increment": 1 } }
+      ]
+    },
+
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // Legendary Set Items
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    // Heimdall
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "HeimdallTowerShield",
+      "Name": "$mod_epicloot_l_heimdalltowershield",
+      "Description": "$mod_epicloot_l_heimdalltowershield_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Shield" ],
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Immovable" }
+      ]
+    },
+    {
+      "ID": "HeimdallHelmet",
+      "Name": "$mod_epicloot_l_heimdallhelmet",
+      "Description": "$mod_epicloot_l_heimdallhelmet_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Helmet"
+        ]
+      },
+      "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyArmorLowHealth", "Values": { "MinValue": 30, "MaxValue": 35, "Increment": 1 } },
+        { "Type": "ModifyStaminaRegenLowHealth", "Values": { "MinValue": 25, "MaxValue": 30, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "HeimdallChest",
+      "Name": "$mod_epicloot_l_heimdallchest",
+      "Description": "$mod_epicloot_l_heimdallchest_desc",
+//      "TextureReplacements": [ { "ItemID": "ArmorPaddedCuirass", "MainTexture": "PaddedArmorMain_Heimdall", "ChestTex": "PaddedArmorChest_Heimdall" } ],
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Chest"
+        ]
+      },
+      "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyArmor", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } },
+        { "Type": "IncreaseStamina", "Values": { "MinValue": 50, "MaxValue": 60, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "HeimdallLegs",
+      "Name": "$mod_epicloot_l_heimdalllegs",
+      "Description": "$mod_epicloot_l_heimdalllegs_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Legs"
+        ]
+      },
+      "GuaranteedEffectCount": 6, 
+      "GuaranteedMagicEffects": [
+        { "Type": "AddMovementSkills", "Values": { "MinValue": 30, "MaxValue": 40, "Increment": 1 } },
+        { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } }
+      ]
+    },
+
+    // Ragnar
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "RagnarBattleAxe",
+      "Name": "$mod_epicloot_l_ragnarbattleaxe",
+      "Description": "$mod_epicloot_l_ragnarbattleaxe_desc",
+      "EquipFx": "FrostAuraBattleAxe",
+      "EquipFxMode": "EquipRoot", 
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ], 
+        "AllowedSkillTypes": [ "Axes", "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyPhysicalDamage", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } },
+        { "Type": "AddFrostDamage", "Values": { "MinValue": 30, "MaxValue": 35, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "RagnarCape",
+      "Name": "$mod_epicloot_l_ragnarcape",
+      "Description": "$mod_epicloot_l_ragnarcape_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Shoulder"
+        ],
+        "ItemHasArmor" : true
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "RagnarChest",
+      "Name": "$mod_epicloot_l_ragnarchest",
+      "Description": "$mod_epicloot_l_ragnarchest_desc",
+//      "TextureReplacements": [ { "ItemID": "ArmorPaddedCuirass", "MainTexture": "paddedarmortest2_d", "ChestTex": "PaddedArmorChest2_d" } ],
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Chest"
+        ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "RagnarLegs",
+      "Name": "$mod_epicloot_l_ragnarlegs",
+      "Description": "$mod_epicloot_l_ragnarlegs_desc",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Legs"
+        ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+
+    // Lord's Blade Set
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "LordsBladeDagger",
+      "Name": "Dark Silver Tracer",
+      "Description": "Once wielded by the Lord's Blade Ciaran, this highly toxic blade is now a viking implement for those who prefer subtlety.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddPoisonDamage", "Values": { "MinValue": 41, "MaxValue": 49, "Increment": 1 } },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 91, "MaxValue" : 99, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "LordsBladeSword",
+      "Name": "Gold Tracer",
+      "Description": "The famous sword of the Lord's Blade Ciaran, one of Gwyn's Four Knights. For those vikings who prefer more direct confrontation.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Swords" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 20, "MaxValue": 25, "Increment": 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "LordsBladeHelm",
+      "Name": "Porcelain Mask",
+      "Description": "Mask of the Lord's Blade Ciaran, one of Gwyn's Four Knights. Dominance through speed is the way of the Lord's Blade. The futher one trains in this discipline, the greater the preference for lighter, more mobile armor.",
+      "IsSetItem": true, 
+      "Requirements" : {
+        "AllowedItemTypes": [ "Helmet" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "LordsBladeChest",
+      "Name": "Lord's Blade Robe",
+      "Description": "A robe common to all of the Lord's Blades, these deadly women shift nimbly between layers of darkness, etching streaks of gold into the night air, and planting visions of terror into the minds of their targets.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Chest"
+        ]
+      },
+      "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "AvoidDamageTaken" }
+      ]
+    },
+    {
+      "ID": "LordsBladeLegs",
+      "Name": "Lord's Blade Waistcloth",
+      "Description": "Waistcloth common to all of the Lord's Blades. Loosely woven and split elegantly to allow ease of movement for those nimble assassins.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [
+          "Legs"
+        ]
+      },
+      "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "DoubleJump" }
+      ]
+    }
+  ],
+
+  // Legendary Sets
+  ////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+  "LegendarySets": [
+    {
+      "ID": "Heimdall",
+      "Name": "$mod_epicloot_set_heimdall",
+      "LegendaryIDs": [
+        "HeimdallTowerShield",
+        "HeimdallHelmet",
+        "HeimdallChest",
+        "HeimdallLegs"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyBlockPower", "Values": { "MinValue": 200, "MaxValue": 200, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "Bulwark" } },
+        { "Count": 4, "Effect": { "Type": "Undying" } }
+      ]
+    },
+    {
+      "ID": "Ragnar",
+      "Name": "$mod_epicloot_set_ragnar",
+      "LegendaryIDs": [
+        "RagnarBattleAxe",
+        "RagnarCape",
+        "RagnarChest",
+        "RagnarLegs"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddHealthRegen", "Values": { "MinValue": 2, "MaxValue": 2, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyHealthRegen", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "Berserker" } },
+        { "Count": 4, "Effect": { "Type": "FrostDamageAOE", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
+      ]
+    },
+    {
+      "ID": "LordsBlade",
+      "Name": "Lord's Blade Set",
+      "LegendaryIDs": [
+        "LordsBladeDagger",
+        "LordsBladeSword",
+        "LordsBladeHelm",
+        "LordsBladeChest",
+        "LordsBladeLegs"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 4, "MaxValue": 4, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -10, "MaxValue": -10, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 6, "MaxValue": 6, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -16, "MaxValue": -16, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.1, "MaxValue": 0.1, "Increment": 0.5 } } },
+        { "Count": 4, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 9, "MaxValue": 9, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -24, "MaxValue": -24, "Increment": 1 } } }
+      ]
+    }
+  ] 
+}

@@ -1,0 +1,21 @@
+{
+    "name": "MBRaft",
+    "m_name": "$mb_raft",
+    "m_description": "$mb_raft_desc",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Wood:20:1:True",
+        "RoundLog:20:1:True",
+        "Resin:10:1:True",
+        "BronzeNails:20:1:True"
+    ]
+}

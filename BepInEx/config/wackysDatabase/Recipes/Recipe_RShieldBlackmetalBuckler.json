@@ -1,0 +1,13 @@
+{
+    "name": "RShieldBlackmetalBuckler",
+    "clone": true,
+    "clonePrefabName": "ShieldBlackmetalBuckler",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BlackMetal:10:4:True",
+        "FineWood:4:1:True"
+    ]
+}

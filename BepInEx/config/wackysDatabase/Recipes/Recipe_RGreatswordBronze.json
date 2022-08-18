@@ -1,0 +1,14 @@
+{
+    "name": "RGreatswordBronze",
+    "clone": true,
+    "clonePrefabName": "GreatswordBronze",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:10:5:True",
+        "Bronze:30:10:True",
+        "LeatherScraps:4:1:True"
+    ]
+}
