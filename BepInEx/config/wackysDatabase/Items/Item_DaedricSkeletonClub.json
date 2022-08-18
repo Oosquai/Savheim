@@ -1,6 +1,6 @@
 {
     "name": "DaedricSkeletonClub",
-    "m_name": "$item_daedric_skeletonclub",
+    "m_name": "Ornamental $item_daedric_skeletonclub",
     "m_description": "Although beautiful to look at, this is nothing more than a whimsical blacksmith's creative artwork.  Perhaps you could hang it on a wall.",
     "clone": false,
     "clonePrefabName": "",

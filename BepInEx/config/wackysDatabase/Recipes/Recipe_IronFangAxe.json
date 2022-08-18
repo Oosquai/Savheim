@@ -1,0 +1,15 @@
+{
+    "name": "IronFangAxe",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_artisanstation",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Iron:10:5:True",
+        "BlackMetal:10:5:True",
+        "WolfFang:4:2:True",
+        "Wood:4:0:True"
+    ]
+}

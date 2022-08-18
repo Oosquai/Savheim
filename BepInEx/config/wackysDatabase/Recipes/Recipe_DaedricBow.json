@@ -2,8 +2,8 @@
     "name": "DaedricBow",
     "clone": false,
     "clonePrefabName": "",
-    "craftingStation": "$piece_forge",
-    "minStationLevel": 4,
+    "craftingStation": "$piece_artisanstation",
+    "minStationLevel": 1,
     "amount": 1,
     "disabled": false,
     "reqs": [

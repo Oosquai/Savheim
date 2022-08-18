@@ -436,7 +436,7 @@
       "Description": "Come all ye who seek shelter.",
       "Requirements" : {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler" ]
+        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Sage's Book" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddHealthRegen", "Values": { "MinValue": 6, "MaxValue": 9, "Increment": 1 } },
@@ -450,7 +450,7 @@
       "Description": "All ye who strike me shall falter.",
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's Book" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" },

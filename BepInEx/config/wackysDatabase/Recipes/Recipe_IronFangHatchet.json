@@ -1,0 +1,15 @@
+{
+    "name": "IronFangHatchet",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_artisanstation",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Iron:12:6:True",
+        "BlackMetal:8:3:True",
+        "WolfFang:4:2:True",
+        "Wood:2:0:True"
+    ]
+}

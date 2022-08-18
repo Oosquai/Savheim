@@ -502,6 +502,7 @@
       "Loot": [
         { "Item": "ShieldBlackmetal",        "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "ShieldBlackmetalBuckler", "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SageBook01",              "Weight": 1, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "ShieldBlackmetalTower",   "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] }
       ]
     },

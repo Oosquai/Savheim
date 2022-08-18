@@ -29,7 +29,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 85 plugins to load
+[Info   :   BepInEx] 84 plugins to load
 [Info   :   BepInEx] Loading [me 0.0.1]
 [Info   :   BepInEx] Loading [roll 0.0.1]
 [Info   :   BepInEx] Loading [PlantEverything 1.11.5]
@@ -42,36 +42,36 @@
 [Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
 [Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
 [Info   :   BepInEx] Loading [Forgotten Biomes 0.0.18]
-[Info   : Unity Log] 08/17/2022 21:52:08: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/ashlands.veg
+[Info   : Unity Log] 08/18/2022 01:13:34: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/ashlands.veg
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/deepnorth.veg
+[Info   : Unity Log] 08/18/2022 01:13:34: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/deepnorth.veg
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/hiddenlocations.loc
+[Info   : Unity Log] 08/18/2022 01:13:34: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/hiddenlocations.loc
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/disabledlocation.loc
+[Info   : Unity Log] 08/18/2022 01:13:34: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/disabledlocation.loc
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/removelocation.loc
+[Info   : Unity Log] 08/18/2022 01:13:34: Forgotten_Biomes: loaded config from : C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Forgotten_Biomes/removelocation.loc
 
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.9]
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:52:08: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:13:34: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
@@ -113,9 +113,9 @@
 [Info   :Network Fix] MaxSendQueueSize has been changed to 30720
 [Info   :   BepInEx] Loading [CustomWigs 0.0.4]
 [Info   :   BepInEx] Loading [HammerTime 0.1.4]
-[Info   :   BepInEx] Loading [MultiUserChest 0.2.0]
-[Info   :   BepInEx] Loading [ItemHopper 0.1.1]
-[Info   :   BepInEx] Loading [Pressure-Plate 0.6.3]
+[Info   :   BepInEx] Loading [MultiUserChest 0.2.2]
+[Info   :   BepInEx] Loading [ItemHopper 0.2.1]
+[Info   :   BepInEx] Loading [Pressure-Plate 0.6.4]
 [Info   :   BepInEx] Loading [PotionsPlus 4.1.1]
 [Info   :   BepInEx] Loading [SkillInjectorMod 1.1.1]
 [Info   :   BepInEx] Loading [Clutter 0.1.2]
@@ -141,9 +141,9 @@
 [Info   :   BepInEx] Loading [JudesEquipment 2.2.0]
 [Info   :   BepInEx] Loading [Mineshafts 1.0.4]
 [Info   :   BepInEx] Loading [HedgeWalls 1.0.3]
-[Info   :   BepInEx] Loading [FantasyCreatures 0.2.4]
-[Info   :   BepInEx] Loading [Fee Fi Fo Fum 0.1.2]
-[Info   :   BepInEx] Loading [Minotaurs 0.2.0]
+[Info   :   BepInEx] Loading [FantasyCreatures 0.2.3]
+[Info   :   BepInEx] Loading [Fee Fi Fo Fum 0.1.3]
+[Info   :   BepInEx] Loading [Minotaurs 0.2.1]
 [Info   :   BepInEx] Loading [More Player Cloth Colliders 3.0.1]
 [Info   :   BepInEx] Loading [RuneMagic 1.1.10]
 [Info   : Unity Log] Calculated centers for 29 icebergs
@@ -435,6 +435,7 @@
 [Info   :   BepInEx] Loading [Better Pickup Notifications 1.3]
 [Info   :   BepInEx] Loading [Skyheim 1.1.1]
 [Info   :   BepInEx] Loading [SkyheimExtended 1.0.4]
+[Info   :   BepInEx] Loading [Projectile Collision 1.1]
 [Info   :   BepInEx] Loading [OdinBanners 1.0.0]
 [Info   :   BepInEx] Loading [OdinHorse 0.5.1]
 [Info   :   BepInEx] Loading [VikingLibrary 1.0.1]
@@ -442,298 +443,296 @@
 [Info   :   BepInEx] Loading [Minimal Status Effects 1.0.3]
 [Info   :   BepInEx] Loading [ChaosArmor 9.0.13]
 [Info   :   BepInEx] Loading [AddAllFuel 1.6.1]
-[Info   :   BepInEx] Loading [BuildIt 1.6.3]
+[Info   :   BepInEx] Loading [Smoke Collision 1.2]
 [Info   :   BepInEx] Loading [Better Auto Run 1.1.0]
 [Info   :Better Auto Run] Better Auto Run (1.1.0) has started.
 [Info   :   BepInEx] Loading [BlackMetalBuildPieces 0.0.3]
 [Info   :   BepInEx] Loading [TransmogrificationKG 1.5.0]
-[Info   :   BepInEx] Loading [ProjectileCollision 1.0.0.0]
-[Info   :   BepInEx] Loading [SmokeCollision 1.1.0.0]
 [Info   :   BepInEx] Loading [WackysDatabase 1.2.5]
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
 [Info   : Unity Log] WackysDatabase Loaded files
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 08/17/2022 21:53:05: Starting to load scene:start
+[Info   : Unity Log] 08/18/2022 01:14:31: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 08/17/2022 21:53:08: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:08: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:35: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:09: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:10: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:11: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:12: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:13: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:13: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:13: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:13: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:13: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:13: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:14: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:15: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Using environment steamid 892970
+[Info   : Unity Log] 08/18/2022 01:14:42: Using environment steamid 892970
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Using steam APPID:892970
+[Info   : Unity Log] 08/18/2022 01:14:42: Using steam APPID:892970
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 08/18/2022 01:14:42: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Steam initialized, persona:Oosquai
+[Info   : Unity Log] 08/18/2022 01:14:42: Steam initialized, persona:Oosquai
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Using default prefs
+[Info   : Unity Log] 08/18/2022 01:14:42: Using default prefs
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Valheim version:0.209.10@0.9.9.8
+[Info   : Unity Log] 08/18/2022 01:14:42: Valheim version:0.209.10@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
-[Info   : Unity Log] 08/17/2022 21:53:16: Render threading mode:MultiThreaded
+[Info   : Unity Log] 08/18/2022 01:14:42: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:16: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:17: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:17: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:17: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:17: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:17: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:17: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:43: Loaded localization CSV:localization_extra language:English
 
-[Warning: Unity Log] 08/17/2022 21:53:17: Missing audio clip in music respawn
+[Warning: Unity Log] 08/18/2022 01:14:43: Missing audio clip in music respawn
 
-[Info   : Unity Log] 08/17/2022 21:53:17: Checking for installed DLCs
+[Info   : Unity Log] 08/18/2022 01:14:43: Checking for installed DLCs
 
-[Info   : Unity Log] 08/17/2022 21:53:17: DLC:beta installed:False
+[Info   : Unity Log] 08/18/2022 01:14:43: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 08/17/2022 21:53:18: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/18/2022 01:14:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/17/2022 21:53:18: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/18/2022 01:14:44: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
@@ -891,8 +890,6 @@
 [Info   : Unity Log] Load vfx_SageSpirit_attack
 [Info   : Unity Log] Load vfx_SageTerra_hit
 [Info   :SeedTotem.SeedTotemPrefabConfig] Registering Seed Totem Piece
-[Message:BuildIt.BuildIt] Loaded Game VFX and SFX
-[Message:BuildIt.BuildIt] Load Complete.
 [Warning:Jotunn.Managers.PrefabManager] Failed to clone prefab, can not find base prefab with name: ArmorBarbarianBronzeHelmetJD
 [Warning:Jotunn.EventExtensions] Exception thrown at event InvokeOnVanillaItemsAvailable in AddNewSets.AddArmorSets:
 System.NullReferenceException: Object reference not set to an instance of an object
@@ -901,7 +898,7 @@ System.NullReferenceException: Object reference not set to an instance of an obj
   at Terraheim.Armor.AddNewSets.AddArmorSets () [0x00165] in <7bbaa1818a6a412e925b79f46edff69c>:0 
   at Jotunn.EventExtensions.SafeInvoke (System.Action events) [0x00018] in <862b768c0ee94c6cbd7f91baf552f94c>:0 
 [Info   :Jotunn.Managers.KitbashManager] Applying Kitbash in 1 objects
-[Info   :Jotunn.Managers.ItemManager] Adding 260 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 259 custom items to the ObjectDB
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
@@ -1422,7 +1419,6 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [Better Trader] Loaded conversion [Sage Ice Staff]/[SageIceStaff] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Sage Lightning Staff]/[SageLightningStaff] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Sage Dark Staff]/[SageDarkStaff] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$ImprovedHammer]/[ImprovedHammer] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_leather_t1]/[TrollreinforcedFyrdSkullcap] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_leather_t2]/[BronzereinforcedFyrdSkullcap] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_leather_t3]/[IronreinforcedFyrdSkullcap] and added it to ObjectDBCache!!
@@ -1527,36 +1523,36 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [Better Trader] Loaded conversion [$mod_epicloot_assets_goldbountytoken]/[GoldBountyToken] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_runemagic_runefocus]/[RuneFocus] and added it to ObjectDBCache!!
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 08/17/2022 21:53:27: UI Group status changed Menu = True
+[Info   : Unity Log] 08/18/2022 01:14:50: UI Group status changed Menu = True
 
-[Info   : Unity Log] 08/17/2022 21:53:29: UI Group status changed Menu = True
+[Info   : Unity Log] 08/18/2022 01:14:52: UI Group status changed Menu = True
 
-[Info   : Unity Log] 08/17/2022 21:53:34: FOund selected Start game
+[Info   : Unity Log] 08/18/2022 01:14:55: FOund selected Start game
 
-[Info   : Unity Log] 08/17/2022 21:53:34: show character selection
+[Info   : Unity Log] 08/18/2022 01:14:55: show character selection
 
-[Info   : Unity Log] 08/17/2022 21:53:34: OnCharacterStart
+[Info   : Unity Log] 08/18/2022 01:14:56: OnCharacterStart
 
 [Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.0085137
+[Message:Spawn That!] Config loading took: 00:00:00.0087326
 [Message:Spawn That!] Loading simple configurations
 [Message:Spawn That!] Loading world spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.2571041
+[Message:Spawn That!] Config loading took: 00:00:00.2558188
 [Warning:Spawn That!] Failed to parse faction 'SwampMonsters'
-[Info   : Unity Log] 08/17/2022 21:53:49: Steam initialized, persona:Oosquai
+[Info   : Unity Log] 08/18/2022 01:15:10: Steam initialized, persona:Oosquai
 
-[Info   : Unity Log] 08/17/2022 21:53:49: Using default prefs
+[Info   : Unity Log] 08/18/2022 01:15:10: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
-[Info   : Unity Log] 08/17/2022 21:53:49: Loading player profile testies
+[Info   : Unity Log] 08/18/2022 01:15:10: Loading player profile testies
 
-[Info   : Unity Log] 08/17/2022 21:53:49: isModded: True
+[Info   : Unity Log] 08/18/2022 01:15:10: isModded: True
 
-[Info   : Unity Log] 08/17/2022 21:53:49: Zonesystem Awake 909
+[Info   : Unity Log] 08/18/2022 01:15:10: Zonesystem Awake 773
 
-[Info   : Unity Log] 08/17/2022 21:53:49: DungeonDB Awake 909
+[Info   : Unity Log] 08/18/2022 01:15:10: DungeonDB Awake 773
 
-[Info   : Unity Log] 08/17/2022 21:53:49: Steam initialized, persona:Oosquai
+[Info   : Unity Log] 08/18/2022 01:15:10: Steam initialized, persona:Oosquai
 
 [Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
@@ -1588,14 +1584,14 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] Registered 'org.bepinex.plugins.dualwield ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'Resurrection ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'TargetPortal ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'projectile_collision ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'OdinBanners ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'Raelaziel.OdinBanners PieceManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'Raelaziel.OdinHorse ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'valheim.jere.projectile_collision ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'valheim.jere.smoke_collision ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'smoke_collision ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'WackyMole.WackysDatabase ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
@@ -1604,10 +1600,10 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] Registered 'org.bepinex.plugins.odinsbarrelride PieceManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'ReepusDeepusDelmeepus4902761.ChaosArmor ItemManager ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] ZNetScene_Awake_Patch ran
-[Info   :Jotunn.Managers.PrefabManager] Adding 1036 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.PrefabManager] Adding 824 custom prefabs to the ZNetScene
 [Info   :Jotunn.Managers.CreatureManager] Adding 26 custom creatures
-[Info   :Jotunn.Managers.ItemManager] Adding 260 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 233 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 259 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 232 custom recipes to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 77 custom status effects to the ObjectDB
 [Info   :Jotunn.Managers.ItemManager] Adding 5 custom item conversions
 [Warning:RRRMonsters] True
@@ -1651,7 +1647,7 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   :Jotunn.Managers.PieceManager] Adding 557 custom pieces to the PieceTables
+[Info   :Jotunn.Managers.PieceManager] Adding 347 custom pieces to the PieceTables
 [Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
 [Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
 [Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
@@ -1751,22 +1747,22 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
 [Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
 [Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Savheim_enemies\rrrmonsters.custom.ForestSpider.json
-[Info   : Unity Log] 08/17/2022 21:53:54: Audioman already exist, destroying self
+[Info   : Unity Log] 08/18/2022 01:15:15: Audioman already exist, destroying self
 
-[Info   : Unity Log] 08/17/2022 21:53:54: Checking for installed DLCs
+[Info   : Unity Log] 08/18/2022 01:15:15: Checking for installed DLCs
 
-[Info   : Unity Log] 08/17/2022 21:53:54: DLC:beta installed:False
+[Info   : Unity Log] 08/18/2022 01:15:15: DLC:beta installed:False
 
 [Info   : Unity Log] [Better Trader] Initializing UI!
 [Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 0
 [Info   : Unity Log] CustomDreamTexts Loaded 24 dreams
 [Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] 08/17/2022 21:53:57: Zonesystem Start 909
+[Info   : Unity Log] 08/18/2022 01:15:18: Zonesystem Start 773
 
-[Info   : Unity Log] 08/17/2022 21:53:58: Added 3 locations from locations_cp1
+[Info   : Unity Log] 08/18/2022 01:15:19: Added 3 locations from locations_cp1
 
-[Info   : Unity Log] 08/17/2022 21:53:58: Added 1 locations from locations_mountaincaves
+[Info   : Unity Log] 08/18/2022 01:15:19: Added 1 locations from locations_mountaincaves
 
 [Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
 [Info   : Unity Log] ZoneSystem_Start_Patch ran
@@ -1781,23 +1777,23 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] Skipping BossStone_TheElder
 [Info   : Unity Log] Skipping BossStone_Eikthyr
 [Info   : Unity Log] Cached water surface vertex order
-[Info   : Unity Log] 08/17/2022 21:53:59: DungeonDB Start 909
+[Info   : Unity Log] 08/18/2022 01:15:19: DungeonDB Start 773
 
-[Info   : Unity Log] 08/17/2022 21:54:00: Load world: testiesJuly2022 (testiesJuly2022)
+[Info   : Unity Log] 08/18/2022 01:15:21: Load world: testiesJuly2022 (testiesJuly2022)
 
-[Info   : Unity Log] 08/17/2022 21:54:00: Loading 318544 zdos , my id 2793087034 data version:28
+[Info   : Unity Log] 08/18/2022 01:15:21: Loading 318473 zdos , my id 3389523765 data version:28
 
-[Info   : Unity Log] 08/17/2022 21:54:01: Loaded 100000 dead zdos
+[Info   : Unity Log] 08/18/2022 01:15:22: Loaded 100000 dead zdos
 
-[Info   : Unity Log] 08/17/2022 21:54:01: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 08/18/2022 01:15:22: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 08/17/2022 21:54:01: Loaded 7439 locations
+[Info   : Unity Log] 08/18/2022 01:15:22: Loaded 7439 locations
 
-[Info   : Unity Log] 08/17/2022 21:54:09: Unpacking compressed mapdata 8781
+[Info   : Unity Log] 08/18/2022 01:15:30: Unpacking compressed mapdata 8781
 
-[Info   : Unity Log] 08/17/2022 21:54:18: Starting respawn
+[Info   : Unity Log] 08/18/2022 01:15:31: Starting respawn
 
-[Info   : Unity Log] 08/17/2022 21:54:18: tip:$loadscreen_tip24
+[Info   : Unity Log] 08/18/2022 01:15:31: tip:$loadscreen_tip22
 
 [Warning:WackysDatabase] You Will be kicked from Multiplayer Servers! 0.0.1
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for ancient_sage_core 
@@ -2186,6 +2182,9 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Removing recipe for DeathBlade from the game
 [Info   : Unity Log] WackysDatabase Setting Recipe for HeadElf
 [Info   : Unity Log] WackysDatabase Removing recipe for HeadElf from the game
+[Info   : Unity Log] WackysDatabase Setting Recipe for IronFangAxe
+[Info   : Unity Log] WackysDatabase Setting Recipe for IronFangBattleAxe
+[Info   : Unity Log] WackysDatabase Setting Recipe for IronFangHatchet
 [Info   : Unity Log] WackysDatabase Setting Recipe for MS_hammer
 [Info   : Unity Log] WackysDatabase Removing recipe for MS_hammer from the game
 [Info   : Unity Log] WackysDatabase Setting Recipe for NeedleBlade
@@ -2207,8 +2206,7 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeFlame
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeIronParry
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeSilverParry
-[Info   : Unity Log] WackysDatabase Setting Recipe for rk_hammer
-[Info   : Unity Log] WackysDatabase Removing recipe for rk_hammer from the game
+[Info   : Unity Log] WackysDatabase maybe null rk_hammer Should not get here
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RMaceBlackmetalBlock
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RMaceBronzeBlock
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RMaceIronBlock
@@ -2244,6 +2242,12 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Setting Recipe for rune_recall
 [Info   : Unity Log] WackysDatabase Setting Recipe for rune_travel
 [Info   : Unity Log] WackysDatabase Setting Recipe for rune_warmth
+[Info   : Unity Log] WackysDatabase Setting Recipe for SageBook02
+[Info   : Unity Log] WackysDatabase Removing recipe for SageBook02 from the game
+[Info   : Unity Log] WackysDatabase Setting Recipe for SageBook03
+[Info   : Unity Log] WackysDatabase Removing recipe for SageBook03 from the game
+[Info   : Unity Log] WackysDatabase Setting Recipe for SageBook04
+[Info   : Unity Log] WackysDatabase Removing recipe for SageBook04 from the game
 [Info   : Unity Log] WackysDatabase Setting Recipe for SageDarkStaff
 [Info   : Unity Log] WackysDatabase Setting Recipe for SageFireStaff
 [Info   : Unity Log] WackysDatabase Setting Recipe for SageHolyStaff
@@ -2255,21 +2259,23 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Removing recipe for ShieldSilverDagger from the game
 [Info   : Unity Log] WackysDatabase maybe null XBow Should not get here
 [Info   : Unity Log] WackysDatabase  You did reload LOCAL Files
-[Info   : Unity Log] 08/17/2022 21:54:22: Force generaeting hmap (0.0, 0.0, 64.0)
+[Info   : Unity Log] 08/18/2022 01:15:35: Force generaeting hmap (0.0, 0.0, 64.0)
 
-[Info   : Unity Log] 08/17/2022 21:54:22: Force generaeting hmap (-64.0, 0.0, 0.0)
+[Info   : Unity Log] 08/18/2022 01:15:35: Force generaeting hmap (-64.0, 0.0, 0.0)
 
-[Info   : Unity Log] 08/17/2022 21:54:22: Force generaeting hmap (0.0, 0.0, 0.0)
+[Info   : Unity Log] 08/18/2022 01:15:35: Force generaeting hmap (0.0, 0.0, 0.0)
 
-[Info   : Unity Log] 08/17/2022 21:54:22: Force generaeting hmap (-64.0, 0.0, 64.0)
+[Info   : Unity Log] 08/18/2022 01:15:35: Force generaeting hmap (-64.0, 0.0, 64.0)
 
-[Info   : Unity Log] 08/17/2022 21:54:22: Force generaeting hmap (128.0, 0.0, -64.0)
+[Info   : Unity Log] 08/18/2022 01:15:36: Force generaeting hmap (-128.0, 0.0, -64.0)
 
-[Info   : Unity Log] 08/17/2022 21:54:22: Force generaeting hmap (128.0, 0.0, 128.0)
+[Info   : Unity Log] 08/18/2022 01:15:36: Force generaeting hmap (128.0, 0.0, -64.0)
 
-[Info   : Unity Log] 08/17/2022 21:54:22: Force generaeting hmap (128.0, 0.0, 192.0)
+[Info   : Unity Log] 08/18/2022 01:15:36: Force generaeting hmap (128.0, 0.0, 128.0)
 
-[Info   : Unity Log] 08/17/2022 21:54:26: Spawned after 8.019994
+[Info   : Unity Log] 08/18/2022 01:15:36: Force generaeting hmap (128.0, 0.0, 192.0)
+
+[Info   : Unity Log] 08/18/2022 01:15:40: Spawned after 8.019994
 
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
 [Info   : Unity Log] Caching server config
@@ -2278,180 +2284,462 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] Sending server config to 0 clients
 [Info   : Unity Log] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 08/17/2022 21:54:26: Queue unlock msg:$msg_newrecipe:PickaxeBlackmetal
+[Info   : Unity Log] 08/18/2022 01:15:40: Minimap: Adding unique location (-3.9, 56.6, 6.2)
 
-[Info   : Unity Log] 08/17/2022 21:54:26: Minimap: Adding unique location (-3.9, 56.6, 6.2)
+[Info   : Unity Log] 08/18/2022 01:16:26: Spawned Greydwarf x 1
 
-[Info   : Unity Log] 08/17/2022 21:54:44: Setting selected recipe 0
+[Info   : Unity Log] 08/18/2022 01:16:26: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 08/18/2022 01:16:42: Setting selected recipe 0
 
 [Message:MultiCraft] Creating new plus button
 [Message:MultiCraft] Creating new minus button
 [Message:MultiCraft] CreatingNewAmountText
-[Info   : Unity Log] 08/17/2022 21:54:44: UI Group status changed root = True
+[Info   : Unity Log] 08/18/2022 01:16:42: UI Group status changed root = True
 
-[Info   : Unity Log] 08/17/2022 21:54:44: UI Group status changed Player = True
-
-[Info   : Unity Log] 08/17/2022 21:54:48: drop all 1  1
+[Info   : Unity Log] 08/18/2022 01:16:42: UI Group status changed Player = True
 
 [Info   : Unity Log] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 08/17/2022 21:54:53: Setting selected recipe 0
-
-[Info   : Unity Log] 08/17/2022 21:54:53: UI Group status changed root = True
-
-[Info   : Unity Log] 08/17/2022 21:54:53: UI Group status changed Player = True
-
 [Info   : Unity Log] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
 [Info   : Unity Log] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
 [Info   : Unity Log] CraftingFilter updating recipes
-[Info   : Unity Log] 08/17/2022 21:55:47: Setting selected recipe 0
+[Info   : Unity Log] 08/18/2022 01:16:48: Setting selected recipe 0
 
-[Info   : Unity Log] 08/17/2022 21:55:47: UI Group status changed root = True
+[Info   : Unity Log] 08/18/2022 01:16:48: UI Group status changed root = True
 
-[Info   : Unity Log] 08/17/2022 21:55:47: UI Group status changed Player = True
+[Info   : Unity Log] 08/18/2022 01:16:48: UI Group status changed Player = True
 
-[Info   : Unity Log] 08/17/2022 21:56:06: Setting selected recipe 67
-
-[Info   : Unity Log] 08/17/2022 21:56:08: Setting selected recipe 66
-
-[Info   : Unity Log] 08/17/2022 21:56:11: Setting selected recipe 67
-
-[Info   : Unity Log] 08/17/2022 21:56:13: Setting selected recipe 68
-
-[Info   : Unity Log] 08/17/2022 21:56:14: Setting selected recipe 69
-
-[Info   : Unity Log] 08/17/2022 21:56:35: Setting selected recipe 143
-
-[Info   : Unity Log] 08/17/2022 21:56:36: Setting selected recipe 144
-
-[Info   : Unity Log] 08/17/2022 21:56:37: Setting selected recipe 144
-
-[Info   : Unity Log] 08/17/2022 21:56:37: Setting selected recipe 145
-
-[Info   : Unity Log] 08/17/2022 21:56:39: Setting selected recipe 146
-
-[Info   : Unity Log] 08/17/2022 21:56:39: Setting selected recipe 145
-
-[Info   : Unity Log] 08/17/2022 21:56:40: Setting selected recipe 144
-
-[Info   : Unity Log] 08/17/2022 21:56:40: Setting selected recipe 143
-
-[Info   : Unity Log] 08/17/2022 21:56:50: Setting selected recipe 134
-
-[Info   : Unity Log] 08/17/2022 21:57:05: Setting selected recipe 134
-
-[Info   : Unity Log] 08/17/2022 21:57:07: Setting selected recipe 135
-
-[Info   : Unity Log] 08/17/2022 21:57:08: Setting selected recipe 136
-
-[Info   : Unity Log] 08/17/2022 21:57:09: Setting selected recipe 134
-
-[Info   : Unity Log] 08/17/2022 21:57:11: Setting selected recipe 135
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-VariantDialog.Setup (ItemDrop+ItemData item) (at <94f274a921864d9db4f1d2703c897047>:0)
-InventoryGui.OnShowVariantSelection () (at <94f274a921864d9db4f1d2703c897047>:0)
-UnityEngine.Events.InvokableCall.Invoke () (at <c9fb31c2eee14ce4aeb36e4c61e154d8>:0)
-UnityEngine.Events.UnityEvent.Invoke () (at <c9fb31c2eee14ce4aeb36e4c61e154d8>:0)
-UnityEngine.UI.Button.Press () (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.EventSystems.EventSystem:Update()
-
-[Info   : Unity Log] 08/17/2022 21:57:12: UI Group status changed root = False
-
-[Info   : Unity Log] 08/17/2022 21:57:12: UI Group status changed Player = False
-
-[Info   : Unity Log] 08/17/2022 21:57:13: UI Group status changed root = True
-
-[Info   : Unity Log] 08/17/2022 21:57:13: UI Group status changed Player = True
-
-[Info   : Unity Log] 08/17/2022 21:57:14: Setting selected recipe 134
-
-[Info   : Unity Log] 08/17/2022 21:57:16: Setting selected recipe 135
-
-[Info   : Unity Log] 08/17/2022 21:57:17: Setting selected recipe 136
-
-[Info   : Unity Log] 08/17/2022 21:57:17: Setting selected recipe 137
-
-[Error  : Unity Log] IndexOutOfRangeException: Index was outside the bounds of the array.
-Stack trace:
-VariantDialog.Setup (ItemDrop+ItemData item) (at <94f274a921864d9db4f1d2703c897047>:0)
-InventoryGui.OnShowVariantSelection () (at <94f274a921864d9db4f1d2703c897047>:0)
-UnityEngine.Events.InvokableCall.Invoke () (at <c9fb31c2eee14ce4aeb36e4c61e154d8>:0)
-UnityEngine.Events.UnityEvent.Invoke () (at <c9fb31c2eee14ce4aeb36e4c61e154d8>:0)
-UnityEngine.UI.Button.Press () (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.UI.Button.OnPointerClick (UnityEngine.EventSystems.PointerEventData eventData) (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute (UnityEngine.EventSystems.IPointerClickHandler handler, UnityEngine.EventSystems.BaseEventData eventData) (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.EventSystems.ExecuteEvents.Execute[T] (UnityEngine.GameObject target, UnityEngine.EventSystems.BaseEventData eventData, UnityEngine.EventSystems.ExecuteEvents+EventFunction`1[T1] functor) (at <67859b8eac9e4f3b99606821e32b26c6>:0)
-UnityEngine.EventSystems.EventSystem:Update()
-
-[Info   : Unity Log] 08/17/2022 21:57:18: UI Group status changed root = False
-
-[Info   : Unity Log] 08/17/2022 21:57:18: UI Group status changed Player = False
-
-[Info   : Unity Log] 08/17/2022 21:57:18: UI Group status changed VariantDialog = True
-
-[Info   : Unity Log] 08/17/2022 21:57:21: UI Group status changed root = True
-
-[Info   : Unity Log] 08/17/2022 21:57:21: UI Group status changed Player = True
-
-[Info   : Unity Log] 08/17/2022 21:57:22: Setting selected recipe 137
-
-[Info   : Unity Log] 08/17/2022 21:57:23: Setting selected recipe 134
-
-[Info   : Unity Log] 08/17/2022 21:57:31: Setting selected recipe 135
-
-[Info   : Unity Log] 08/17/2022 21:57:32: Setting selected recipe 134
-
-[Info   : Unity Log] 08/17/2022 21:57:36: Queue unlock msg:$msg_newitem:Sage's Book
-
-[Info   :Terraheim.Log] Crafter Name from Add Item Patch<|c|>Testies<|u|>af1ca2fe-4646-436e-b7b8-85f7b7cc60a5
 [Info   : Unity Log] CraftingFilter updating recipes
-[Info   : Unity Log] 08/17/2022 21:57:37: Setting selected recipe 328
+[Info   : Unity Log] 08/18/2022 01:16:53: Setting selected recipe 0
 
-[Info   : Unity Log] 08/17/2022 21:57:39: Setting selected recipe 328
+[Info   : Unity Log] 08/18/2022 01:16:53: UI Group status changed root = True
 
-[Info   : Unity Log] 08/17/2022 21:57:40: UI Group status changed root = True
+[Info   : Unity Log] 08/18/2022 01:16:53: UI Group status changed Player = True
 
-[Info   : Unity Log] 08/17/2022 21:57:40: UI Group status changed Player = True
+[Info   : Unity Log] CraftingFilter updating recipes
+[Info   : Unity Log] 08/18/2022 01:16:58: Setting selected recipe 0
+
+[Info   : Unity Log] 08/18/2022 01:16:59: UI Group status changed root = True
+
+[Info   : Unity Log] 08/18/2022 01:16:59: UI Group status changed Player = True
+
+[Info   : Unity Log] CraftingFilter updating recipes
+[Info   : Unity Log] 08/18/2022 01:17:08: Setting selected recipe 0
+
+[Info   : Unity Log] 08/18/2022 01:17:09: UI Group status changed root = True
+
+[Info   : Unity Log] 08/18/2022 01:17:09: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/18/2022 01:18:40: Setting selected recipe 0
+
+[Info   : Unity Log] 08/18/2022 01:18:40: UI Group status changed root = True
+
+[Info   : Unity Log] 08/18/2022 01:18:40: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/18/2022 01:18:42: Setting selected recipe 0
+
+[Info   : Unity Log] 08/18/2022 01:18:44: Setting selected recipe 0
 
 [Info   : Unity Log] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 08/17/2022 21:58:09: Spawned Greydwarf x 1
+[Info   : Unity Log] 08/18/2022 01:18:50: Spawned Boar x 1
 
-[Info   : Unity Log] 08/17/2022 22:00:42: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 08/18/2022 01:18:50: Spawned Skeleton x 2
 
-[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 0
-[Info   : Unity Log] 08/17/2022 22:00:43: Game - OnApplicationQuit
+[Info   : Unity Log] 08/18/2022 01:18:50: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 08/18/2022 01:18:57: Force generaeting hmap (128.0, 0.0, 128.0)
+
+[Info   : Unity Log] 08/18/2022 01:18:57: Force generaeting hmap (128.0, 0.0, 192.0)
+
+[Info   : Unity Log] 08/18/2022 01:18:59: Spawned Boar x 1
+
+[Info   : Unity Log] 08/18/2022 01:18:59: Spawned Greyling x 1
+
+[Info   : Unity Log] 08/18/2022 01:18:59: Spawned MS_Pickable_Leafs x 2
+
+[Info   : Unity Log] 08/18/2022 01:18:59: Spawned MS_Pickable_Leafs x 6
+
+[Info   : Unity Log] 08/18/2022 01:18:59: Spawned Beech1 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned Deer x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned Skeleton x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned Goblin x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned MS_Pickable_Leafs x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned MS_Pickable_Leafs x 5
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned Birch2 x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:07: Spawned Birch2 x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:11: Placed locations in zone 7,-3  duration 10.4162 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:11: Placed locations in zone 7,-1  duration 17.8552 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned Boar x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned Greyling x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned Greyling x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned MS_Pickable_Leafs x 8
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned MS_Pickable_Leafs x 7
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned MS_Pickable_Leafs x 5
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Spawned Birch2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:12: Placed locations in zone 7,4  duration 7.4402 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:14: Placed locations in zone 8,2  duration 0.9924 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:14: Placed locations in zone 8,4  duration 0.4958 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:17: Placed locations in zone 9,4  duration 0.496 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:19: Placed locations in zone 6,6  duration 4.4641 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:19: Placed locations in zone 7,6  duration 0.4958 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Deer x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Deer x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Neck x 4
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Seagal x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Seagal x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Fish1 x 4
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Fish2 x 4
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned MS_Pickable_Leafs x 6
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned MS_Pickable_Leafs x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:27: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Boar x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Boar x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Neck x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Fish1 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Skeleton x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Goblin x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Greyling x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned MS_Pickable_Leafs x 4
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned MS_Pickable_Leafs x 9
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:30: Placed locations in zone 11,2  duration 0.4963 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:31: Placed locations in zone 11,3  duration 4.4636 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:31: Placed locations in zone 11,6  duration 0 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:38: Setting selected recipe 0
+
+[Info   : Unity Log] 08/18/2022 01:19:38: UI Group status changed root = True
+
+[Info   : Unity Log] 08/18/2022 01:19:38: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Placed locations in zone 12,-2  duration 2.4804 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Loading dungeon
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Dungeon loaded 0
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Dungeon load time 1.9842 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Generating DG_ForestCrypt(Clone), Seed: -765524153, Bounds diff: (-34.6, -32.0, -28.7) / (29.4, 32.0, 35.3)
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Available rooms:18
+
+[Info   : Unity Log] 08/18/2022 01:19:39: To place:40
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Connections 4
+
+[Info   : Unity Log] 08/18/2022 01:19:39: placed 4 doors
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Placed 32 rooms
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Dungeon generated with seed -765524153 and hash 239053371
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Placed locations in zone 12,0  duration 46.128 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:39: Placed locations in zone 12,4  duration 0 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:40: Placed locations in zone 12,6  duration 2.4799 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Deer x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Boar x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Neck x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Seagal x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Seagal x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Greyling x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned MS_Pickable_Leafs x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned MS_Pickable_Leafs x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Birch2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:41: Spawned Birch2 x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:47: Placed locations in zone 6,7  duration 3.472 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:48: Placed locations in zone 10,7  duration 2.4797 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:48: Placed locations in zone 12,7  duration 6.4483 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:50: Spawned MS_Pickable_Leafs x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:50: Spawned MS_Pickable_Leafs x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:50: Spawned MS_Pickable_Leafs x 4
+
+[Info   : Unity Log] 08/18/2022 01:19:50: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:50: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:19:50: Spawned Birch2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:52: Placed locations in zone 9,8  duration 0 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Placed locations in zone 11,8  duration 2.4803 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Placed locations in zone 12,8  duration 0 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Deer x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Neck x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Seagal x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Seagal x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Skeleton x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Greyling x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned MS_Pickable_Leafs x 7
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned MS_Pickable_Leafs x 5
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Birch1 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:53: Spawned Birch2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:55: Placed locations in zone 6,9  duration 0 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:55: Placed locations in zone 7,9  duration 0 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:55: Placed locations in zone 9,9  duration 0.496 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:55: Placed locations in zone 12,9  duration 29.7604 ms
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Deer x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Boar x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Boar x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Neck x 2
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Fish1 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned MS_Pickable_Leafs x 9
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned MS_Pickable_Leafs x 3
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned MS_Pickable_Leafs x 5
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Birch1 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Birch2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:19:58: Spawned Birch2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:00: Placed locations in zone 13,5  duration 0 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:01: Placed locations in zone 7,10  duration 2.9759 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:02: Placed locations in zone 8,10  duration 0.4963 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Deer x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Boar x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Neck x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Neck x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Neck x 2
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Seagal x 2
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Fish1 x 4
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Fish2 x 3
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Fish2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Skeleton x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned MS_Pickable_Leafs x 4
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned MS_Pickable_Leafs x 5
+
+[Info   : Unity Log] 08/18/2022 01:20:04: Spawned Birch2 x 0
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Deer x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Neck x 2
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Neck x 2
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Seagal x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Seagal x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Greyling x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned RRR_Hostile_T1 x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned MS_Pickable_Leafs x 6
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Spawned Birch2 x 1
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Placed locations in zone 6,11  duration 0.9918 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Loading dungeon
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Dungeon loaded 0
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Dungeon load time 1.9845 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Generating DG_ForestCrypt(Clone), Seed: -765606121, Bounds diff: (-29.9, -32.0, -40.6) / (34.1, 32.0, 23.4)
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Available rooms:18
+
+[Info   : Unity Log] 08/18/2022 01:20:06: To place:40
+
+[Info   : Unity Log] 08/18/2022 01:20:06: Connections 4
+
+[Info   : Unity Log] 08/18/2022 01:20:07: placed 6 doors
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Placed 29 rooms
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Dungeon generated with seed -765606121 and hash -1233703666
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Placed locations in zone 7,11  duration 33.7279 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Placed locations in zone 8,11  duration 18.8483 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Placed locations in zone 10,11  duration 1.4884 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Force generaeting hmap (448.0, 0.0, 576.0)
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Force generaeting hmap (704.0, 0.0, 576.0)
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Placed locations in zone 12,11  duration 10.9122 ms
+
+[Info   : Unity Log] 08/18/2022 01:20:07: Placed locations in zone 13,11  duration 3.4722 ms
+
+[Info   :FastTeleport] Set teleport timer to 8
+[Info   : Unity Log] 08/18/2022 01:20:20: Force generaeting hmap (128.0, 0.0, -128.0)
+
+[Info   : Unity Log] 08/18/2022 01:20:35: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 08/18/2022 01:20:35: Game - OnApplicationQuit
 
 [Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly MMHOOK_assembly_valheim, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
   at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
   at HarmonyLib.AccessTools.GetTypesFromAssembly (System.Reflection.Assembly assembly) [0x0000d] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
-[Info   : Unity Log] 08/17/2022 22:00:43: Shuting down
+[Info   : Unity Log] 08/18/2022 01:20:35: Shuting down
 
-[Info   : Unity Log] 08/17/2022 22:00:43: Uncompressed size 8390057
+[Info   : Unity Log] 08/18/2022 01:20:35: Uncompressed size 8390057
 
-[Info   : Unity Log] 08/17/2022 22:00:43: Compressed size 8781
+[Info   : Unity Log] 08/18/2022 01:20:36: Compressed size 8781
 
-[Info   : Unity Log] 08/17/2022 22:00:43: Steam Cloud Save: 58041 bytes. /characters/testies.fch.new
+[Info   : Unity Log] 08/18/2022 01:20:36: Steam Cloud Save: 57439 bytes. /characters/testies.fch.new
 
-[Info   : Unity Log] 08/17/2022 22:00:43: Steam Cloud Move: 57967 bytes. /characters/testies.fch -> /characters/testies.fch.old
+[Info   : Unity Log] 08/18/2022 01:20:36: Steam Cloud Move: 57439 bytes. /characters/testies.fch -> /characters/testies.fch.old
 
-[Info   : Unity Log] 08/17/2022 22:00:43: Steam Cloud Move: 58041 bytes. /characters/testies.fch.new -> /characters/testies.fch
+[Info   : Unity Log] 08/18/2022 01:20:36: Steam Cloud Move: 57439 bytes. /characters/testies.fch.new -> /characters/testies.fch
 
 [Warning:WackysDatabase] Logoff? So reset - character will look empty if using clone gear
 [Info   : Unity Log] WackysDatabase All cloned Objects destoryed
-[Info   : Unity Log] 08/17/2022 22:00:43: ZNet Shutdown
+[Info   : Unity Log] 08/18/2022 01:20:36: ZNet Shutdown
 
-[Info   : Unity Log] 08/17/2022 22:00:44: clone 275
+[Info   : Unity Log] 08/18/2022 01:20:36: clone 273
 
-[Info   : Unity Log] 08/17/2022 22:00:45: Sending disconnect msg
+[Info   : Unity Log] 08/18/2022 01:20:37: Sending disconnect msg
+
+[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 0
+[Info   : Unity Log] 08/18/2022 01:20:40: FOund selected Button_yes
+
+[Info   : Unity Log] 08/18/2022 01:20:40: ZNet OnDestroy
+
+[Info   : Unity Log] 08/18/2022 01:20:40: Net scene destroyed
+
+[Info   : Unity Log] 08/18/2022 01:20:41: Steam manager on destroy
+
+[Warning: Unity Log] 08/18/2022 01:20:41: Local player destroyed
 
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
@@ -2462,3 +2750,4 @@ UnityEngine.EventSystems.EventSystem:Update()
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
+[Warning:WackysDatabase] Calling the Destoryer of Worlds -End Game

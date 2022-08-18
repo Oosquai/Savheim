@@ -1,7 +1,7 @@
 {
     "name": "PickaxeBlackmetal",
-    "m_name": "PickaxeBlackmetal",
-    "m_description": "$item_pickaxe_iron_description",
+    "m_name": "Blackmetal pickaxe",
+    "m_description": "A robust tool made of black metal.",
     "clone": true,
     "clonePrefabName": "PickaxeIron",
     "cloneMaterial": "blackmetalpick",
