@@ -279,7 +279,7 @@
       },
       "GuaranteedEffectCount": 6, 
       "GuaranteedMagicEffects": [
-        { "Type": "Riches" },
+        { "Type": "Luck", "Values": { "MinValue" : 25, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
         { "Type": "AddMovementSkills", "Values": { "MinValue": 25, "MaxValue": 30, "Increment": 1 } }
       ]
@@ -436,7 +436,7 @@
       "Description": "Come all ye who seek shelter.",
       "Requirements" : {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Sage's Book" ]
+        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Sage's book of secrets" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddHealthRegen", "Values": { "MinValue": 6, "MaxValue": 9, "Increment": 1 } },
@@ -450,7 +450,7 @@
       "Description": "All ye who strike me shall falter.",
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's Book" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" },
@@ -591,8 +591,7 @@
         { "Type": "Indestructible" },
         { "Type": "DoubleJump" },
         { "Type": "FeatherFall" },
-        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 300, "MaxValue": 300, "Increment": 1 } },
-        { "Type": "Luck", "Values": { "MinValue": 49, "MaxValue": 49, "Increment": 1 } }
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 300, "MaxValue": 300, "Increment": 1 } }
       ]
     },
 
@@ -609,7 +608,7 @@
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" }

@@ -1,7 +1,7 @@
 {
     "name": "SageBook03",
-    "m_name": "Sage's Book",
-    "m_description": "Great for curling up in bed next to a candle, but only marginally useful in combat.",
+    "m_name": "Sage's book of secrets",
+    "m_description": "Great for curling up in bed next to a candle, but only marginally useful at deflecting attacks.",
     "clone": false,
     "clonePrefabName": "",
     "cloneMaterial": "",

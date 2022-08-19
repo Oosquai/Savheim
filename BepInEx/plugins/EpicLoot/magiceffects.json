@@ -288,7 +288,7 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler"
+        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets"
         ]
       },
       "ValuesPerRarity" : {
@@ -2313,7 +2313,7 @@
           "Shield"
         ],
         "AllowedItemNames": [
-          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler"
+          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets"
         ]
       },
       "ValuesPerRarity" : {
@@ -2578,11 +2578,11 @@
       "DisplayText" : "$mod_epicloot_me_immovable_display",
       "Description" : "$mod_epicloot_me_immovable_desc",
       "Requirements" : {
-//        "NoRoll": true,
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler"
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets"
         ]
       },
       "SelectionWeight" : 1,
@@ -2627,7 +2627,6 @@
       "DisplayText" : "$mod_epicloot_me_luck_display",
       "Description" : "$mod_epicloot_me_luck_desc",
       "Requirements" : {
-        "NoRoll": true,
         "AllowedItemTypes" : [
           "Helmet",
           "Chest",
@@ -2659,7 +2658,7 @@
           "Shield"
         ],
         "AllowedItemNames": [
-          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler"
+          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets"
         ]
       },
       "ValuesPerRarity" : {

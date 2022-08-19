@@ -1,7 +1,7 @@
 {
     "name": "SageIceStaff",
-    "m_name": "Viserion's Rancor",
-    "m_description": "Almost too cold to hold, this ancient artifact freezes all life around it.",
+    "m_name": "Sage's staff of ice",
+    "m_description": "Tendrils of cold lick the air around this ancient artifact that yearns to freeze all life around it.",
     "clone": false,
     "clonePrefabName": "",
     "cloneMaterial": "",

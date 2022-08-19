@@ -1,7 +1,7 @@
 {
     "name": "SageFireStaff",
-    "m_name": "Raistlin's Fury",
-    "m_description": "A long wooden staff, shod in iron and inscribed with sigils and runes of all types, this potent artifact bludgeons and burns its enemies to cinders.",
+    "m_name": "Sage's staff of fire",
+    "m_description": "A long wooden staff, shod in iron and inscribed with glowing red sigils and runes, this potent artifact bludgeons and burns its enemies to cinders.",
     "clone": false,
     "clonePrefabName": "",
     "cloneMaterial": "",

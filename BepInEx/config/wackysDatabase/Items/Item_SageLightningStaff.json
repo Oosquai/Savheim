@@ -1,7 +1,7 @@
 {
     "name": "SageLightningStaff",
-    "m_name": "Valda's Scourge",
-    "m_description": "An ancient staff, humming with electricity.  This artifact can stop its victims' hearts, but sometimes shocks its wielder as well.",
+    "m_name": "Sage's staff of lightning",
+    "m_description": "An ancient staff, humming and vibrating with potential, this artifact would prefer to stop your enemie's hearts, but yours will do as well.",
     "clone": false,
     "clonePrefabName": "",
     "cloneMaterial": "",
