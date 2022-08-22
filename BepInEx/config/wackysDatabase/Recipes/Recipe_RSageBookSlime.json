@@ -1,0 +1,14 @@
+{
+    "name": "RSageBookSlime",
+    "clone": true,
+    "clonePrefabName": "SageBookSlime",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "ElderBark:10:5:5:True",
+        "Guck:4:2:2:True",
+        "Bloodbag:4:4:4:True"
+    ]
+}

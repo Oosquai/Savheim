@@ -95,6 +95,7 @@
       "EquipFx": "WhiteAura", 
       "EquipFxMode" : "EquipRoot", 
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Swords" ]
       },
@@ -285,6 +286,52 @@
       ]
     },
     {
+      "ID": "PrevailSword",
+      "Name": "Prevail's Eviscerator",
+      "Description": "This deadly blade is covered in blue blood and little bits of crab shell...  what in Odin's name was this used for?",
+      "Requirements" : {
+        "AllowedItemNames": [ "Bronze short sword", "Iron short sword", "Silver short sword", "Blackmetal short sword" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Opportunist" },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 29, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "DefenceKnife",
+      "Name": "Madchild's Duality",
+      "Description": "He was the best tank in town, but sometimes he just wanted to DPS.",
+      "Requirements" : {
+        "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyParry" }
+      ]
+    },
+    {
+      "ID": "DefenceSword",
+      "Name": "Madchild's Duality",
+      "Description": "He was the best tank in town, but sometimes he just wanted to DPS.",
+      "Requirements" : {
+        "AllowedItemNames": [ "Balanced bronze sword", "Balanced iron sword", "Balanced silver sword", "Balanced blackmetal sword" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyBlockPower" },
+        { "Type": "ModifyParry" }
+      ]
+    },
+    {
+      "ID": "DefenceClub",
+      "Name": "Madchild's Duality",
+      "Description": "He was the best tank in town, but sometimes he just wanted to DPS.",
+      "Requirements" : {
+        "AllowedItemNames": [ "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyBlockPower" }
+      ]
+    },
+    {
       "ID": "MfknBearodactyl2h",
       "Name": "MfknBearodactyl's Epitaph",
       "Description": "Like a Phoenix from the flames, he will rise from the ashes.",
@@ -342,6 +389,18 @@
       "GuaranteedMagicEffects": [
         { "Type": "Executioner", "Values": { "MinValue" : 901, "MaxValue" : 999, "Increment" : 1 } },
         { "Type": "LifeSteal", "Values": { "MinValue" : 4.5, "MaxValue" : 5.5, "Increment" : 0.1 } }
+      ]
+    },
+    {
+      "ID": "SledgeBlock",
+      "Name": "The Unstoppable Force",
+      "Description": "It's also an immovable object.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyBlockPower" }
       ]
     },
     {
@@ -436,7 +495,7 @@
       "Description": "Come all ye who seek shelter.",
       "Requirements" : {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Sage's book of secrets" ]
+        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddHealthRegen", "Values": { "MinValue": 6, "MaxValue": 9, "Increment": 1 } },
@@ -450,12 +509,36 @@
       "Description": "All ye who strike me shall falter.",
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" },
         { "Type": "StaggerOnDamageTaken" },
         { "Type": "ReflectDamage" }
+      ]
+    },
+    {
+      "ID": "HelkarsBlackBook",
+      "Name": "Helkar's Black Book",
+      "Description": "Ancient, mysterious, and full of deadly incantations, this tome focuses on sustained destruction.",
+      "Requirements" : {
+        "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Executioner" },
+        { "Type": "ModifyAttackStaminaUse" }
+      ]
+    },
+    {
+      "ID": "MorrigansBlackBook",
+      "Name": "The Morrigan's Black Book",
+      "Description": "Ancient, mysterious, and full of deadly incantations, this tome focuses on rapid destruction.",
+      "Requirements" : {
+        "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "Executioner" },
+        { "Type": "ModifyAttackSpeed" }
       ]
     },
     {
@@ -575,10 +658,10 @@
       "Name": "Legendary shield",
       "Description": "The best defense is... well, a good defense, really.",
       "Requirements" : {
-        "AllowedItemTypes": [ "Shield" ]
+        "AllowedItemTypes": [ "Shield" ],
+        "ExcludedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
       }
     },
-
     {
       "ID": "DevBoots",
       "Name": "Developer's Boots",
@@ -608,7 +691,7 @@
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Sage's book of secrets" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" }
@@ -747,7 +830,7 @@
         "AllowedSkillTypes": [ "Swords" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "ModifyDamage", "Values": { "MinValue": 20, "MaxValue": 25, "Increment": 1 } },
+        { "Type": "ModifyDamage", "Values": { "MinValue": 5, "MaxValue": 10, "Increment": 1 } },
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } }
       ]
     },

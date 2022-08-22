@@ -1,7 +1,7 @@
 {
-    "name": "HelmetLeather",
-    "m_name": "$item_helmet_leather_t0",
-    "m_description": "<i>$class_berserker</i>\n$item_helmet_leather_description\n\nDamage with one handed weapons is increased by <color=cyan>5%</color> when there is no item in the off hand.",
+    "name": "ArmorNobleCape",
+    "m_name": "Purifying vegvisir cape",
+    "m_description": "A cape fashioned from a vegvisir banner and treated with slime to help protect against poison.",
     "clone": false,
     "clonePrefabName": "",
     "cloneMaterial": "",
@@ -13,7 +13,7 @@
     "m_foodRegen": 0.0,
     "m_foodBurnTime": 0.0,
     "m_foodColor": "",
-    "m_armor": 2.0,
+    "m_armor": 1.0,
     "m_armorPerLevel": 2.0,
     "m_movementModifier": 0.0,
     "m_blockPower": 10.0,
@@ -25,10 +25,10 @@
     "m_backstabbonus": 4.0,
     "m_knockback": 30.0,
     "m_destroyBroken": false,
-    "m_dodgeable": true,
-    "m_maxDurability": 400.0,
+    "m_dodgeable": false,
+    "m_maxDurability": 1000.0,
     "m_durabilityDrain": 0.0,
-    "m_durabilityPerLevel": 100.0,
+    "m_durabilityPerLevel": 200.0,
     "m_equipDuration": 1.0,
     "m_holdDurationMin": 0.0,
     "m_holdStaminaDrain": 0.0,
@@ -39,7 +39,9 @@
     "m_teleportable": true,
     "m_toolTier": 0,
     "m_value": 0,
-    "m_damages": "m_blunt:10, m_chop:0, m_damage:0, m_fire:0, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:0, m_spirit:0, ",
+    "m_damages": "",
     "m_damagesPerLevel": "",
-    "damageModifiers": []
+    "damageModifiers": [
+        "Poison:Resistant"
+    ]
 }

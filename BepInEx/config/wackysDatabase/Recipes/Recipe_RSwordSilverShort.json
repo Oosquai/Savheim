@@ -1,0 +1,15 @@
+{
+    "name": "RSwordSilverShort",
+    "clone": true,
+    "clonePrefabName": "SwordSilverShort",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:2:1:True",
+        "Silver:40:20:True",
+        "LeatherScraps:3:1:True",
+        "Iron:5:3:True"
+    ]
+}

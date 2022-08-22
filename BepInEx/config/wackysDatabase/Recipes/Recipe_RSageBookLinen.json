@@ -1,0 +1,14 @@
+{
+    "name": "RSageBookLinen",
+    "clone": true,
+    "clonePrefabName": "SageBookLinen",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:10:5:True",
+        "LinenThread:10:5:True",
+        "Silver:4:4:True"
+    ]
+}

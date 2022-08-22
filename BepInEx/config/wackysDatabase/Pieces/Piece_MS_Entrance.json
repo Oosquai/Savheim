@@ -1,0 +1,20 @@
+{
+    "name": "MS_Entrance",
+    "m_name": "$MS_entrance",
+    "m_description": "",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Stone:20:1:True",
+        "Wood:20:1:True",
+        "BronzeNails:20:1:True"
+    ]
+}
