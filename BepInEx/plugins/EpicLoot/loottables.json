@@ -1823,6 +1823,58 @@
       "Object": "TreeEnt_DoD",
       "RefObject": "Tier5Mob"
     },
+    {
+      "Object": "SlimeBlue_HS",
+      "RefObject": "Tier1Mob"
+    },
+    {
+      "Object": "SlimePink_HS",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "SlimeGreen_HS",
+      "RefObject": "Tier3Mob"
+    },
+    {
+      "Object": "SlimePurple_HS",
+      "RefObject": "Tier4Mob"
+    },
+    {
+      "Object": "SlimeYellow_HS",
+      "RefObject": "Tier5Mob"
+    },
+    {
+      "Object": "SlimeRed_HS",
+      "RefObject": "Tier6Mob"
+    },
+    {
+      "Object": "FlyingEye_GE",
+      "RefObject": "Tier1Mob"
+    },
+    {
+      "Object": "FlyingEyePurple_GE",
+      "RefObject": "Tier2Mob"
+    },
+    {
+      "Object": "FlyingEyeGreen_GE",
+      "RefObject": "Tier3MobSpecial"
+    },
+    {
+      "Object": "FlyingEyeBlue_GE",
+      "RefObject": "Tier4MobSpecial"
+    },
+    {
+      "Object": "FlyingEyeWhite_GE",
+      "RefObject": "Tier5MobSpecial"
+    },
+    {
+      "Object": "FlyingEyePink_GE",
+      "RefObject": "Tier6MobSpecial"
+    },
+    {
+      "Object": "FlyingEyeBlack_GE",
+      "RefObject": "Tier6MobSpecial"
+    },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // BOSSES
