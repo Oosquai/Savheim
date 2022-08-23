@@ -29,7 +29,7 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 86 plugins to load
+[Info   :   BepInEx] 84 plugins to load
 [Info   :   BepInEx] Loading [me 0.0.1]
 [Info   :   BepInEx] Loading [roll 0.0.1]
 [Info   :   BepInEx] Loading [PlantEverything 1.11.5]
@@ -42,25 +42,25 @@
 [Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
 [Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.9]
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:08:37: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:25:44: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
@@ -151,20 +151,6 @@
 [Info   : Unity Log] GooglyEyes: Flying Eye White
 [Info   :   BepInEx] Loading [SlimesRUs 0.1.3]
 [Info   :   BepInEx] Loading [More Player Cloth Colliders 3.0.1]
-[Info   :   BepInEx] Loading [Epic Valheims Additions - by Huntard 1.8.3]
-[Info   :EpicValheimsAdditions.Core] Loading...
-[Info   :EpicValheimsAdditions.Core] Loaded Prefabs
-[Info   :EpicValheimsAdditions.Core] Loaded CraftingPieces
-[Info   :EpicValheimsAdditions.Core] Loaded Ingots/scales/ore
-[Info   :EpicValheimsAdditions.Core] Loaded MiscItems
-[Info   :EpicValheimsAdditions.Core] Loaded BossStuff
-[Info   :EpicValheimsAdditions.Core] Loaded HeavymetalWeapons
-[Info   :EpicValheimsAdditions.Core] Loaded FrometalWeapons
-[Info   :EpicValheimsAdditions.Core] Loaded FlametalWeapons
-[Info   :EpicValheimsAdditions.Core] Loaded DeepAbyssWeapons
-[Info   :EpicValheimsAdditions.Core] Loaded Vegetation
-[Info   :EpicValheimsAdditions.Core] Loaded configs
-[Info   :EpicValheimsAdditions.Core] Updated configs
 [Info   :   BepInEx] Loading [RuneMagic 1.1.10]
 [Info   : Unity Log] Calculated centers for 29 icebergs
 [Info   :   BepInEx] Loading [Item Stand AllItems 1.10]
@@ -189,7 +175,6 @@
 [Info   :   BepInEx] Loading [Dual Wield 1.0.2]
 [Info   :   BepInEx] Loading [IronFangAxe 1.0.2]
 [Info   :   BepInEx] Loading [OdinsBarrelRide 1.0.1]
-[Info   :   BepInEx] Loading [Resurrection 1.0.2]
 [Info   :   BepInEx] Loading [TargetPortal 1.1.3]
 [Info   :   BepInEx] Loading [Valheim Plus 0.9.9.8]
 [Info   :Valheim Plus] Trying to load the configuration file
@@ -474,286 +459,286 @@
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
 [Info   : Unity Log] WackysDatabase Loaded files
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 08/23/2022 00:09:44: Starting to load scene:start
+[Info   : Unity Log] 08/23/2022 01:26:39: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 08/23/2022 00:09:47: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:47: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:47: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:47: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:46: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:47: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:52: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:52: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:52: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:52: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:52: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:52: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:48: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:49: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:50: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Using environment steamid 892970
+[Info   : Unity Log] 08/23/2022 01:26:51: Using environment steamid 892970
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Using steam APPID:892970
+[Info   : Unity Log] 08/23/2022 01:26:51: Using steam APPID:892970
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 08/23/2022 01:26:51: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Steam initialized, persona:Oosquai
+[Info   : Unity Log] 08/23/2022 01:26:51: Steam initialized, persona:Oosquai
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Using default prefs
+[Info   : Unity Log] 08/23/2022 01:26:51: Using default prefs
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Valheim version:0.209.10@0.9.9.8
+[Info   : Unity Log] 08/23/2022 01:26:51: Valheim version:0.209.10@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
-[Info   : Unity Log] 08/23/2022 00:09:55: Render threading mode:MultiThreaded
+[Info   : Unity Log] 08/23/2022 01:26:51: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:51: Loaded localization CSV:localization_extra language:English
 
-[Warning: Unity Log] 08/23/2022 00:09:56: Missing audio clip in music respawn
+[Warning: Unity Log] 08/23/2022 01:26:51: Missing audio clip in music respawn
 
-[Info   : Unity Log] 08/23/2022 00:09:56: Checking for installed DLCs
+[Info   : Unity Log] 08/23/2022 01:26:51: Checking for installed DLCs
 
-[Info   : Unity Log] 08/23/2022 00:09:56: DLC:beta installed:False
+[Info   : Unity Log] 08/23/2022 01:26:51: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 08/23/2022 00:09:57: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/23/2022 01:26:52: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/23/2022 00:09:57: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/23/2022 01:26:52: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
@@ -919,7 +904,7 @@ System.NullReferenceException: Object reference not set to an instance of an obj
   at Terraheim.Armor.AddNewSets.AddArmorSets () [0x00165] in <7bbaa1818a6a412e925b79f46edff69c>:0 
   at Jotunn.EventExtensions.SafeInvoke (System.Action events) [0x00018] in <862b768c0ee94c6cbd7f91baf552f94c>:0 
 [Info   :Jotunn.Managers.KitbashManager] Applying Kitbash in 1 objects
-[Info   :Jotunn.Managers.ItemManager] Adding 391 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 311 custom items to the ObjectDB
 [Warning:RRRMonsters] True
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
 [Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
@@ -1391,70 +1376,6 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_jotunn_hg]/[Jotunn] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_firegiant_hg]/[FireGiant] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_trophy_slimeblue_hs]/[Slime] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal]/[Heavymetal] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal]/[Frometal] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Deep Abyss Essence]/[DeepAbyssEssence] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavyscale]/[Heavyscale] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Drakescale]/[Drakescale] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Forgedscale]/[Forgedscale] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal ore]/[HeavymetalOre] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal ore]/[FrometalOre] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [<color=orange>Incorrect Installation Trophy</color>]/[ColororangeincorrectInstallationTrophycolor] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Admin Food]/[AdminFood] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frost-Infused Darkmetal]/[FrostinfusedDarkmetal] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Burning World Tree Fragment]/[BurningWorldTreeFragment] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [World Tree Fragment]/[WorldTreeFragment] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Primordial Ice]/[PrimordialIce] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Fragment of Fenrirs Heart]/[FragmentOfFenrirsHeart] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Ymir's Soul Essence]/[YmirsSoulEssence] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Cursed Heavymetal Effigy]/[CursedHeavymetalEffigy] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Greatsword]/[FlametalGreatsword] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Bow]/[FrometalBow] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Sledge1]/[FlametalSledge1] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Sledge2]/[FlametalSledge2] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Sledge]/[FlametalSledge] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Tower shield]/[FlametalTowerShield] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Svartalfar Queen Trophy]/[SvartalfarQueenTrophy] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Jotunn Trophy]/[JotunnTrophy] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Hel Demon Trophy]/[HelDemonTrophy] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Bow]/[HeavymetalBow] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Atgeir]/[HeavymetalAtgeir] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Sledge]/[HeavymetalSledge] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Battleaxe]/[HeavymetalBattleaxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Spear]/[HeavymetalSpear] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Knife]/[HeavymetalKnife] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Mace]/[HeavymetalMace] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Greatsword]/[HeavymetalGreatsword] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Sword]/[HeavymetalSword] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Shield]/[HeavymetalShield] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Tower shield]/[HeavymetalTowerShield] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Axe]/[HeavymetalAxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Heavymetal Pickaxe]/[HeavymetalPickaxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Atgeir]/[FrometalAtgeir] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Sledge]/[FrometalSledge] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Battleaxe]/[FrometalBattleaxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Spear]/[FrometalSpear] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Knife]/[FrometalKnife] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Mace]/[FrometalMace] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Greatsword]/[FrometalGreatsword] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Sword]/[FrometalSword] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Shield]/[FrometalShield] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Tower Shield]/[FrometalTowerShield] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Axe]/[FrometalAxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Frometal Pickaxe]/[FrometalPickaxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Bow]/[FlametalBow] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Atgeir]/[FlametalAtgeir] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Battleaxe]/[FlametalBattleaxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Spear]/[FlametalSpear] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Knife]/[FlametalKnife] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Mace]/[FlametalMace] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Sword]/[FlametalSword] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Shield]/[FlametalShield] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Axe]/[FlametalAxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Flametal Pickaxe]/[FlametalPickaxe] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Deep Abyss Trident]/[DeepAbyssTrident] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Deep Abyss Bow]/[DeepAbyssBow] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Deep Abyss Greatsword]/[DeepAbyssGreatsword] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Sage Robe Black]/[SageRobeBlack] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Sage Robe Blue]/[SageRobeBlue] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [Sage Robe Brown]/[SageRobeBrown] and added it to ObjectDBCache!!
@@ -1603,855 +1524,14 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [Better Trader] Loaded conversion [$mod_epicloot_assets_goldbountytoken]/[GoldBountyToken] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_runemagic_runefocus]/[RuneFocus] and added it to ObjectDBCache!!
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 08/23/2022 00:10:02: Failed to find item prefab PickaxeBlackmetal
+[Info   : Unity Log] 08/23/2022 01:26:58: Failed to find item prefab PickaxeBlackmetal
 
-[Info   : Unity Log] 08/23/2022 00:10:03: UI Group status changed Menu = True
+[Info   : Unity Log] 08/23/2022 01:26:58: UI Group status changed Menu = True
 
-[Info   : Unity Log] 08/23/2022 00:10:05: UI Group status changed Menu = True
-
-[Info   : Unity Log] 08/23/2022 00:11:23: FOund selected Start game
-
-[Info   : Unity Log] 08/23/2022 00:11:23: show character selection
-
-[Info   : Unity Log] 08/23/2022 00:11:24: OnCharacterStart
-
-[Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.0085306
-[Message:Spawn That!] Loading simple configurations
-[Message:Spawn That!] Loading world spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.3145715
-[Info   : Unity Log] Googley Eyes: Configure Spawns
-[Info   : Unity Log] Googley Eyes: Create Spawns
-[Info   : Unity Log] 08/23/2022 00:11:40: Steam initialized, persona:Oosquai
-
-[Info   : Unity Log] 08/23/2022 00:11:40: Using default prefs
-
-[Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
-[Info   : Unity Log] 08/23/2022 00:11:40: Loading player profile savtest
-
-[Info   : Unity Log] 08/23/2022 00:11:40: isModded: True
-
-[Info   : Unity Log] 08/23/2022 00:11:40: Zonesystem Awake 8425
-
-[Info   : Unity Log] 08/23/2022 00:11:40: DungeonDB Awake 8425
-
-[Info   : Unity Log] 08/23/2022 00:11:40: Steam initialized, persona:Oosquai
-
-[Info   : Unity Log] 08/23/2022 00:11:40: Registering lobby
-
-[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'randyknapp.mods.epicloot ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Azumatt.AzuMarketplaceSigns ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Azumatt.AzuMarketplaceSigns PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'azumatt.CraftyCarts ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'azumatt.CraftyCarts PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Azumatt.DaedricSet ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Azumatt.DaedricSet ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.FritosTwist.DaedricBow ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.FritosTwist.DaedricBow ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'PotionsPlus ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.odinplus.potionsplus ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.odinplus.potionsplus PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Detalhes.Rowing ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'GoldenJude_Mineshafts ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'item_stand_all_items ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'marlthon.OdinShip ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'MonsterLabZ CreatureManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'MrSerji.MrSerji_Construction ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'MrSerji.MrSerji_Construction ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'MrSerji.MrSerji_Construction PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'org.bepinex.plugins.bamboozled PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'org.bepinex.plugins.bamboozled ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Darwin Awards ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'org.bepinex.plugins.dualwield ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Resurrection ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'TargetPortal ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'projectile_collision ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'OdinBanners ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinBanners PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinHorse ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'smoke_collision ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'WackyMole.WackysDatabase ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'gravebear.hedgewalls PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'org.bepinex.plugins.ironfangaxe ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'org.bepinex.plugins.odinsbarrelride PieceManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] Registered 'ReepusDeepusDelmeepus4902761.ChaosArmor ItemManager ConfigSync' RPC - waiting for incoming connections
-[Info   : Unity Log] ZNetScene_Awake_Patch ran
-[Info   :Jotunn.Managers.PrefabManager] Adding 1015 custom prefabs to the ZNetScene
-[Info   :Jotunn.Managers.CreatureManager] Adding 33 custom creatures
-[Info   :Jotunn.Managers.ItemManager] Adding 391 custom items to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 281 custom recipes to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 77 custom status effects to the ObjectDB
-[Info   :Jotunn.Managers.ItemManager] Adding 7 custom item conversions
-[Warning:RRRMonsters] True
-[Info   : Unity Log] ObjectDB_Awake_Patch ran
-[Info   : Unity Log] [RecipeHandler] Added recipe: Recipe_RuneFocus
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherBelt
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_GoldRubyRing
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ShardLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DustLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ReagentLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EssenceLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneRareUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneEpicUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RunestoneLegendaryUpgrade
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_MagicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_RareShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EpicShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToDust_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToEssence_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LegendaryShardToReagent_Conversion
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_BoneSkeletonTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_EyeGreydwarfTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_AntlerDeerTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_HideTrollTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_CoreSurtlingTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FreezeGlandDrakeTrophy
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_DragonTearRunestone
-[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_YagluthThingRunestone
-[Info   :Jotunn.Managers.PieceManager] Adding 349 custom pieces to the PieceTables
-[Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
-[Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
-[Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
-[Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
-[Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
-[Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
-[Warning:Jotunn.Managers.MockManager] Mock Texture Vagon_d could not be resolved
-[Warning:Jotunn.EventExtensions] Exception thrown at event InvokeOnItemsRegistered in AddNewSets.ModExistingRecipes:
-System.NullReferenceException: Object reference not set to an instance of an object
-  at Terraheim.Utility.ArmorHelper.AddTieredRecipes (System.String setName, System.Boolean hasHelmet) [0x00152] in <7bbaa1818a6a412e925b79f46edff69c>:0 
-  at Terraheim.Armor.AddNewSets.ModExistingRecipes () [0x00125] in <7bbaa1818a6a412e925b79f46edff69c>:0 
-  at Jotunn.EventExtensions.SafeInvoke (System.Action events) [0x00018] in <862b768c0ee94c6cbd7f91baf552f94c>:0 
-[Info   :SeedTotem.SeedTotemPrefabConfig] Moving Seed Totem to Hammer
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_bronze_t0]/[EorlBrigandine] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_bronze_t0]/[EorlGreaves] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_iron_t0]/[ThegnMail] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_iron_t0]/[ThegnGreaves] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_leather_t0]/[FyrdGambeson] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_leather_t0]/[FyrdPants] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_padded_t0]/[HuscarlScalemail] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_padded_t0]/[HuscarlGreaves] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_trollleather_t0]/[JötunnTunic] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_trollleather_t0]/[JötunnPants] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_wolf_t0]/[WyrdwulfMail] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_wolf_t0]/[WyrdwulfChausses] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_bronze_t0]/[EorlHelmet] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_drake_t0]/[WyrdwulfHelmet] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_iron_t0]/[ThegnHelmet] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_leather_t0]/[FyrdSkullcap] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_padded_t0]/[HuscarlHelmet] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_trollleather_t0]/[JötunnHood] and added it to ObjectDBCache!!
-[Info   : Unity Log] Skipping Borked Tank
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_chaos_t0]/[ChosenBreastplate] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_chaos_t0]/[ChosenGreathelm] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_chaos_t0]/[ChosenGreaves] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_chaos_t10]/[PaddedChosenBreastplate] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_chaos_t10]/[PaddedChosenGreathelm] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_chaos_t10]/[PaddedChosenGreaves] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_chest_chaos_t20]/[BurningChosenBreastplate] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_helmet_chaos_t20]/[BurningChosenGreathelm] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [$item_legs_chaos_t20]/[BurningChosenGreaves] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Obsidian Dagger]/[ObsidianDagger] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Slime Encrusted Bone]/[SlimeEncrustedBone] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Elder Core]/[ElderCore] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Goblin Heart]/[GoblinHeart] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Dragon Scale]/[DragonScale] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Blink]/[RuneOfBlink] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Chain Lightning]/[RuneOfChainLightning] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Firebolt]/[RuneOfFirebolt] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Force]/[RuneOfForce] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Frostbolt]/[RuneOfFrostbolt] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Frost Nova]/[RuneOfFrostNova] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Glacial Spike]/[RuneOfGlacialSpike] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Healing]/[RuneOfHealing] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Immolation]/[RuneOfImmolation] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Invigorate]/[RuneOfInvigorate] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Light]/[RuneOfLight] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Recall]/[RuneOfRecall] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Travel]/[RuneOfTravel] and added it to ObjectDBCache!!
-[Info   : Unity Log] [Better Trader] Loaded conversion [Rune of Warmth]/[RuneOfWarmth] and added it to ObjectDBCache!!
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshHatchling.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshMosquito.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeck.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingBones.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BurnedBones.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.DamnedOne.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.ElderSurtling.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SmallAshNeck.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SwollenBody.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngrySpirit.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.CalmSpirit.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DevourerFenring.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Dvergr.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DvergrEvent.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.ForgottenOne.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrozenCorpse.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Jotunn.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenring.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLox.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SilverGolem.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmallPolarLox.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMosquito.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkProtector.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.MotherDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SmallDarkSpider.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.Svartalfr.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrArcher.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrMage.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrQueen.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
-[Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Savheim_enemies\rrrmonsters.custom.ForestSpider.json
-[Info   : Unity Log] 08/23/2022 00:11:45: Audioman already exist, destroying self
-
-[Info   : Unity Log] 08/23/2022 00:11:45: Checking for installed DLCs
-
-[Info   : Unity Log] 08/23/2022 00:11:45: DLC:beta installed:False
-
-[Info   : Unity Log] [Better Trader] Initializing UI!
-[Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 0
-[Info   : Unity Log] CustomDreamTexts Loaded 24 dreams
-[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
-[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] 08/23/2022 00:11:49: Zonesystem Start 8425
-
-[Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
-[Info   : Unity Log] 08/23/2022 00:11:50: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
-
-[Info   : Unity Log] 08/23/2022 00:11:50: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
-
-[Info   :EpicValheimsAdditions.Core] Loaded Locations
-[Info   :EpicValheimsAdditions.Core] Updated EVA Resource drop tables
-[Info   :EpicValheimsAdditions.Core] Updated Thors Forge level
-[Info   :EpicValheimsAdditions.Core] Updated Alchemystation level
-[Info   :jtv_biomes.jtv_biomes] Adding Locations
-[Info   :Jotunn.Managers.ZoneManager] Injecting 36 custom locations
-[Info   :Jotunn.Managers.ZoneManager] Injecting 3 custom vegetation
-[Info   : Unity Log] ZoneSystem_Start_Patch ran
-[Info   : Unity Log] Skipping BossStone_Bonemass
-[Info   : Unity Log] Skipping BossStone_DragonQueen
-[Info   : Unity Log] Skipping BossStone_Yagluth
-[Info   : Unity Log] Skipping BossStone_TheElder
-[Info   : Unity Log] Skipping BossStone_Eikthyr
-[Info   : Unity Log] Skipping BossStone_Bonemass
-[Info   : Unity Log] Skipping BossStone_DragonQueen
-[Info   : Unity Log] Skipping BossStone_Yagluth
-[Info   : Unity Log] Skipping BossStone_TheElder
-[Info   : Unity Log] Skipping BossStone_Eikthyr
-[Info   : Unity Log] Cached water surface vertex order
-[Info   : Unity Log] 08/23/2022 00:11:50: DungeonDB Start 8425
-
-[Info   : Unity Log] 08/23/2022 00:11:51: Load world: SavheimIITest (SavheimIITest)
-
-[Info   : Unity Log] 08/23/2022 00:11:51: Loading 198867 zdos , my id 3990655536 data version:28
-
-[Info   : Unity Log] 08/23/2022 00:11:52: Loaded 78827 dead zdos
-
-[Info   : Unity Log] 08/23/2022 00:11:52: Removed 0 OLD generated ZDOS
-
-[Info   : Unity Log] 08/23/2022 00:11:52: Loaded 9652 locations
-
-[Info   : Unity Log] 08/23/2022 00:11:52: Lobby was created k_EResultOK  109775243542095070  error:False
-
-[Info   : Unity Log] 08/23/2022 00:11:52: Got requested lobby data
-
-[Info   : Unity Log] 08/23/2022 00:12:01: Unpacking compressed mapdata 8472
-
-[Info   : Unity Log] 08/23/2022 00:12:02: Got requested lobby data
-
-[Info   : Unity Log] 08/23/2022 00:12:02: Starting respawn
-
-[Info   : Unity Log] 08/23/2022 00:12:02: tip:$loadscreen_tip07
-
-[Warning:WackysDatabase] You Will be kicked from Multiplayer Servers! 0.0.1
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for ancient_sage_core 
-[Info   : Unity Log] WackysDatabase Added prefab ancient_sage_core
-[Info   : Unity Log] WackysDatabase Material name searching for crit_trace
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ancient_sage_core 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ArmorNobleCape 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for AtgeirBlackmetal 
-[Info   : Unity Log] WackysDatabase    AtgeirBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for AtgeirFireTH 
-[Info   : Unity Log] WackysDatabase    AtgeirFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for AtgeirSilver 
-[Info   : Unity Log] WackysDatabase    AtgeirSilver Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for AxeFireTH 
-[Info   : Unity Log] WackysDatabase    AxeFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for AxeForstasca 
-[Info   : Unity Log] WackysDatabase    AxeForstasca Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for AxeSerpentTH 
-[Info   : Unity Log] WackysDatabase    AxeSerpentTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BackpackHeavy 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BackpackSimple 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BattleaxeBlackmetal 
-[Info   : Unity Log] WackysDatabase    BattleaxeBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BattleaxeBronzeTerraheim 
-[Info   : Unity Log] WackysDatabase    BattleaxeBronzeTerraheim Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BattleaxeFireTH 
-[Info   : Unity Log] WackysDatabase    BattleaxeFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BattleaxeSilver 
-[Info   : Unity Log] WackysDatabase    BattleaxeSilver Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for BlackmetalShredders 
-[Info   : Unity Log] WackysDatabase Added prefab BlackmetalShredders
-[Info   : Unity Log] WackysDatabase Material name searching for blackmetalknife
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BlackmetalShredders 
-[Info   : Unity Log] WackysDatabase    BlackmetalShredders Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for BowBlackmetalSkirmisher 
-[Info   : Unity Log] WackysDatabase Added prefab BowBlackmetalSkirmisher
-[Info   : Unity Log] WackysDatabase Material name searching for blackmetalbowmat
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BowBlackmetalSkirmisher 
-[Info   : Unity Log] WackysDatabase    BowBlackmetalSkirmisher Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BowBlackmetalTH 
-[Info   : Unity Log] WackysDatabase    BowBlackmetalTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BowDraugrFang 
-[Info   : Unity Log] WackysDatabase    BowDraugrFang Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BowFineWood 
-[Info   : Unity Log] WackysDatabase    BowFineWood Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BowFireTH 
-[Info   : Unity Log] WackysDatabase    BowFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for BowHuntsman 
-[Info   : Unity Log] WackysDatabase    BowHuntsman Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for CapeLinenFire 
-[Info   : Unity Log] WackysDatabase Added prefab CapeLinenFire
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for CapeLinenFire 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for CapeLoxFire 
-[Info   : Unity Log] WackysDatabase Added prefab CapeLoxFire
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for CapeLoxFire 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for CauterizingClaws 
-[Info   : Unity Log] WackysDatabase Added prefab CauterizingClaws
-[Info   : Unity Log] WackysDatabase Material name searching for fireplace_ash_glowing
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for CauterizingClaws 
-[Info   : Unity Log] WackysDatabase    CauterizingClaws Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for Coins 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricBattleaxe 
-[Info   : Unity Log] WackysDatabase    DaedricBattleaxe Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricBow 
-[Info   : Unity Log] WackysDatabase    DaedricBow Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricDagger 
-[Info   : Unity Log] WackysDatabase    DaedricDagger Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricGlaive 
-[Info   : Unity Log] WackysDatabase    DaedricGlaive Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricGreatsword 
-[Info   : Unity Log] WackysDatabase    DaedricGreatsword Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricHalberd 
-[Info   : Unity Log] WackysDatabase    DaedricHalberd Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricHatchet 
-[Info   : Unity Log] WackysDatabase    DaedricHatchet Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricMace 
-[Info   : Unity Log] WackysDatabase    DaedricMace Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricSkeletonClub 
-[Info   : Unity Log] WackysDatabase    DaedricSkeletonClub Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for DaedricSword 
-[Info   : Unity Log] WackysDatabase    DaedricSword Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for FistFenrirClaw 
-[Info   : Unity Log] WackysDatabase    FistFenrirClaw Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for GreataxeBlackmetal 
-[Info   : Unity Log] WackysDatabase    GreataxeBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for GreataxeFlintTH 
-[Info   : Unity Log] WackysDatabase    GreataxeFlintTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for GreatswordBlackmetal 
-[Info   : Unity Log] WackysDatabase    GreatswordBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for GreatswordBronze 
-[Info   : Unity Log] WackysDatabase Added prefab GreatswordBronze
-[Info   : Unity Log] WackysDatabase Material name searching for atgeir_bronze
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for GreatswordBronze 
-[Info   : Unity Log] WackysDatabase    GreatswordBronze Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for GreatswordChitinTH 
-[Info   : Unity Log] WackysDatabase    GreatswordChitinTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for GreatswordFireTH 
-[Info   : Unity Log] WackysDatabase    GreatswordFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for GreatswordIron 
-[Info   : Unity Log] WackysDatabase    GreatswordIron Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for HelmetLeatherInvisible 
-[Info   : Unity Log] WackysDatabase Added prefab HelmetLeatherInvisible
-[Info   : Unity Log] WackysDatabase Material name searching for water_lod
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for HelmetLeatherInvisible 
-[Info   : Unity Log] WackysDatabase    HelmetLeatherInvisible Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for IronFangAxe 
-[Info   : Unity Log] WackysDatabase    IronFangAxe Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for IronFangBattleAxe 
-[Info   : Unity Log] WackysDatabase    IronFangBattleAxe Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for IronFangHatchet 
-[Info   : Unity Log] WackysDatabase    IronFangHatchet Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeBlackMetal 
-[Info   : Unity Log] WackysDatabase    KnifeBlackMetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for KnifeBlackMetalParry 
-[Info   : Unity Log] WackysDatabase Added prefab KnifeBlackMetalParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeBlackMetalParry 
-[Info   : Unity Log] WackysDatabase    KnifeBlackMetalParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeChitin 
-[Info   : Unity Log] WackysDatabase    KnifeChitin Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeCopper 
-[Info   : Unity Log] WackysDatabase    KnifeCopper Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for KnifeCopperParry 
-[Info   : Unity Log] WackysDatabase Added prefab KnifeCopperParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeCopperParry 
-[Info   : Unity Log] WackysDatabase    KnifeCopperParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeFireTH 
-[Info   : Unity Log] WackysDatabase    KnifeFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for KnifeFlame 
-[Info   : Unity Log] WackysDatabase Added prefab KnifeFlame
-[Info   : Unity Log] WackysDatabase Material name searching for fireplace_ash_glowing
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeFlame 
-[Info   : Unity Log] WackysDatabase    KnifeFlame Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeFlint 
-[Info   : Unity Log] WackysDatabase    KnifeFlint Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeIron 
-[Info   : Unity Log] WackysDatabase    KnifeIron Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for KnifeIronParry 
-[Info   : Unity Log] WackysDatabase Added prefab KnifeIronParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeIronParry 
-[Info   : Unity Log] WackysDatabase    KnifeIronParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeSilver 
-[Info   : Unity Log] WackysDatabase    KnifeSilver Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for KnifeSilverParry 
-[Info   : Unity Log] WackysDatabase Added prefab KnifeSilverParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeSilverParry 
-[Info   : Unity Log] WackysDatabase    KnifeSilverParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for KnifeSilverTH 
-[Info   : Unity Log] WackysDatabase    KnifeSilverTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for MaceBlackmetalBlock 
-[Info   : Unity Log] WackysDatabase Added prefab MaceBlackmetalBlock
-[Info   : Unity Log] WackysDatabase Material name searching for blackmetalaxe
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for MaceBlackmetalBlock 
-[Info   : Unity Log] WackysDatabase    MaceBlackmetalBlock Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for MaceBronzeBlock 
-[Info   : Unity Log] WackysDatabase Added prefab MaceBronzeBlock
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for MaceBronzeBlock 
-[Info   : Unity Log] WackysDatabase    MaceBronzeBlock Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for MaceFireTH 
-[Info   : Unity Log] WackysDatabase    MaceFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for MaceIronBlock 
-[Info   : Unity Log] WackysDatabase Added prefab MaceIronBlock
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for MaceIronBlock 
-[Info   : Unity Log] WackysDatabase    MaceIronBlock Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for MaceNeedle 
-[Info   : Unity Log] WackysDatabase    MaceNeedle Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for MaceSilverBlock 
-[Info   : Unity Log] WackysDatabase Added prefab MaceSilverBlock
-[Info   : Unity Log] WackysDatabase Material name searching for silveraxemat
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for MaceSilverBlock 
-[Info   : Unity Log] WackysDatabase    MaceSilverBlock Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for PickaxeBlackmetal 
-[Info   : Unity Log] WackysDatabase Added prefab PickaxeBlackmetal
-[Info   : Unity Log] WackysDatabase Material name searching for blackmetalpick
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for PickaxeBlackmetal 
-[Info   : Unity Log] WackysDatabase    PickaxeBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rae_Horseaker 
-[Info   : Unity Log] WackysDatabase    rae_Horseaker Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_blink 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_firebolt 
-[Info   : Unity Log] WackysDatabase    rune_firebolt Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_firebolt2 
-[Info   : Unity Log] WackysDatabase Added prefab rune_firebolt2
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_firebolt2 
-[Info   : Unity Log] WackysDatabase    rune_firebolt2 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_firebolt3 
-[Info   : Unity Log] WackysDatabase Added prefab rune_firebolt3
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_firebolt3 
-[Info   : Unity Log] WackysDatabase    rune_firebolt3 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_firebolt4 
-[Info   : Unity Log] WackysDatabase Added prefab rune_firebolt4
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_firebolt4 
-[Info   : Unity Log] WackysDatabase    rune_firebolt4 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_force 
-[Info   : Unity Log] WackysDatabase    rune_force Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_force2 
-[Info   : Unity Log] WackysDatabase Added prefab rune_force2
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_force2 
-[Info   : Unity Log] WackysDatabase    rune_force2 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_force3 
-[Info   : Unity Log] WackysDatabase Added prefab rune_force3
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_force3 
-[Info   : Unity Log] WackysDatabase    rune_force3 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_frostbolt 
-[Info   : Unity Log] WackysDatabase    rune_frostbolt Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_frostbolt2 
-[Info   : Unity Log] WackysDatabase Added prefab rune_frostbolt2
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_frostbolt2 
-[Info   : Unity Log] WackysDatabase    rune_frostbolt2 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_frostbolt3 
-[Info   : Unity Log] WackysDatabase Added prefab rune_frostbolt3
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_frostbolt3 
-[Info   : Unity Log] WackysDatabase    rune_frostbolt3 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for rune_frostbolt4 
-[Info   : Unity Log] WackysDatabase Added prefab rune_frostbolt4
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_frostbolt4 
-[Info   : Unity Log] WackysDatabase    rune_frostbolt4 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_frostnova 
-[Info   : Unity Log] WackysDatabase    rune_frostnova Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_heal 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_immolate 
-[Info   : Unity Log] WackysDatabase    rune_immolate Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_invigorate 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_light 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_recall 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_travel 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_warmth 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageBook01 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageBookLinen 
-[Info   : Unity Log] WackysDatabase Added prefab SageBookLinen
-[Info   : Unity Log] WackysDatabase Material name searching for CrystalAxe_mat
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageBookLinen 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageBookSlime 
-[Info   : Unity Log] WackysDatabase Added prefab SageBookSlime
-[Info   : Unity Log] WackysDatabase Material name searching for Abomination_mat
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageBookSlime 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownGold01 
-[Info   : Unity Log] WackysDatabase    SageCrownGold01 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownGold02 
-[Info   : Unity Log] WackysDatabase    SageCrownGold02 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownGold03 
-[Info   : Unity Log] WackysDatabase    SageCrownGold03 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownObsidian01 
-[Info   : Unity Log] WackysDatabase    SageCrownObsidian01 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownObsidian02 
-[Info   : Unity Log] WackysDatabase    SageCrownObsidian02 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownObsidian03 
-[Info   : Unity Log] WackysDatabase    SageCrownObsidian03 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownSilver01 
-[Info   : Unity Log] WackysDatabase    SageCrownSilver01 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownSilver02 
-[Info   : Unity Log] WackysDatabase    SageCrownSilver02 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageCrownSilver03 
-[Info   : Unity Log] WackysDatabase    SageCrownSilver03 Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageDarkStaff 
-[Info   : Unity Log] WackysDatabase    SageDarkStaff Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageFireStaff 
-[Info   : Unity Log] WackysDatabase    SageFireStaff Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHolyStaff 
-[Info   : Unity Log] WackysDatabase    SageHolyStaff Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHoodBlack 
-[Info   : Unity Log] WackysDatabase    SageHoodBlack Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHoodBlue 
-[Info   : Unity Log] WackysDatabase    SageHoodBlue Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHoodBrown 
-[Info   : Unity Log] WackysDatabase    SageHoodBrown Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHoodGray 
-[Info   : Unity Log] WackysDatabase    SageHoodGray Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHoodGreen 
-[Info   : Unity Log] WackysDatabase    SageHoodGreen Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHoodRed 
-[Info   : Unity Log] WackysDatabase    SageHoodRed Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageHoodWhite 
-[Info   : Unity Log] WackysDatabase    SageHoodWhite Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageIceStaff 
-[Info   : Unity Log] WackysDatabase    SageIceStaff Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageLightningStaff 
-[Info   : Unity Log] WackysDatabase    SageLightningStaff Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SagePants 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageRobeBlack 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageRobeBlue 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageRobeBrown 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageRobeGray 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageRobeGreen 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageRobeRed 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageRobeWhite 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageTunicBlack 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageTunicBlue 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageTunicBrown 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageTunicGray 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageTunicGreen 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageTunicRed 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageTunicWhite 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldBanded 
-[Info   : Unity Log] WackysDatabase    ShieldBanded Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldBlackmetal 
-[Info   : Unity Log] WackysDatabase    ShieldBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for ShieldBlackmetalBuckler 
-[Info   : Unity Log] WackysDatabase Added prefab ShieldBlackmetalBuckler
-[Info   : Unity Log] WackysDatabase Material name searching for blackmetal
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldBlackmetalBuckler 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldBlackmetalTower 
-[Info   : Unity Log] WackysDatabase    ShieldBlackmetalTower Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldBoneTower 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldBronzeBuckler 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldFireTH 
-[Info   : Unity Log] WackysDatabase    ShieldFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldFireTowerTH 
-[Info   : Unity Log] WackysDatabase    ShieldFireTowerTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldIronBuckler 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldIronTower 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldSerpentscale 
-[Info   : Unity Log] WackysDatabase    ShieldSerpentscale Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldSilver 
-[Info   : Unity Log] WackysDatabase    ShieldSilver Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ShieldSilverDagger 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SledgeBlackmetal 
-[Info   : Unity Log] WackysDatabase Added prefab SledgeBlackmetal
-[Info   : Unity Log] WackysDatabase Material name searching for BlackMetalChest_mat
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SledgeBlackmetal 
-[Info   : Unity Log] WackysDatabase    SledgeBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SledgeFireTH 
-[Info   : Unity Log] WackysDatabase    SledgeFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SledgeIron 
-[Info   : Unity Log] WackysDatabase    SledgeIron Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SledgeStagbreaker 
-[Info   : Unity Log] WackysDatabase    SledgeStagbreaker Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SpearBlackmetal 
-[Info   : Unity Log] WackysDatabase    SpearBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SpearFireTH 
-[Info   : Unity Log] WackysDatabase    SpearFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBlackmetalParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordBlackmetalParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBlackmetalParry 
-[Info   : Unity Log] WackysDatabase    SwordBlackmetalParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBlackmetalShort 
-[Info   : Unity Log] WackysDatabase Added prefab SwordBlackmetalShort
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBlackmetalShort 
-[Info   : Unity Log] WackysDatabase    SwordBlackmetalShort Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBronzeParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordBronzeParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBronzeParry 
-[Info   : Unity Log] WackysDatabase    SwordBronzeParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBronzeShort 
-[Info   : Unity Log] WackysDatabase Added prefab SwordBronzeShort
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBronzeShort 
-[Info   : Unity Log] WackysDatabase    SwordBronzeShort Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordFireTH 
-[Info   : Unity Log] WackysDatabase    SwordFireTH Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordFolcbrand 
-[Info   : Unity Log] WackysDatabase    SwordFolcbrand Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordIronParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordIronParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordIronParry 
-[Info   : Unity Log] WackysDatabase    SwordIronParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordIronShort 
-[Info   : Unity Log] WackysDatabase Added prefab SwordIronShort
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordIronShort 
-[Info   : Unity Log] WackysDatabase    SwordIronShort Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordSilver 
-[Info   : Unity Log] WackysDatabase    SwordSilver Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordSilverParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordSilverParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordSilverParry 
-[Info   : Unity Log] WackysDatabase    SwordSilverParry Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordSilverShort 
-[Info   : Unity Log] WackysDatabase Added prefab SwordSilverShort
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordSilverShort 
-[Info   : Unity Log] WackysDatabase    SwordSilverShort Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ThrowingAxeBlackmetal 
-[Info   : Unity Log] WackysDatabase    ThrowingAxeBlackmetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ThrowingAxeBronze 
-[Info   : Unity Log] WackysDatabase    ThrowingAxeBronze Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ThrowingAxeFire 
-[Info   : Unity Log] WackysDatabase    ThrowingAxeFire Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ThrowingAxeFlint 
-[Info   : Unity Log] WackysDatabase    ThrowingAxeFlint Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ThrowingAxeIron 
-[Info   : Unity Log] WackysDatabase    ThrowingAxeIron Item has damage values 
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for ThrowingAxeSilver 
-[Info   : Unity Log] WackysDatabase    ThrowingAxeSilver Item has damage values 
-[Info   : Unity Log] WackysDatabase  item in SetItemData null XBow
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for YagluthDrop 
-[Info   : Unity Log] WackysDatabase Setting Piece data for MBRaft
-[Info   : Unity Log] WackysDatabase Setting Piece data for MS_Entrance
-[Info   : Unity Log] WackysDatabase Setting Recipe for $PlumgaClutterTool
-[Info   : Unity Log] WackysDatabase Removing recipe for $PlumgaClutterTool from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for ArmorNobleCape
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricBattleaxe
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricBow
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricDagger
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricGlaive
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricGreatsword
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricHalberd
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricHatchet
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricMace
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricSkeletonClub
-[Info   : Unity Log] WackysDatabase Setting Recipe for DaedricSword
-[Info   : Unity Log] WackysDatabase Setting Recipe for DeathBlade
-[Info   : Unity Log] WackysDatabase Removing recipe for DeathBlade from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for HeadElf
-[Info   : Unity Log] WackysDatabase Removing recipe for HeadElf from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for IronFangAxe
-[Info   : Unity Log] WackysDatabase Setting Recipe for IronFangBattleAxe
-[Info   : Unity Log] WackysDatabase Setting Recipe for IronFangHatchet
-[Info   : Unity Log] WackysDatabase Setting Recipe for MS_hammer
-[Info   : Unity Log] WackysDatabase Removing recipe for MS_hammer from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for NeedleBlade
-[Info   : Unity Log] WackysDatabase Removing recipe for NeedleBlade from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for odin_hammer
-[Info   : Unity Log] WackysDatabase Removing recipe for odin_hammer from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for OP_Bamboo_Hammer
-[Info   : Unity Log] WackysDatabase Removing recipe for OP_Bamboo_Hammer from the game
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rancient_sage_core
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RBlackmetalShredders
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RBowBlackmetalSkirmisher
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RCapeLinenFire
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RCapeLoxFire
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RCauterizingClaws
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RGreatswordBronze
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RHelmetLeatherInvisible
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeBlackMetalParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeCopperParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeFlame
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeIronParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RKnifeSilverParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RMaceBlackmetalBlock
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RMaceBronzeBlock
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RMaceIronBlock
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RMaceSilverBlock
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RPickaxeBlackmetal
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_firebolt2
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_firebolt3
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_firebolt4
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_force2
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_force3
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_frostbolt2
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_frostbolt3
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_frostbolt4
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageBookLinen
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageBookSlime
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RShieldBlackmetalBuckler
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSledgeBlackmetal
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBlackmetalParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBlackmetalShort
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBronzeParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBronzeShort
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordIronParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordIronShort
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordSilverParry
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordSilverShort
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_blink
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_chain_lightning
-[Info   : Unity Log] WackysDatabase Removing recipe for rune_chain_lightning from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_firebolt
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_force
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_frostbolt
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_frostnova
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_glacial_spike
-[Info   : Unity Log] WackysDatabase Removing recipe for rune_glacial_spike from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_heal
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_immolate
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_invigorate
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_light
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_recall
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_travel
-[Info   : Unity Log] WackysDatabase Setting Recipe for rune_warmth
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageBook01
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageBook02
-[Info   : Unity Log] WackysDatabase Removing recipe for SageBook02 from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageBook03
-[Info   : Unity Log] WackysDatabase Removing recipe for SageBook03 from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageBook04
-[Info   : Unity Log] WackysDatabase Removing recipe for SageBook04 from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageDarkStaff
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageFireStaff
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageHolyStaff
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageIceStaff
-[Info   : Unity Log] WackysDatabase Setting Recipe for SageLightningStaff
-[Info   : Unity Log] WackysDatabase Setting Recipe for ScholarFireStaff
-[Info   : Unity Log] WackysDatabase Removing recipe for ScholarFireStaff from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for ShieldIronSquare
-[Info   : Unity Log] WackysDatabase Removing recipe for ShieldIronSquare from the game
-[Info   : Unity Log] WackysDatabase Setting Recipe for ShieldSilverDagger
-[Info   : Unity Log] WackysDatabase Removing recipe for ShieldSilverDagger from the game
-[Info   : Unity Log] WackysDatabase maybe null XBow Should not get here
-[Info   : Unity Log] WackysDatabase  You did reload LOCAL Files
-[Warning: Unity Log] 08/23/2022 00:12:06: Missing location:1892273631
-
-[Warning: Unity Log] 08/23/2022 00:12:07: Missing location:1892273632
-
-[Info   : Unity Log] 08/23/2022 00:12:07: Setting saddle:False
-
-[Info   : Unity Log] 08/23/2022 00:12:08: Setting saddle:False
-
-[Info   : Unity Log] 08/23/2022 00:12:11: Spawned after 8.019994
-
-[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] Caching server config
-[Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 08/23/2022 00:12:11: Minimap: Adding unique location (-3.2, 33.7, 6.7)
-
-[Warning:Spawn That!] Unable to find prefab 'SlimePinkPurple_HS' for SlimePinkPurple_HS. Skipping world spawn template Evil Eye
-[Warning:Spawn That!] Issues with finding prefabs detected.
-The message "Unable to find prefab" means that Spawn That is loaded correctly, and is now trying to configure your spawns.
-However, the listed prefab was not registered in the game, and Spawn That is therefore unable to use it.
-Verify spelling of prefab name in Spawn That configurations, or that the creature/item is correctly loaded.
-[Info   : Unity Log] 08/23/2022 00:12:17: Spawned Neck x 2
-
-[Info   : Unity Log] 08/23/2022 00:20:40: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 08/23/2022 00:20:42: UI Group status changed MenuRoot = True
-
-[Info   : Unity Log] 08/23/2022 00:20:42: FOund selected Exit
-
-[Info   : Unity Log] 08/23/2022 00:20:43: UI Group status changed MenuRoot = False
-
-[Info   : Unity Log] 08/23/2022 00:20:43: UI Group status changed dialog = True
+[Info   : Unity Log] 08/23/2022 01:27:00: UI Group status changed Menu = True
 
 [Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 0
-[Info   : Unity Log] 08/23/2022 00:20:44: Game - OnApplicationQuit
-
-[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly MMHOOK_assembly_valheim, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
-  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
-  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
-  at HarmonyLib.AccessTools.GetTypesFromAssembly (System.Reflection.Assembly assembly) [0x0000d] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
-[Info   : Unity Log] 08/23/2022 00:20:44: Shuting down
-
-[Info   : Unity Log] 08/23/2022 00:20:44: Uncompressed size 8389163
-
-[Info   : Unity Log] 08/23/2022 00:20:44: Compressed size 8472
-
-[Info   : Unity Log] 08/23/2022 00:20:44: Steam Cloud Save: 39268 bytes. /characters/savtest.fch.new
-
-[Info   : Unity Log] 08/23/2022 00:20:44: Steam Cloud Move: 39268 bytes. /characters/savtest.fch -> /characters/savtest.fch.old
-
-[Info   : Unity Log] 08/23/2022 00:20:44: Steam Cloud Move: 39268 bytes. /characters/savtest.fch.new -> /characters/savtest.fch
-
-[Warning:WackysDatabase] Logoff? So reset - character will look empty if using clone gear
-[Info   : Unity Log] WackysDatabase All cloned Objects destoryed
-[Info   : Unity Log] 08/23/2022 00:20:44: ZNet Shutdown
-
-[Info   : Unity Log] 08/23/2022 00:20:45: clone 162
-
-[Info   : Unity Log] 08/23/2022 00:20:46: Sending disconnect msg
-
-[Info   : Unity Log] 08/23/2022 00:20:46: Disposing socket
-
-[Info   : Unity Log] 08/23/2022 00:20:46: Stopping listening socket
-
-[Info   : Unity Log] 08/23/2022 00:20:46: Last socket, unregistering callback
-
-[Info   : Unity Log] 08/23/2022 00:20:46: ZSteamSocket  UnregisterGlobalCallbacks, existing sockets:0
-
-[Info   : Unity Log] 08/23/2022 00:20:48: Steam manager on destroy
-
-[Warning: Unity Log] 08/23/2022 00:20:48: Local player destroyed
+[Info   : Unity Log] 08/23/2022 01:27:10: Steam manager on destroy
 
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
@@ -2461,9 +1541,3 @@ Verify spelling of prefab name in Spawn That configurations, or that the creatur
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
 [Warning:WackysDatabase] Calling the Destoryer of Worlds -End Game
-[Info   : Unity Log] 08/23/2022 00:20:55: FOund selected Button_yes
-
-[Info   : Unity Log] 08/23/2022 00:20:55: ZNet OnDestroy
-
-[Info   : Unity Log] 08/23/2022 00:20:55: Net scene destroyed
-
