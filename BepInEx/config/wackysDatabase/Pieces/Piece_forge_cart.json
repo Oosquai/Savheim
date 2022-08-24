@@ -1,0 +1,21 @@
+{
+    "name": "forge_cart",
+    "m_name": "$piece_forge $tool_cart",
+    "m_description": "$piece_forge_cart_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Stone:4:1:True",
+        "Coal:4:1:True",
+        "Wood:20:1:True",
+        "BronzeNails:10:1:True"
+    ]
+}

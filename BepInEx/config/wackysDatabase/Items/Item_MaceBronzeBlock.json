@@ -23,7 +23,7 @@
     "m_deflectionForce": 30.0,
     "m_deflectionForcePerLevel": 5.0,
     "m_backstabbonus": 3.0,
-    "m_knockback": 90.0,
+    "m_knockback": 60.0,
     "m_destroyBroken": false,
     "m_dodgeable": true,
     "m_maxDurability": 200.0,

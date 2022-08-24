@@ -32,7 +32,7 @@
     "m_equipDuration": 0.20000000298023225,
     "m_holdDurationMin": 0.0,
     "m_holdStaminaDrain": 0.0,
-    "m_maxQuality": 2,
+    "m_maxQuality": 3,
     "m_useDurability": true,
     "m_useDurabilityDrain": 1.0,
     "m_questItem": false,

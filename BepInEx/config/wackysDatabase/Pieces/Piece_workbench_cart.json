@@ -1,0 +1,19 @@
+{
+    "name": "workbench_cart",
+    "m_name": "$piece_workbench $tool_cart",
+    "m_description": "$piece_workbench_cart_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Wood:20:1:True",
+        "BronzeNails:10:1:True"
+    ]
+}

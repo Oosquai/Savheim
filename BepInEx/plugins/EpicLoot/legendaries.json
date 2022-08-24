@@ -400,7 +400,7 @@
         "AllowedSkillTypes": [ "Clubs" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "ModifyBlockPower" }
+        { "Type": "ModifyBlockPower", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } }
       ]
     },
     {

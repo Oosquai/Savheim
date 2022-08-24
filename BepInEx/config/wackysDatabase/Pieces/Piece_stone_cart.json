@@ -1,0 +1,20 @@
+{
+    "name": "stone_cart",
+    "m_name": "$piece_stonecutter $tool_cart",
+    "m_description": "$piece_stone_cart_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Wood:20:1:True",
+        "IronNails:10:1:True",
+        "Stone:4:1:True"
+    ]
+}

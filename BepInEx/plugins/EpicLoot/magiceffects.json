@@ -253,8 +253,7 @@
       "Requirements" : {
         "AllowedItemTypes" : [
           "Shield"
-        ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ],
+        ]
         "ItemHasBlockPower" : true
       },
       "ValuesPerRarity" : {
@@ -281,7 +280,7 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler"
+        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook"
         ]
       },
       "ValuesPerRarity" : {
@@ -2159,6 +2158,7 @@
       "DisplayText" : "$mod_epicloot_me_featherfall_display",
       "Description" : "$mod_epicloot_me_featherfall_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Legs"
         ]

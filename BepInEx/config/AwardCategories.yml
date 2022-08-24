@@ -108,7 +108,7 @@ death by physical:
 
 death by gravity:
   - "{player} discovered gravity. Huzzah!"
-  - "{player} forgot to break before landing."
+  - "{player} forgot to brake before landing."
   - "{player} confirmed Newton's laws."
   - "{player} said he was not afraid of heights."
   - "{player} is no longer afraid of heights."

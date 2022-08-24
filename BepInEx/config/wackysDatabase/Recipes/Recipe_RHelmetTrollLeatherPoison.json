@@ -1,0 +1,14 @@
+{
+    "name": "RHelmetTrollLeatherPoison",
+    "clone": true,
+    "clonePrefabName": "HelmetTrollLeatherPoison",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "TrollHide:5:2:True",
+        "BoneFragments:3:1:True",
+        "Guck:5:1:True"
+    ]
+}

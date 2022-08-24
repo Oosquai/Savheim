@@ -9,7 +9,7 @@
     "reqs": [
         "ancient_sage_core:1:0:False",
         "YagluthDrop:1:0:False",
-        "Flametal:25:10:False",
+        "BlackMetal:25:10:False",
         "SurtlingCore:5:2:False"
     ]
 }

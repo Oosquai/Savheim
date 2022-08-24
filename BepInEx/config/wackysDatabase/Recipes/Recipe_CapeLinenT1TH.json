@@ -1,0 +1,14 @@
+{
+    "name": "CapeLinenT1TH",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": true,
+    "reqs": [
+        "SalamanderFurTH:4:0:True",
+        "BoneFragments:3:0:True",
+        "CapeLinenT0TH:1:0:False"
+    ]
+}
