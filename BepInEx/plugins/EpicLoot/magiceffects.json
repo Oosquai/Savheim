@@ -178,6 +178,7 @@
       "DisplayText" : "$mod_epicloot_me_reduceweight_display",
       "Description" : "$mod_epicloot_me_reduceweight_desc",
       "Requirements" : {
+        "NoRoll": true,
         "ExclusiveEffectTypes" : [
           "Weightless"
         ],
@@ -253,14 +254,14 @@
       "Requirements" : {
         "AllowedItemTypes" : [
           "Shield"
-        ]
+        ],
         "ItemHasBlockPower" : true
       },
       "ValuesPerRarity" : {
-        "Magic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
+        "Magic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
         "Rare" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Epic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 }
+        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -284,10 +285,10 @@
         ]
       },
       "ValuesPerRarity" : {
-        "Magic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
+        "Magic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
         "Rare" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
         "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 }
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -313,10 +314,10 @@
         "ItemHasArmor" : true
       },
       "ValuesPerRarity" : {
-        "Magic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
+        "Magic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
         "Rare" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Epic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 }
+        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -340,10 +341,10 @@
         "ItemHasBackstabBonus" : true
       },
       "ValuesPerRarity" : {
-        "Magic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
+        "Magic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
         "Rare" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Epic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 }
+        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -425,10 +426,10 @@
         ]
       },
       "ValuesPerRarity" : {
-        "Magic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
+        "Magic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
         "Rare" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Epic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 }
+        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -481,10 +482,10 @@
         ]
       },
       "ValuesPerRarity" : {
-        "Magic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
+        "Magic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
         "Rare" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Epic" : { "MinValue" : 10, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 25, "Increment" : 1 }
+        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -1476,6 +1477,7 @@
       "DisplayText" : "$mod_epicloot_me_weightless_display",
       "Description" : "$mod_epicloot_me_weightless_desc",
       "Requirements" : {
+        "NoRoll": true,
         "ExclusiveEffectTypes" : [
           "ReduceWeight"
         ],
@@ -2215,6 +2217,7 @@
       "DisplayText" : "$mod_epicloot_me_modifymovementspeedlowhealth_display",
       "Description" : "$mod_epicloot_me_modifymovementspeedlowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "ExclusiveEffectTypes" : [
           "RemoveSpeedPenalty"
         ],
@@ -2242,6 +2245,7 @@
       "DisplayText" : "$mod_epicloot_me_modifyhealthregenlowhealth_display",
       "Description" : "$mod_epicloot_me_modifyhealthregenlowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Helmet",
           "Chest",
@@ -2269,6 +2273,7 @@
       "DisplayText" : "$mod_epicloot_me_modifystaminaregenlowhealth_display",
       "Description" : "$mod_epicloot_me_modifystaminaregenlowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Helmet",
           "Chest",
@@ -2297,6 +2302,7 @@
       "DisplayText" : "$mod_epicloot_me_modifyarmorlowhealth_display",
       "Description" : "$mod_epicloot_me_modifyarmorlowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Helmet",
           "Chest",
@@ -2326,6 +2332,7 @@
       "DisplayText" : "$mod_epicloot_me_modifydamagelowhealth_display",
       "Description" : "$mod_epicloot_me_modifydamagelowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "OneHandedWeapon",
           "TwoHandedWeapon",
@@ -2354,6 +2361,7 @@
       "DisplayText" : "$mod_epicloot_me_modifyblockpowerlowhealth_display",
       "Description" : "$mod_epicloot_me_modifyblockpowerlowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Shield"
         ],
@@ -2381,6 +2389,7 @@
       "DisplayText" : "$mod_epicloot_me_modifyparrylowhealth_display",
       "Description" : "$mod_epicloot_me_modifyparrylowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "Shield"
         ],
@@ -2408,6 +2417,7 @@
       "DisplayText" : "$mod_epicloot_me_modifyattackspeedlowhealth_display",
       "Description" : "$mod_epicloot_me_modifyattackspeedlowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "OneHandedWeapon",
           "TwoHandedWeapon",
@@ -2460,6 +2470,7 @@
       "DisplayText" : "$mod_epicloot_me_lifesteallowhealth_display",
       "Description" : "$mod_epicloot_me_lifesteallowhealth_desc",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes" : [
           "OneHandedWeapon",
           "TwoHandedWeapon",
