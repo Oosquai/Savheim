@@ -1,0 +1,14 @@
+{
+    "name": "RSageBookFrometal",
+    "clone": true,
+    "clonePrefabName": "SageBookFrometal",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "LeatherScraps:10:5:True",
+        "Resin:4:2:True",
+        "Coal:4:4:True"
+    ]
+}

@@ -525,19 +525,52 @@
     {
       "Name": "Tier6Weapons",
       "Loot": [
-        { "Item": "SpearFireTH",         "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SledgeFireTH",        "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SwordFireTH",         "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BowFireTH",           "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AtgeirFireTH",        "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BattleaxeFireTH",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "GreatswordFireTH",    "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "MaceFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "KnifeFireTH",         "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AxeFireTH",           "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ThrowingAxeFire",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "KnifeFlame",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "CauterizingClaws",    "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "SpearFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SledgeFireTH",         "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SwordFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BowFireTH",            "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AtgeirFireTH",         "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BattleaxeFireTH",      "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "GreatswordFireTH",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "MaceFireTH",           "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "KnifeFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AxeFireTH",            "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ThrowingAxeFire",      "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "KnifeFlame",           "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "CauterizingClaws",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BowHeavymetal",        "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AtgeirHeavymetal",     "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SledgeHeavymetal",     "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BattleaxeHeavymetal",  "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SpearHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "KnifeHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "MaceHeavymetal",       "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "GreatSwordHeavymetal", "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SwordHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AxeHeavymetal",        "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "PickaxeHeavymetal",    "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BowFrometal",          "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AtgeirFrometal",       "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SledgeFrometal",       "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BattleaxeFrometal",    "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SpearFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "KnifeFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "MaceFrometal",         "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "GreatSwordFrometal",   "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SwordFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AxeFrometal",          "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "PickaxeFrometal",      "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BowFlametal",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AtgeirFlametal",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SledgeFlametal",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "BattleaxeFlametal",    "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SpearFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "KnifeFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "MaceFlametal",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "GreatSwordFlametal",   "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SwordFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "AxeFlametal",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "PickaxeFlametal",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
       ]
     },
     {
@@ -550,14 +583,22 @@
         { "Item": "ArmorMistlandsHelmet", "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
         { "Item": "ChaosPlateHelm",       "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
         { "Item": "GoldRubyRing",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SilverRing",           "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "SilverRing",           "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "CapeOdin",             "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "HelmetOdin",           "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] }
       ]
     },
     {
       "Name": "Tier6Shields",
       "Loot": [
-        { "Item": "ShieldFireTowerTH", "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldFireTH",      "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "ShieldFireTowerTH",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ShieldFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ShieldHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ShieldHeavymetalTower", "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ShieldFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ShieldFrometalTower",   "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ShieldFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "ShieldFlametalTower",   "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
       ]
     },
     {
@@ -1868,7 +1909,18 @@
       "Object": "FlyingEyeBlack_GE",
       "RefObject": "Tier6MobSpecial"
     },
-
+    {
+      "Object": "Golden_Greydwarf_Miniboss",
+      "RefObject": "Tier6MobSpecial"
+    },
+    {
+      "Object": "Golden_Troll_Miniboss",
+      "RefObject": "Tier6MobSpecial"
+    },
+    {
+      "Object": "Golden_Wraith_Miniboss",
+      "RefObject": "Tier6MobSpecial"
+    },
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // BOSSES
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -2272,6 +2324,53 @@
         }
       ]
     },
+    {
+      "Object": "Jotunn",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.1" }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.2" }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.3" }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.4" }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.5" }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "GoblinKing.6" }
+          ]
+        }
+      ]
+    },
     // Forgotten One (Far North (event?) Boss)
     ////////////////////////////////////////////////////////////////////////////////////
     {
@@ -2374,6 +2473,200 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_DarkProtector",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.1" }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.2" }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.3" }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.4" }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.5" }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "GoblinKing.6" }
+          ]
+        }
+      ]
+    },
+    // Svartalfar Queen (Mistlands Boss)
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "SvartalfarQueen",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.1" }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.2" }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.3" }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.4" }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.5" }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "GoblinKing.6" }
+          ]
+        }
+      ]
+    },
+    {
+      "Object": "RRRN_SvartalfarQueen",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.1" }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.2" }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.3" }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.4" }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.5" }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "GoblinKing.6" }
+          ]
+        }
+      ]
+    },
+    // Hel Demon (Ashlands Boss)
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "HelDemon",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.1" }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.2" }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.3" }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.4" }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Loot": [
+            { "Item": "GoblinKing.5" }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "GoblinKing.6" }
+          ]
+        }
+      ]
+    },
+    // Kraken (Ocean Boss)
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Kraken",
       "LeveledLoot": [
         {
           "Level": 1,
