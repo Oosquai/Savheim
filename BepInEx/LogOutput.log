@@ -42,25 +42,25 @@
 [Warning:  HarmonyX] AccessTools.DeclaredMethod: Could not find method for type Console and name InputText and parameters 
 [Warning:  HarmonyX] Unknown patch - Could not find method InputText with 0 parameters in type Console, but it was found in base class of this type Terminal
 [Info   :   BepInEx] Loading [Creature Level & Loot Control 4.4.9]
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:14:26: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:14:27: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:29:43: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:14:27: Loaded localization CSV:localization_extra language:English
 
 [Info   :   BepInEx] Loading [Extended Item Data Framework 1.0.7]
 [Info   :   BepInEx] Loading [Epic Loot 0.8.9]
@@ -408,13 +408,7 @@
 [Info   : Unity Log] Loading config section GridAlignment
 [Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section CraftFromChest
-[Info   : Unity Log]  Loading key range
-[Info   : Unity Log]  Loading key disableCookingStation
-[Info   : Unity Log]  Loading key checkFromWorkbench
-[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
-[Info   : Unity Log]  Loading key lookupInterval
-[Info   : Unity Log]  Loading key allowCraftingFromCarts
-[Info   : Unity Log]  Loading key allowCraftingFromShips
+[Info   : Unity Log]  Section not enabled
 [Info   : Unity Log] Loading config section ValheimPlus
 [Info   : Unity Log]  Loading key mainMenuLogo
 [Info   : Unity Log]  Loading key serverBrowserAdvertisement
@@ -456,286 +450,286 @@
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
 [Info   : Unity Log] WackysDatabase Loaded files
 [Message:   BepInEx] Chainloader startup complete
-[Info   : Unity Log] 08/24/2022 02:30:45: Starting to load scene:start
+[Info   : Unity Log] 08/25/2022 09:15:32: Starting to load scene:start
 
 [Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:48: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:36: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:49: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:37: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:38: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:50: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:39: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:51: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:52: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:52: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:40: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:52: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:40: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:41: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:41: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:53: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:42: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:54: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:43: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:55: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:44: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Using environment steamid 892970
+[Info   : Unity Log] 08/25/2022 09:15:44: Using environment steamid 892970
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Using steam APPID:892970
+[Info   : Unity Log] 08/25/2022 09:15:44: Using steam APPID:892970
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Authentication:k_ESteamNetworkingAvailability_Attempting
+[Info   : Unity Log] 08/25/2022 09:15:45: Authentication:k_ESteamNetworkingAvailability_Attempting
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Steam initialized, persona:Oosquai
+[Info   : Unity Log] 08/25/2022 09:15:45: Steam initialized, persona:Oosquai
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Using default prefs
+[Info   : Unity Log] 08/25/2022 09:15:45: Using default prefs
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Valheim version:0.209.10@0.9.9.8
+[Info   : Unity Log] 08/25/2022 09:15:45: Valheim version:0.209.10@0.9.9.8
 
 [Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
-[Info   : Unity Log] 08/24/2022 02:30:56: Render threading mode:MultiThreaded
+[Info   : Unity Log] 08/25/2022 09:15:45: Render threading mode:MultiThreaded
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:45: Loaded localization CSV:localization_extra language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:46: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:56: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:46: Loaded localization CSV:localization_extra language:English
 
-[Warning: Unity Log] 08/24/2022 02:30:57: Missing audio clip in music respawn
+[Warning: Unity Log] 08/25/2022 09:15:46: Missing audio clip in music respawn
 
-[Info   : Unity Log] 08/24/2022 02:30:57: Checking for installed DLCs
+[Info   : Unity Log] 08/25/2022 09:15:46: Checking for installed DLCs
 
-[Info   : Unity Log] 08/24/2022 02:30:57: DLC:beta installed:False
+[Info   : Unity Log] 08/25/2022 09:15:46: DLC:beta installed:False
 
 [Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
-[Info   : Unity Log] 08/24/2022 02:30:57: Loaded localization CSV:localization language:English
+[Info   : Unity Log] 08/25/2022 09:15:47: Loaded localization CSV:localization language:English
 
-[Info   : Unity Log] 08/24/2022 02:30:57: Loaded localization CSV:localization_extra language:English
+[Info   : Unity Log] 08/25/2022 09:15:47: Loaded localization CSV:localization_extra language:English
 
 [Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
 [Warning:RRRMonsters] True
@@ -1584,35 +1578,35 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] [Better Trader] Loaded conversion [$mod_epicloot_assets_goldbountytoken]/[GoldBountyToken] and added it to ObjectDBCache!!
 [Info   : Unity Log] [Better Trader] Loaded conversion [$item_runemagic_runefocus]/[RuneFocus] and added it to ObjectDBCache!!
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
-[Info   : Unity Log] 08/24/2022 02:31:04: UI Group status changed Menu = True
+[Info   : Unity Log] 08/25/2022 09:15:53: UI Group status changed Menu = True
 
-[Info   : Unity Log] 08/24/2022 02:31:05: UI Group status changed Menu = True
+[Info   : Unity Log] 08/25/2022 09:15:55: UI Group status changed Menu = True
 
-[Info   : Unity Log] 08/24/2022 02:32:58: FOund selected Start game
+[Info   : Unity Log] 08/25/2022 09:18:13: FOund selected Start game
 
-[Info   : Unity Log] 08/24/2022 02:32:58: show character selection
+[Info   : Unity Log] 08/25/2022 09:18:13: show character selection
 
-[Info   : Unity Log] 08/24/2022 02:32:59: OnCharacterStart
+[Info   : Unity Log] 08/25/2022 09:18:14: OnCharacterStart
 
 [Message:Spawn That!] Loading local spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.0106114
+[Message:Spawn That!] Config loading took: 00:00:00.0090556
 [Message:Spawn That!] Loading simple configurations
 [Message:Spawn That!] Loading world spawner configurations.
-[Message:Spawn That!] Config loading took: 00:00:00.2711307
-[Info   : Unity Log] 08/24/2022 02:33:13: Steam initialized, persona:Oosquai
+[Message:Spawn That!] Config loading took: 00:00:00.3419525
+[Info   : Unity Log] 08/25/2022 09:18:28: Steam initialized, persona:Oosquai
 
-[Info   : Unity Log] 08/24/2022 02:33:13: Using default prefs
+[Info   : Unity Log] 08/25/2022 09:18:28: Using default prefs
 
 [Info   :Jotunn.Managers.CommandManager] Adding 2 commands to the Console
-[Info   : Unity Log] 08/24/2022 02:33:13: Loading player profile savtest
+[Info   : Unity Log] 08/25/2022 09:18:28: Loading player profile savtest
 
-[Info   : Unity Log] 08/24/2022 02:33:13: isModded: True
+[Info   : Unity Log] 08/25/2022 09:18:28: isModded: True
 
-[Info   : Unity Log] 08/24/2022 02:33:13: Zonesystem Awake 11743
+[Info   : Unity Log] 08/25/2022 09:18:28: Zonesystem Awake 14238
 
-[Info   : Unity Log] 08/24/2022 02:33:13: DungeonDB Awake 11743
+[Info   : Unity Log] 08/25/2022 09:18:28: DungeonDB Awake 14238
 
-[Info   : Unity Log] 08/24/2022 02:33:13: Steam initialized, persona:Oosquai
+[Info   : Unity Log] 08/25/2022 09:18:28: Steam initialized, persona:Oosquai
 
 [Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
 [Info   : Unity Log] Registered 'CL&LC ConfigSync' RPC - waiting for incoming connections
@@ -1807,23 +1801,23 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
 [Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
 [Info   :RRRMonsters] Loading: C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\config\Savheim_enemies\rrrmonsters.custom.ForestSpider.json
-[Info   : Unity Log] 08/24/2022 02:33:18: Audioman already exist, destroying self
+[Info   : Unity Log] 08/25/2022 09:18:34: Audioman already exist, destroying self
 
-[Info   : Unity Log] 08/24/2022 02:33:18: Checking for installed DLCs
+[Info   : Unity Log] 08/25/2022 09:18:34: Checking for installed DLCs
 
-[Info   : Unity Log] 08/24/2022 02:33:18: DLC:beta installed:False
+[Info   : Unity Log] 08/25/2022 09:18:34: DLC:beta installed:False
 
 [Info   : Unity Log] [Better Trader] Initializing UI!
 [Info   : Unity Log] [Better Trader] Trader's coins were loaded from Player Prefs with a value of 5000
 [Info   : Unity Log] CustomDreamTexts Loaded 24 dreams
 [Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
 [Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
-[Info   : Unity Log] 08/24/2022 02:33:22: Zonesystem Start 11743
+[Info   : Unity Log] 08/25/2022 09:18:38: Zonesystem Start 14238
 
 [Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file C:\Program Files (x86)\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
-[Info   : Unity Log] 08/24/2022 02:33:23: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
+[Info   : Unity Log] 08/25/2022 09:18:39: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups from locations_cp1
 
-[Info   : Unity Log] 08/24/2022 02:33:23: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
+[Info   : Unity Log] 08/25/2022 09:18:39: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups from locations_mountaincaves
 
 [Info   :EpicValheimsAdditions.Core] Loaded Locations
 [Info   :EpicValheimsAdditions.Core] Updated EVA Resource drop tables
@@ -1844,23 +1838,23 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] Skipping BossStone_TheElder
 [Info   : Unity Log] Skipping BossStone_Eikthyr
 [Info   : Unity Log] Cached water surface vertex order
-[Info   : Unity Log] 08/24/2022 02:33:23: DungeonDB Start 11743
+[Info   : Unity Log] 08/25/2022 09:18:40: DungeonDB Start 14238
 
-[Info   : Unity Log] 08/24/2022 02:33:24: Load world: SavheimIITest (SavheimIITest)
+[Info   : Unity Log] 08/25/2022 09:18:41: Load world: SavheimIITest (SavheimIITest)
 
-[Info   : Unity Log] 08/24/2022 02:33:24: Loading 239827 zdos , my id 3383534702 data version:28
+[Info   : Unity Log] 08/25/2022 09:18:41: Loading 239831 zdos , my id 3469306952 data version:28
 
-[Info   : Unity Log] 08/24/2022 02:33:25: Loaded 100000 dead zdos
+[Info   : Unity Log] 08/25/2022 09:18:42: Loaded 100000 dead zdos
 
-[Info   : Unity Log] 08/24/2022 02:33:25: Removed 0 OLD generated ZDOS
+[Info   : Unity Log] 08/25/2022 09:18:42: Removed 0 OLD generated ZDOS
 
-[Info   : Unity Log] 08/24/2022 02:33:25: Loaded 9252 locations
+[Info   : Unity Log] 08/25/2022 09:18:42: Loaded 9252 locations
 
-[Info   : Unity Log] 08/24/2022 02:33:33: Unpacking compressed mapdata 8710
+[Info   : Unity Log] 08/25/2022 09:18:51: Unpacking compressed mapdata 8710
 
-[Info   : Unity Log] 08/24/2022 02:33:35: Starting respawn
+[Info   : Unity Log] 08/25/2022 09:18:53: Starting respawn
 
-[Info   : Unity Log] 08/24/2022 02:33:35: tip:$loadscreen_tip23
+[Info   : Unity Log] 08/25/2022 09:18:53: tip:$loadscreen_tip25
 
 [Warning:WackysDatabase] You Will be kicked from Multiplayer Servers! 0.0.1
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for ancient_sage_core 
@@ -2144,6 +2138,15 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_travel 
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for rune_warmth 
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageBook01 
+[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageBookFlametal 
+[Info   : Unity Log] WackysDatabase Added prefab SageBookFlametal
+[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageBookFlametal 
+[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageBookFrometal 
+[Info   : Unity Log] WackysDatabase Added prefab SageBookFrometal
+[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageBookFrometal 
+[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageBookHeavymetal 
+[Info   : Unity Log] WackysDatabase Added prefab SageBookHeavymetal
+[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageBookHeavymetal 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageBookLinen 
 [Info   : Unity Log] WackysDatabase Added prefab SageBookLinen
 [Info   : Unity Log] WackysDatabase Material name searching for CrystalAxe_mat
@@ -2174,14 +2177,17 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase    SageDarkStaff Item has damage values 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageDarkStaffFlametal 
 [Info   : Unity Log] WackysDatabase Added prefab SageDarkStaffFlametal
+[Info   : Unity Log] WackysDatabase Material name searching for Flametal_Color
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageDarkStaffFlametal 
 [Info   : Unity Log] WackysDatabase    SageDarkStaffFlametal Item has damage values 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageDarkStaffFrometal 
 [Info   : Unity Log] WackysDatabase Added prefab SageDarkStaffFrometal
+[Info   : Unity Log] WackysDatabase Material name searching for Frometal_Color
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageDarkStaffFrometal 
 [Info   : Unity Log] WackysDatabase    SageDarkStaffFrometal Item has damage values 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SageDarkStaffHeavymetal 
 [Info   : Unity Log] WackysDatabase Added prefab SageDarkStaffHeavymetal
+[Info   : Unity Log] WackysDatabase Material name searching for Heavymetal_Color
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageDarkStaffHeavymetal 
 [Info   : Unity Log] WackysDatabase    SageDarkStaffHeavymetal Item has damage values 
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SageFireStaff 
@@ -2319,18 +2325,10 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase    SpearFrometal Item has damage values 
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SpearHeavymetal 
 [Info   : Unity Log] WackysDatabase    SpearHeavymetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBlackmetalParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordBlackmetalParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBlackmetalParry 
-[Info   : Unity Log] WackysDatabase    SwordBlackmetalParry Item has damage values 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBlackmetalShort 
 [Info   : Unity Log] WackysDatabase Added prefab SwordBlackmetalShort
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBlackmetalShort 
 [Info   : Unity Log] WackysDatabase    SwordBlackmetalShort Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBronzeParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordBronzeParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBronzeParry 
-[Info   : Unity Log] WackysDatabase    SwordBronzeParry Item has damage values 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordBronzeShort 
 [Info   : Unity Log] WackysDatabase Added prefab SwordBronzeShort
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordBronzeShort 
@@ -2345,20 +2343,12 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase    SwordFrometal Item has damage values 
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordHeavymetal 
 [Info   : Unity Log] WackysDatabase    SwordHeavymetal Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordIronParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordIronParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordIronParry 
-[Info   : Unity Log] WackysDatabase    SwordIronParry Item has damage values 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordIronShort 
 [Info   : Unity Log] WackysDatabase Added prefab SwordIronShort
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordIronShort 
 [Info   : Unity Log] WackysDatabase    SwordIronShort Item has damage values 
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordSilver 
 [Info   : Unity Log] WackysDatabase    SwordSilver Item has damage values 
-[Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordSilverParry 
-[Info   : Unity Log] WackysDatabase Added prefab SwordSilverParry
-[Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordSilverParry 
-[Info   : Unity Log] WackysDatabase    SwordSilverParry Item has damage values 
 [Info   : Unity Log] WackysDatabase Item CLONE DATA in SetItemData for SwordSilverShort 
 [Info   : Unity Log] WackysDatabase Added prefab SwordSilverShort
 [Info   : Unity Log] WackysDatabase Item being Set in SetItemData for SwordSilverShort 
@@ -2442,6 +2432,9 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_frostbolt2
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_frostbolt3
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for Rrune_frostbolt4
+[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageBookFlametal
+[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageBookFrometal
+[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageBookHeavymetal
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageBookLinen
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageBookSlime
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageDarkStaffFlametal
@@ -2461,13 +2454,9 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSageLightningStaffHeavymetal
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RShieldBlackmetalBuckler
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSledgeBlackmetal
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBlackmetalParry
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBlackmetalShort
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBronzeParry
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordBronzeShort
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordIronParry
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordIronShort
-[Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordSilverParry
 [Info   : Unity Log] WackysDatabase Setting Cloned Recipe for RSwordSilverShort
 [Info   : Unity Log] WackysDatabase Setting Recipe for rune_blink
 [Info   : Unity Log] WackysDatabase Setting Recipe for rune_chain_lightning
@@ -2505,67 +2494,1422 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Info   : Unity Log] WackysDatabase Removing recipe for ShieldSilverDagger from the game
 [Info   : Unity Log] WackysDatabase maybe null XBow Should not get here
 [Info   : Unity Log] WackysDatabase  You did reload LOCAL Files
-[Info   : Unity Log] 08/24/2022 02:33:39: Failed to find item prefab CapeLinenFire
+[Info   : Unity Log] 08/25/2022 09:18:57: Failed to find item prefab CapeLinenFire
 
-[Warning: Unity Log] 08/24/2022 02:33:39: Missing location:1892273631
+[Warning: Unity Log] 08/25/2022 09:18:58: Missing location:1892273631
 
-[Warning: Unity Log] 08/24/2022 02:33:40: Missing location:1892273631
+[Info   : Unity Log] 08/25/2022 09:18:58: Force generaeting hmap (-192.0, 0.0, 64.0)
 
-[Info   : Unity Log] 08/24/2022 02:33:40: Force generaeting hmap (-192.0, 0.0, 64.0)
+[Warning: Unity Log] 08/25/2022 09:18:58: Missing location:1892273631
 
-[Info   : Unity Log] 08/24/2022 02:33:40: Setting saddle:False
+[Info   : Unity Log] 08/25/2022 09:18:59: Setting saddle:False
 
-[Info   : Unity Log] 08/24/2022 02:33:43: Spawned after 8.019994
+[Info   : Unity Log] 08/25/2022 09:19:02: Spawned after 8.019994
 
 [Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
 [Info   : Unity Log] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
 [Info   : Unity Log] Caching server config
 [Info   : Unity Log] Sending server config to 0 clients
-[Info   : Unity Log] 08/24/2022 02:33:44: Minimap: Adding unique location (-3.2, 33.7, 6.7)
+[Info   : Unity Log] 08/25/2022 09:19:02: Minimap: Adding unique location (-3.2, 33.7, 6.7)
 
-[Info   : Unity Log] 08/24/2022 02:36:22: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 08/25/2022 09:19:49: Spawn time :1.984 ms
 
-[Info   : Unity Log] 08/24/2022 02:36:24: UI Group status changed MenuRoot = True
+[Info   : Unity Log] 08/25/2022 09:19:51: Queue unlock msg:$msg_newitem:Scholar Fire Staff
 
-[Info   : Unity Log] 08/24/2022 02:36:24: FOund selected Exit
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 09:19:58: Setting selected recipe 0
 
-[Info   : Unity Log] 08/24/2022 02:36:29: UI Group status changed MenuRoot = True
+[Message:MultiCraft] Creating new plus button
+[Message:MultiCraft] Creating new minus button
+[Message:MultiCraft] CreatingNewAmountText
+[Info   : Unity Log] 08/25/2022 09:19:58: UI Group status changed root = True
 
-[Info   : Unity Log] 08/24/2022 02:36:31: UI Group status changed MenuRoot = False
+[Info   : Unity Log] 08/25/2022 09:19:58: UI Group status changed Player = True
 
-[Info   : Unity Log] 08/24/2022 02:36:31: UI Group status changed dialog = True
+[Info   : Unity Log] 08/25/2022 09:20:18: Spawn time :0.9953 ms
 
-[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 5000
-[Info   : Unity Log] 08/24/2022 02:36:31: Game - OnApplicationQuit
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 09:21:06: Spawn time :0.9919 ms
+
+[Info   : Unity Log] 08/25/2022 09:21:11: Spawn time :0.4966 ms
+
+[Info   : Unity Log] 08/25/2022 09:21:13: Spawn time :0.9893 ms
+
+[Info   : Unity Log] 08/25/2022 09:21:13: Queue unlock msg:$msg_newitem:Sage Robe Blue
+
+[Info   : Unity Log] 08/25/2022 09:21:21: Queue unlock msg:$msg_newitem:Sage Robe Black
+
+[Info   : Unity Log] 08/25/2022 09:21:21: Queue unlock msg:$msg_newitem:Sage Robe Red
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 09:21:45: Spawn time :0.9924 ms
+
+[Info   : Unity Log] 08/25/2022 09:21:46: Queue unlock msg:$msg_newitem:Sage Hood Red
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 09:21:55: Spawn time :0.9922 ms
+
+[Info   : Unity Log] 08/25/2022 09:21:56: Queue unlock msg:$msg_newitem:Sage Pants
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 09:38:56: Uncompressed size 8389843
+
+[Info   : Unity Log] 08/25/2022 09:38:56: Compressed size 8710
+
+[Info   : Unity Log] 08/25/2022 09:38:56: Steam Cloud Save: 37890 bytes. /characters/savtest.fch.new
+
+[Info   : Unity Log] 08/25/2022 09:38:56: Steam Cloud Move: 37152 bytes. /characters/savtest.fch -> /characters/savtest.fch.old
+
+[Info   : Unity Log] 08/25/2022 09:38:56: Steam Cloud Move: 37890 bytes. /characters/savtest.fch.new -> /characters/savtest.fch
+
+[Info   : Unity Log] 08/25/2022 09:38:56: clone 271
+
+[Info   : Unity Log] 08/25/2022 09:48:02: Spawned Greydwarf_Elite x 1
+
+[Info   :FastTeleport] Set teleport timer to 8
+[Info   : Unity Log] 08/25/2022 09:51:15: Destroyed invalid predab ZDO:2740279122:237889
+
+[Info   : Unity Log] 08/25/2022 09:51:15: Destroyed invalid predab ZDO:2740279122:237888
+
+[Info   : Unity Log] 08/25/2022 09:51:16: Destroyed invalid predab ZDO:2740279122:237890
+
+[Info   : Unity Log] 08/25/2022 09:51:25: Spawned RRRM_PolarFenring x 1
+
+[Info   : Unity Log] 08/25/2022 09:51:25: Setting saddle:False
+
+[Info   : Unity Log] 08/25/2022 09:51:25: Spawned RRRM_PolarLox x 1
+
+[Info   : Unity Log] 08/25/2022 09:51:25: Spawned RRRM_SmallPolarSerpent x 1
+
+[Info   : Unity Log] 08/25/2022 09:51:25: Spawned RRRM_FrozenCorpse x 5
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:51:42: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 09:51:42: Spawned RRRN_Dvergr x 3
+
+[Info   : Unity Log] 08/25/2022 09:51:42: Spawned RRR_Hostile_T6 x 3
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:09: hit mine rock 0
+
+[Info   : Unity Log] 08/25/2022 09:52:09: Suport time 2.685547
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:11: hit mine rock 17
+
+[Info   : Unity Log] 08/25/2022 09:52:11: hit mine rock 17
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:12: hit mine rock 19
+
+[Info   : Unity Log] 08/25/2022 09:52:12: Suport time 2.685547
+
+[Info   : Unity Log] 08/25/2022 09:52:12: hit mine rock 140
+
+[Info   : Unity Log] 08/25/2022 09:52:12: Suport time 4.394531
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:16: hit mine rock 20
+
+[Info   : Unity Log] 08/25/2022 09:52:16: Suport time 2.929688
+
+[Info   : Unity Log] 08/25/2022 09:52:16: hit mine rock 103
+
+[Info   : Unity Log] 08/25/2022 09:52:16: Suport time 4.882813
+
+[Info   : Unity Log] 08/25/2022 09:52:16: hit mine rock 50
+
+[Info   : Unity Log] 08/25/2022 09:52:16: Suport time 3.173828
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:18: hit mine rock 81
+
+[Info   : Unity Log] 08/25/2022 09:52:18: Suport time 3.173828
+
+[Info   : Unity Log] 08/25/2022 09:52:18: hit mine rock 35
+
+[Info   : Unity Log] 08/25/2022 09:52:18: Suport time 2.441406
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:21: hit mine rock 101
+
+[Info   : Unity Log] 08/25/2022 09:52:21: Suport time 4.394531
+
+[Info   : Unity Log] 08/25/2022 09:52:21: hit mine rock 16
+
+[Info   : Unity Log] 08/25/2022 09:52:21: Suport time 2.685547
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:22: hit mine rock 30
+
+[Info   : Unity Log] 08/25/2022 09:52:22: Suport time 2.441406
+
+[Info   : Unity Log] 08/25/2022 09:52:22: hit mine rock 17
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:23: hit mine rock 5
+
+[Info   : Unity Log] 08/25/2022 09:52:23: Suport time 7.324219
+
+[Info   : Unity Log] 08/25/2022 09:52:25: hit mine rock 103
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:27: hit mine rock 56
+
+[Info   : Unity Log] 08/25/2022 09:52:27: Suport time 4.394531
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:28: hit mine rock 103
+
+[Info   : Unity Log] 08/25/2022 09:52:30: hit mine rock 117
+
+[Info   : Unity Log] 08/25/2022 09:52:30: Suport time 4.394531
+
+[Info   : Unity Log] 08/25/2022 09:52:30: Valid True
+
+[Info   : Unity Log] 08/25/2022 09:52:30: On death False
+
+[Info   : Unity Log] 08/25/2022 09:52:30: hit mine rock 82
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:50: hit mine rock 154
+
+[Info   : Unity Log] 08/25/2022 09:52:50: Suport time 3.173828
+
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 09:52:50: Valid True
+
+[Info   : Unity Log] 08/25/2022 09:52:50: On death False
+
+[Warning: Unity Log] Rolling Legendary: set=False (0.6804134/0.2)
+[Warning: Unity Log] Available Legendaries: Dyrnwyn, Gram, Skofnung, Hofund, Grace1h, Thrillseeker, GenericSword1h, GenericLegendaryInfo
+[Info   : Unity Log] 08/25/2022 09:58:57: Uncompressed size 8389843
+
+[Info   : Unity Log] 08/25/2022 09:58:57: Compressed size 8710
+
+[Info   : Unity Log] 08/25/2022 09:58:57: Steam Cloud Save: 37935 bytes. /characters/savtest.fch.new
+
+[Info   : Unity Log] 08/25/2022 09:58:57: Steam Cloud Move: 37890 bytes. /characters/savtest.fch -> /characters/savtest.fch.old
+
+[Info   : Unity Log] 08/25/2022 09:58:57: Steam Cloud Move: 37935 bytes. /characters/savtest.fch.new -> /characters/savtest.fch
+
+[Info   : Unity Log] 08/25/2022 09:58:58: clone 227
+
+[Info   : Unity Log] 08/25/2022 10:03:54: Spawned Greydwarf x 2
+
+[Info   : Unity Log] 08/25/2022 10:03:54: Setting saddle:False
+
+[Info   : Unity Log] 08/25/2022 10:03:54: Spawned RRRM_PolarLox x 1
+
+[Info   : Unity Log] 08/25/2022 10:03:54: Spawned RRR_Hostile_T6 x 0
+
+[Info   : Unity Log] 08/25/2022 10:03:54: Spawned IceElemental_DoD x 1
+
+[Info   : Unity Log] 08/25/2022 10:03:59: Vis equip model set to 1
+
+[Warning: Unity Log] Rolling Legendary: set=False (0.3404214/0.2)
+[Warning: Unity Log] Available Legendaries: Dyrnwyn, Gram, Skofnung, Hofund, Grace1h, Thrillseeker, GenericSword1h, GenericLegendaryInfo
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Warning: Unity Log] Rolling Legendary: set=False (0.8888479/0.2)
+[Warning: Unity Log] Available Legendaries: Dyrnwyn, Gram, Skofnung, Hofund, Grace1h, Thrillseeker, GenericSword1h, GenericLegendaryInfo
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:05:58: Spawned Greydwarf x 3
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:07:03: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:07:03: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:07:03: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/25/2022 10:07:05: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:07:10: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:07:10: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:07:10: UI Group status changed Player = True
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:07:11: drop all 1  1
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:07:34: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:07:34: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:07:34: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/25/2022 10:07:35: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:07:40: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:07:40: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:07:40: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/25/2022 10:07:41: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:07:47: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:07:47: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:07:47: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/25/2022 10:07:48: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:07:58: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:08:30: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:09:19: Spawned RRRM_AngryFrozenCorpse x 3
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:10:04: hit mine rock 44
+
+[Info   : Unity Log] 08/25/2022 10:10:04: Suport time 2.441406
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:10:34: hit mine rock 8
+
+[Info   : Unity Log] 08/25/2022 10:10:34: Suport time 2.441406
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:10:36: hit mine rock 41
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:10:40: hit mine rock 83
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:10:43: hit mine rock 54
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:10:47: hit mine rock 5
+
+[Info   : Unity Log] 08/25/2022 10:10:47: Suport time 2.441406
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:11:09: hit mine rock 20
+
+[Info   : Unity Log] 08/25/2022 10:11:09: Suport time 2.441406
+
+[Info   : Unity Log] 08/25/2022 10:11:09: hit mine rock 70
+
+[Info   : Unity Log] 08/25/2022 10:11:09: Suport time 5.371094
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:11:11: hit mine rock 80
+
+[Info   : Unity Log] 08/25/2022 10:11:11: Suport time 2.441406
+
+[Info   : Unity Log] 08/25/2022 10:11:11: hit mine rock 96
+
+[Info   : Unity Log] 08/25/2022 10:11:11: Suport time 2.929688
+
+[Info   : Unity Log] 08/25/2022 10:11:12: hit mine rock 118
+
+[Info   : Unity Log] 08/25/2022 10:11:12: Suport time 2.197266
+
+[Info   : Unity Log] 08/25/2022 10:11:12: hit mine rock 95
+
+[Info   : Unity Log] 08/25/2022 10:11:12: Suport time 2.441406
+
+[Info   : Unity Log] 08/25/2022 10:11:13: hit mine rock 41
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:11:14: hit mine rock 32
+
+[Info   : Unity Log] 08/25/2022 10:11:14: Suport time 3.417969
+
+[Info   : Unity Log] 08/25/2022 10:11:14: hit mine rock 102
+
+[Info   : Unity Log] 08/25/2022 10:11:14: Suport time 2.441406
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:11:17: hit mine rock 2
+
+[Info   : Unity Log] 08/25/2022 10:11:17: Suport time 0.2441406
+
+[Info   : Unity Log] 08/25/2022 10:11:17: hit mine rock 16
+
+[Info   : Unity Log] 08/25/2022 10:11:17: Suport time 2.441406
+
+[Info   : Unity Log] 08/25/2022 10:11:17: hit mine rock 58
+
+[Info   : Unity Log] 08/25/2022 10:11:17: Suport time 2.197266
+
+[Info   : Unity Log] 08/25/2022 10:11:17: Valid True
+
+[Info   : Unity Log] 08/25/2022 10:11:17: On death False
+
+[Info   : Unity Log] 08/25/2022 10:12:39: Spawned Deer x 1
+
+[Info   : Unity Log] 08/25/2022 10:12:39: Spawned Seagal x 2
+
+[Info   : Unity Log] 08/25/2022 10:12:39: Spawned MS_Pickable_Leafs x 8
+
+[Info   : Unity Log] 08/25/2022 10:12:39: Spawned MS_Pickable_Leafs x 2
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned TentaRoot x 3
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned TentaRoot x 3
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_DarkMosquito x 6
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_DarkMosquito x 2
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_DarkSpider x 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_DarkSpider x 3
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_DarkSpider x 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_PoisonDarkSpider x 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_PoisonDarkSpider x 2
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRM_MotherDarkSpider x 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRN_SvartalfrBrigade x 2
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned RRRN_SvartalfrBrigade x 4
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned MS_Pickable_Leafs x 6
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned MS_Pickable_Leafs x 10
+
+[Info   : Unity Log] 08/25/2022 10:12:49: Spawned EarthElemental_DoD x 1
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:12:53: Generating locations
+
+[Info   : Unity Log] 08/25/2022 10:12:53: Checking for location duplicates
+
+[Info   : Unity Log] 08/25/2022 10:12:53: Old location found StartTemple x 1
+
+[Info   : Unity Log] 08/25/2022 10:12:53: Old location found Eikthyrnir x 3
+
+[Info   : Unity Log] 08/25/2022 10:12:53: Old location found SunkenCrypt4 x 1
+
+[Info   : Unity Log] 08/25/2022 10:12:54: Old location found StoneCircle x 4
+
+[Info   : Unity Log] 08/25/2022 10:12:54: Old location found Greydwarf_camp1 x 10
+
+[Info   : Unity Log] 08/25/2022 10:12:54: Old location found Runestone_Greydwarfs x 6
+
+[Info   : Unity Log] 08/25/2022 10:12:56: Old location found Meteorite x 30
+
+[Info   : Unity Log] 08/25/2022 10:12:56: Old location found Crypt2 x 9
+
+[Info   : Unity Log] 08/25/2022 10:12:56: Old location found Ruin1 x 13
+
+[Info   : Unity Log] 08/25/2022 10:12:57: Old location found Ruin2 x 6
+
+[Info   : Unity Log] 08/25/2022 10:12:57: Old location found StoneHouse3 x 9
+
+[Info   : Unity Log] 08/25/2022 10:12:57: Old location found StoneHouse4 x 10
+
+[Info   : Unity Log] 08/25/2022 10:12:57: Old location found Ruin3 x 2
+
+[Info   : Unity Log] 08/25/2022 10:12:57: Old location found GoblinCamp2 x 2
+
+[Info   : Unity Log] 08/25/2022 10:12:59: Old location found StoneTower3 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found StoneHenge1 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found StoneHenge5 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse1 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse2 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse3 x 6
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse4 x 4
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse5 x 4
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse7 x 5
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse8 x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse9 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse10 x 6
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse11 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse12 x 6
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodHouse13 x 5
+
+[Info   : Unity Log] 08/25/2022 10:13:00: Old location found WoodFarm1 x 5
+
+[Info   : Unity Log] 08/25/2022 10:13:01: Old location found TrollCave02 x 9
+
+[Info   : Unity Log] 08/25/2022 10:13:03: Old location found Dolmen01 x 12
+
+[Info   : Unity Log] 08/25/2022 10:13:03: Old location found Dolmen02 x 11
+
+[Info   : Unity Log] 08/25/2022 10:13:03: Old location found Dolmen03 x 6
+
+[Info   : Unity Log] 08/25/2022 10:13:03: Old location found Crypt3 x 7
+
+[Info   : Unity Log] 08/25/2022 10:13:04: Old location found Crypt4 x 7
+
+[Info   : Unity Log] 08/25/2022 10:13:05: Old location found InfestedTree01 x 8
+
+[Info   : Unity Log] 08/25/2022 10:13:05: Old location found SwampHut1 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:06: Old location found SwampHut5 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:06: Old location found StoneTowerRuins04 x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:06: Old location found StoneTowerRuins05 x 5
+
+[Info   : Unity Log] 08/25/2022 10:13:08: Old location found StoneTowerRuins03 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:08: Old location found StoneTowerRuins07 x 5
+
+[Info   : Unity Log] 08/25/2022 10:13:08: Old location found StoneTowerRuins08 x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:08: Old location found StoneTowerRuins09 x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:09: Old location found StoneTowerRuins10 x 5
+
+[Info   : Unity Log] 08/25/2022 10:13:09: Old location found ShipSetting01 x 27
+
+[Info   : Unity Log] 08/25/2022 10:13:10: Old location found DrakeNest01 x 9
+
+[Info   : Unity Log] 08/25/2022 10:13:11: Old location found Waymarker01 x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:11: Old location found Waymarker02 x 4
+
+[Info   : Unity Log] 08/25/2022 10:13:11: Old location found AbandonedLogCabin02 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:11: Old location found AbandonedLogCabin03 x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:12: Old location found AbandonedLogCabin04 x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:13: Old location found MountainGrave01 x 12
+
+[Info   : Unity Log] 08/25/2022 10:13:14: Old location found DrakeLorestone x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:14: Old location found MountainWell1 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:16: Old location found ShipWreck02 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:17: Old location found Runestone_Meadows x 24
+
+[Info   : Unity Log] 08/25/2022 10:13:17: Old location found Runestone_Boars x 6
+
+[Info   : Unity Log] 08/25/2022 10:13:17: Old location found Runestone_Swamps x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:17: Old location found Runestone_Mountains x 4
+
+[Warning: Unity Log] 08/25/2022 10:13:19: Failed to place all Runestone_Mountains, placed 88 out of 100
+
+[Info   : Unity Log] 08/25/2022 10:13:19: Old location found Runestone_BlackForest x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:19: Old location found Runestone_Plains x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:19: Old location found TarPit1 x 1
+
+[Warning: Unity Log] 08/25/2022 10:13:21: Failed to place all TarPit1, placed 95 out of 100
+
+[Warning: Unity Log] 08/25/2022 10:13:23: Failed to place all TarPit2, placed 15 out of 100
+
+[Info   : Unity Log] 08/25/2022 10:13:23: Old location found TarPit3 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:25: Old location found MountainCave02 x 7
+
+[Warning: Unity Log] 08/25/2022 10:13:28: Failed to place all MountainCave02, placed 120 out of 160
+
+[Info   : Unity Log] 08/25/2022 10:13:28: Old location found StaminaGreydwarf x 4
+
+[Info   : Unity Log] 08/25/2022 10:13:28: Old location found WoodFarm1_Old x 11
+
+[Info   : Unity Log] 08/25/2022 10:13:28: Old location found StaminaTroll x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:28: Old location found SwampRuinX x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:28: Old location found StoneTowerRuins06 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found StaminaWraith x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found StoneKeepX x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found Oktanc1 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found StoneTowerV x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found StoneKeepY x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found Oktanc2 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found StoneTowerW x 3
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found AbandonedLogCabin01 x 2
+
+[Info   : Unity Log] 08/25/2022 10:13:29: Old location found ShipWreckOcean03 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:30: Old location found StoneKeepZ x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:30: Old location found Runestone_Surtlings x 9
+
+[Info   : Unity Log] 08/25/2022 10:13:30: Old location found ShipWreckOcean01 x 1
+
+[Info   : Unity Log] 08/25/2022 10:13:30: Old location found StoneWall1 x 5
+
+[Info   : Unity Log] 08/25/2022 10:13:30: Old location found StoneWall2 x 6
+
+[Info   : Unity Log] 08/25/2022 10:13:31:  Done generating locations, duration:37495.1371 ms
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 0 * 0.8
+[Message:Terraheim.Log] modded 0
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:14:03: Spawned TentaRoot x 3
+
+[Info   : Unity Log] 08/25/2022 10:14:03: Spawned RRRM_PoisonDarkSpider x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:03: Spawned RRR_Hostile_T6 x 2
+
+[Info   : Unity Log] 08/25/2022 10:14:03: Spawned MS_Pickable_Leafs x 9
+
+[Info   : Unity Log] 08/25/2022 10:14:03: Spawned MS_Pickable_Leafs x 5
+
+[Info   : Unity Log] 08/25/2022 10:14:03: Spawned EarthElemental_DoD x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:05: Destroyed invalid predab ZDO:3469306952:329660
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRRM_SilverGolem x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned TentaRoot x 2
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRRM_DarkMosquito x 3
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRRM_DarkMosquito x 3
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRRM_DarkSpider x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRRM_DarkSpider x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRRN_SvartalfrBrigade x 2
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Vis equip model set to 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRRN_SvartalfrBrigade x 3
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned Pickable_Mushroom_blue x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned RRR_Hostile_T6 x 2
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned MS_Pickable_Leafs x 3
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned MS_Pickable_Leafs x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned FrostGiant_HG x 1
+
+[Info   : Unity Log] 08/25/2022 10:14:14: Spawned IceGolem x 1
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:14:39: hit mine rock 19
+
+[Info   : Unity Log] 08/25/2022 10:14:39: Suport time 3.662109
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:14:42: hit mine rock 88
+
+[Info   : Unity Log] 08/25/2022 10:14:42: Suport time 8.056641
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:14:45: hit mine rock 107
+
+[Info   : Unity Log] 08/25/2022 10:14:45: Suport time 4.394531
+
+[Info   : Unity Log] 08/25/2022 10:14:45: hit mine rock 16
+
+[Info   : Unity Log] 08/25/2022 10:14:45: Suport time 2.929688
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:14:53: hit mine rock 44
+
+[Info   : Unity Log] 08/25/2022 10:14:53: Suport time 3.662109
+
+[Info   : Unity Log] 08/25/2022 10:14:53: hit mine rock 80
+
+[Info   : Unity Log] 08/25/2022 10:14:53: Suport time 3.417969
+
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:14:56: hit mine rock 165
+
+[Info   : Unity Log] 08/25/2022 10:14:56: Suport time 3.90625
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:14:58: hit mine rock 46
+
+[Info   : Unity Log] 08/25/2022 10:14:58: Suport time 4.150391
+
+[Info   : Unity Log] 08/25/2022 10:15:22: Spawn time :0.9921 ms
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:15:31: Spawn time :1.488 ms
+
+[Info   : Unity Log] 08/25/2022 10:15:40: Spawn time :0.9919 ms
+
+[Info   : Unity Log] 08/25/2022 10:15:47: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:15:47: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:15:47: UI Group status changed Player = True
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:15:58: Spawned MS_Pickable_Leafs x 6
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:16:08: Hit mine rock area 22
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Base Stamina 20 * 0.8
+[Message:Terraheim.Log] modded 16
+[Info   : Unity Log] 08/25/2022 10:17:16: Spawn time :0.9917 ms
+
+[Info   : Unity Log] 08/25/2022 10:17:19: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:17:19: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:17:19: UI Group status changed Player = True
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:17:38: Spawned TentaRoot x 1
+
+[Info   : Unity Log] 08/25/2022 10:17:42: Spawned MS_Pickable_Leafs x 10
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 08/25/2022 10:18:57: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:18:57: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:18:57: UI Group status changed Player = True
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:19:12: Spawn time :0.496 ms
+
+[Info   : Unity Log] 08/25/2022 10:19:16: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:19:16: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:19:16: UI Group status changed Player = True
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:19:36: Uncompressed size 8389843
+
+[Info   : Unity Log] 08/25/2022 10:19:36: Compressed size 8710
+
+[Info   : Unity Log] 08/25/2022 10:19:36: Steam Cloud Save: 39477 bytes. /characters/savtest.fch.new
+
+[Info   : Unity Log] 08/25/2022 10:19:36: Steam Cloud Move: 37935 bytes. /characters/savtest.fch -> /characters/savtest.fch.old
+
+[Info   : Unity Log] 08/25/2022 10:19:36: Steam Cloud Move: 39477 bytes. /characters/savtest.fch.new -> /characters/savtest.fch
+
+[Info   : Unity Log] 08/25/2022 10:19:37: clone 236
+
+[Info   : Unity Log] 08/25/2022 10:21:20: Setting selected recipe 0
+
+[Info   : Unity Log] 08/25/2022 10:21:20: UI Group status changed root = True
+
+[Info   : Unity Log] 08/25/2022 10:21:20: UI Group status changed Player = True
+
+[Info   : Unity Log] 08/25/2022 10:21:25: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:26: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:26: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:26: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:27: drop all 1  1
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:21:28: drop all 1  1
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:21:28: drop all 1  1
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:21:28: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:29: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:29: drop all 1  1
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:21:29: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:30: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:30: drop all 1  1
+
+[Info   : Unity Log] 08/25/2022 10:21:30: drop all 5  5
+
+[Info   :FastTeleport] Set teleport timer to 8
+[Info   : Unity Log] 08/25/2022 10:21:41: Force generaeting hmap (0.0, 0.0, 0.0)
+
+[Info   : Unity Log] 08/25/2022 10:21:41: Force generaeting hmap (-64.0, 0.0, 64.0)
+
+[Info   : Unity Log] 08/25/2022 10:21:41: Force generaeting hmap (-64.0, 0.0, 0.0)
+
+[Info   : Unity Log] 08/25/2022 10:21:41: Force generaeting hmap (0.0, 0.0, 64.0)
+
+[Info   : Unity Log] 08/25/2022 10:21:42: Failed to find item prefab CapeLinenFire
+
+[Warning: Unity Log] 08/25/2022 10:21:42: Missing location:1892273631
+
+[Warning: Unity Log] 08/25/2022 10:21:43: Missing location:1892273632
+
+[Info   : Unity Log] 08/25/2022 10:21:43: Setting saddle:False
+
+[Info   : Unity Log] 08/25/2022 10:21:44: Setting saddle:False
+
+[Info   : Unity Log] 08/25/2022 10:22:46: Spawn time :0.496 ms
+
+[Info   : Unity Log] 08/25/2022 10:22:51: Spawn time :0.4964 ms
+
+[Info   : Unity Log] 08/25/2022 10:22:59: Spawn time :0.4955 ms
+
+[Info   : Unity Log] 08/25/2022 10:23:01: Queue unlock msg:$msg_newitem:Ornamental $item_daedric_mace
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:23:01: Queue unlock msg:$msg_newitem:Ornamental $item_daedric_sword
+
+[Info   : Unity Log] 08/25/2022 10:23:01: Queue unlock msg:$msg_newitem:Ornamental $item_daedric_dagger
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:23:29: Spawn time :0.496 ms
+
+[Info   : Unity Log] Caching server config
+[Info   : Unity Log] Sending server config to 0 clients
+[Info   : Unity Log] 08/25/2022 10:23:37: Spawned MS_Pickable_Leafs x 5
+
+[Info   : Unity Log] 08/25/2022 10:23:49: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 08/25/2022 10:23:51: Game - OnApplicationQuit
 
 [Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly MMHOOK_assembly_valheim, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
   at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
   at HarmonyLib.AccessTools.GetTypesFromAssembly (System.Reflection.Assembly assembly) [0x0000d] in <474744d65d8e460fa08cd5fd82b5d65f>:0 
-[Info   : Unity Log] 08/24/2022 02:36:32: Shuting down
+[Info   : Unity Log] 08/25/2022 10:23:51: Shuting down
 
-[Info   : Unity Log] 08/24/2022 02:36:32: Uncompressed size 8389843
+[Info   : Unity Log] 08/25/2022 10:23:51: Uncompressed size 8389843
 
-[Info   : Unity Log] 08/24/2022 02:36:32: Compressed size 8710
+[Info   : Unity Log] 08/25/2022 10:23:51: Compressed size 8710
 
-[Info   : Unity Log] 08/24/2022 02:36:32: Steam Cloud Save: 36991 bytes. /characters/savtest.fch.new
+[Info   : Unity Log] 08/25/2022 10:23:51: Steam Cloud Save: 37802 bytes. /characters/savtest.fch.new
 
-[Info   : Unity Log] 08/24/2022 02:36:32: Steam Cloud Move: 36991 bytes. /characters/savtest.fch -> /characters/savtest.fch.old
+[Info   : Unity Log] 08/25/2022 10:23:51: Steam Cloud Move: 39477 bytes. /characters/savtest.fch -> /characters/savtest.fch.old
 
-[Info   : Unity Log] 08/24/2022 02:36:32: Steam Cloud Move: 36991 bytes. /characters/savtest.fch.new -> /characters/savtest.fch
+[Info   : Unity Log] 08/25/2022 10:23:51: Steam Cloud Move: 37802 bytes. /characters/savtest.fch.new -> /characters/savtest.fch
 
 [Warning:WackysDatabase] Logoff? So reset - character will look empty if using clone gear
 [Info   : Unity Log] WackysDatabase All cloned Objects destoryed
-[Info   : Unity Log] 08/24/2022 02:36:32: ZNet Shutdown
+[Info   : Unity Log] 08/25/2022 10:23:51: ZNet Shutdown
 
-[Info   : Unity Log] 08/24/2022 02:36:32: clone 187
+[Info   : Unity Log] 08/25/2022 10:23:51: clone 208
 
-[Info   : Unity Log] 08/24/2022 02:36:33: Sending disconnect msg
+[Info   : Unity Log] 08/25/2022 10:23:52: Sending disconnect msg
 
-[Warning: Unity Log] 08/24/2022 02:36:36: Local player destroyed
+[Info   : Unity Log] [Better Trader] Trader's coins were saved with a value of 5000
+[Warning: Unity Log] 08/25/2022 10:23:55: Local player destroyed
 
-[Info   : Unity Log] 08/24/2022 02:36:36: Steam manager on destroy
+[Info   : Unity Log] 08/25/2022 10:23:55: FOund selected Button_yes
+
+[Info   : Unity Log] 08/25/2022 10:23:55: ZNet OnDestroy
+
+[Info   : Unity Log] 08/25/2022 10:23:55: Net scene destroyed
+
+[Info   : Unity Log] 08/25/2022 10:23:55: Steam manager on destroy
 
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
@@ -2574,10 +3918,3 @@ System.NullReferenceException: Object reference not set to an instance of an obj
 [Warning:  HarmonyX] UnpatchAll has been called - This will remove ALL HARMONY PATCHES.
 [Info   : Unity Log] WackysDatabase Transpiling UpdateEnvStatusEffects
 [Info   : Unity Log] WackysDatabase Adding frost immune and ignore
-[Warning:WackysDatabase] Calling the Destoryer of Worlds -End Game
-[Info   : Unity Log] 08/24/2022 02:36:42: FOund selected Button_yes
-
-[Info   : Unity Log] 08/24/2022 02:36:42: ZNet OnDestroy
-
-[Info   : Unity Log] 08/24/2022 02:36:42: Net scene destroyed
-

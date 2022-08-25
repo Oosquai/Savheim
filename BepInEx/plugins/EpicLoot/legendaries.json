@@ -298,37 +298,17 @@
       ]
     },
     {
-      "ID": "DefenceKnife",
+      "ID": "DefenceOH",
       "Name": "Madchild's Duality",
-      "Description": "He was the best tank in town, but sometimes he just wanted to DPS.",
+      "Description": "He was the best tank in town, but sometimes he wished they would just let him smash piggies...  Now he can do both.",
       "Requirements" : {
-        "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife" ]
-      },
-      "GuaranteedMagicEffects": [
-        { "Type": "ModifyParry" }
-      ]
-    },
-    {
-      "ID": "DefenceSword",
-      "Name": "Madchild's Duality",
-      "Description": "He was the best tank in town, but sometimes he just wanted to DPS.",
-      "Requirements" : {
-        "AllowedItemNames": [ "Balanced bronze sword", "Balanced iron sword", "Balanced silver sword", "Balanced blackmetal sword" ]
+        "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife",
+                              "Bronze short sword", "Iron short sword", "Silver short sword", "Blackmetal short sword",
+                              "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyBlockPower" },
         { "Type": "ModifyParry" }
-      ]
-    },
-    {
-      "ID": "DefenceClub",
-      "Name": "Madchild's Duality",
-      "Description": "He was the best tank in town, but sometimes he just wanted to DPS.",
-      "Requirements" : {
-        "AllowedItemNames": [ "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace" ]
-      },
-      "GuaranteedMagicEffects": [
-        { "Type": "ModifyBlockPower" }
       ]
     },
     {

@@ -1,449 +1,4 @@
 SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-runestone (Instance)
-water (Instance)
-Heightmap_basematerial
-water (Instance)
-Heightmap_basematerial
-water (Instance)
-SmokeBlob (Instance)
-Heightmap_basematerial
-water (Instance)
-Heightmap_basematerial
-water (Instance)
-Heightmap_basematerial
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-WeaponMesh_MeshEffect (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-03 - Default
-03 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-02 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-03 - Default
-02 - Default
-03 - Default
-03 - Default
-portal_small (Instance) (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-portal_small
-portal_small
-portal_small
-portal_small
-portal_small
-portal_small
-portal_small (Instance)
-portal_small (Instance)
-water (Instance)
-water (Instance)
-water (Instance)
-water (Instance)
-water (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-runestone (Instance)
-SmokeBlob (Instance)
-runestone (Instance)
-Deer 2
-runestone (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-runestone (Instance)
-runestone (Instance)
-water (Instance)
-SmokeBlob (Instance)
-water (Instance)
-Heightmap_basematerial
-water (Instance)
-Heightmap_basematerial
-water (Instance)
-Heightmap_basematerial
-water (Instance)
-Heightmap_basematerial
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
-SmokeBlob (Instance)
 PlayerHair (Instance)
 PlayerMaterial_Fem
 PlayerMaterial
@@ -474,185 +29,84 @@ tile_vein (Instance)
 tile_vein (Instance)
 tile_vein (Instance)
 tile_vein (Instance)
-PlayerHair (Instance)
-PlayerHair (Instance)
-PlayerMaterial_Fem
-PlayerMaterial
-PlayerMaterial (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
 tile_vein (Instance)
 tile_vein (Instance)
 Boar Skin Valheim
-PlayerMaterialArmorStandSkin (Instance)
-PlayerMaterialArmorStandSkin (Instance)
-PlayerMaterialArmorStandSkin (Instance)
-PlayerMaterialArmorStandSkin (Instance)
-woodwall_worn_lowlod
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn_lowlod
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_lowlod
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall_worn
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall
-woodwall (Instance)
-runestone (Instance)
-runestone (Instance)
-runestone (Instance)
-portal_small (Instance)
-Guardstone_Oden_mat (Instance) (Instance)
-Guardstone_OdenGlow_mat (Instance) (Instance)
-bossstone_metal (Instance)
-bossstone_yagluth_mat (Instance)
+tile_vein (Instance)
+tile_vein (Instance)
+draugrmaterial (Instance)
 bossstone_dragonqueen_mat (Instance)
 bossstone_metal (Instance)
 bossstone_metal (Instance)
 bossstone_bonemass (Instance)
-bossstone_eikthyr (Instance)
 bossstone_metal (Instance)
+bossstone_yagluth_mat (Instance)
 bossstone_metal (Instance)
 bossstone_theelder (Instance)
+bossstone_eikthyr (Instance)
+bossstone_metal (Instance)
 portal_small (Instance)
-water (Instance)
-water (Instance)
-water (Instance)
-water (Instance)
-water (Instance)
-water (Instance)
+runestone (Instance)
 water (Instance)
 Heightmap_basematerial
 water (Instance)
@@ -660,6 +114,11 @@ Heightmap_basematerial
 water (Instance)
 Heightmap_basematerial
 water (Instance)
+Heightmap_basematerial
+water (Instance)
+Heightmap_basematerial
+water (Instance)
+Heightmap_basematerial
 water (Instance)
 Heightmap_basematerial
 water (Instance)
@@ -667,6 +126,11 @@ Heightmap_basematerial
 water (Instance)
 Heightmap_basematerial
 water (Instance)
+Heightmap_basematerial
+water (Instance)
+Heightmap_basematerial
+water (Instance)
+Heightmap_basematerial
 water (Instance)
 Heightmap_basematerial
 water (Instance)
@@ -674,6 +138,11 @@ Heightmap_basematerial
 water (Instance)
 Heightmap_basematerial
 water (Instance)
+Heightmap_basematerial
+water (Instance)
+Heightmap_basematerial
+water (Instance)
+Heightmap_basematerial
 water (Instance)
 Heightmap_basematerial
 water (Instance)
@@ -3444,6 +2913,517 @@ MS_woodwall (Instance)
 MS_woodwall (Instance)
 rain_drop_indoor (Instance)
 MS_Leaf_Vegetation (Instance)
+flame2 (Instance)
+ashrain_zinder (Instance)
+flame (Instance)
+flame (Instance)
+smoke (Instance)
+light_glow (Instance)
+fire_log (Instance)
+fire_log (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+antifreezegland (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Rock_13 (Instance) (Instance)
+runetablet_vegvisir (Instance) (Instance)
+Rock_13 (Instance) (Instance)
+Rock_13 (Instance) (Instance)
+Rock_13 (Instance) (Instance)
+Rock_13 (Instance) (Instance)
+Rock_08 (Instance) (Instance)
+runetablet_vegvisir (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+stone_mat (Instance) (Instance)
+runetablet_vegvisir (Instance) (Instance)
+Rock_13 (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+magmaplat (Instance) (Instance)
+blood_altar (Instance) (Instance)
+grave_fog (Instance) (Instance)
+SnowFlakes_04 (Instance) (Instance)
+SnowFlakes_04 (Instance) (Instance)
+SnowFlakes_03 (Instance) (Instance)
+SnowFlakes_02 (Instance) (Instance)
+SnowFlakes_01 (Instance) (Instance)
+SmokeA1_01 (Instance) (Instance)
+SmokeA1_01 (Instance) (Instance)
+Glow_Ice_02add (Instance) (Instance)
+FrostFlake_01 (Instance) (Instance)
+Glow_Ice_02mobile (Instance) (Instance)
+SmokeA1_01 (Instance) (Instance)
+SmokeA1_01 (Instance) (Instance)
+Glow_Ice_02add (Instance) (Instance)
+FrostFlake_01 (Instance) (Instance)
+Glow_Ice_02mobile (Instance) (Instance)
+Glow_Ice_04 (Instance) (Instance)
+Glow_Ice_03 (Instance) (Instance)
+Glow_Ice_02 (Instance) (Instance)
+SmokeA1_SphereM (Instance) (Instance)
+FlakesA1_01 (Instance) (Instance)
+Glow_Ice_02 (Instance) (Instance)
+Glow_Ice_06 (Instance) (Instance)
+flame (Instance) (Instance)
+flame (Instance) (Instance)
+flame (Instance) (Instance)
+flame (Instance) (Instance)
+flame (Instance) (Instance)
+flame (Instance) (Instance)
+Magic Circle (Instance) (Instance)
+Magic Circle (Instance) (Instance)
+Particle (Instance) (Instance)
+Rays (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+_collider (Instance) (Instance)
+Rock_13 (Instance) (Instance)
+ice (Instance) (Instance)
+ice (Instance) (Instance)
+ice (Instance) (Instance)
+ice (Instance) (Instance)
+ice (Instance) (Instance)
+ice (Instance) (Instance)
+StylRocksMagic_Mat (Instance) (Instance)
+grave_fog (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Platform (Instance) (Instance)
+Arches (Instance) (Instance)
+Altar (Instance) (Instance)
+grave_fog (Instance) (Instance)
 Draugr_mat
 Draugr_mat
 CapeLinen (Instance)
@@ -3973,6 +3953,143 @@ woodwall (Instance)
 woodwall (Instance)
 woodpole2 (Instance)
 woodpole2 (Instance)
+flame (Instance)
+flame (Instance)
+woodwall (Instance)
+iron (Instance)
+blackhole (Instance)
+Frometal_Color (Instance)
+DarkWood_mat (Instance)
+DarkWood_mat (Instance)
+woodwall (Instance)
+woodwall (Instance)
+woodwall (Instance)
+woodwall (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat_4x2 (Instance)
+stone_mat_4x2 (Instance)
+iron (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+DarkWood_mat (Instance)
+DarkWood_mat (Instance)
+DarkWood_mat (Instance)
+DarkWood_mat (Instance)
+DarkWood_mat (Instance)
+DarkWood_mat (Instance)
+DarkWood_mat (Instance)
+woodwall (Instance)
+woodwall (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+blackhole (Instance)
+blackhole (Instance)
+deerhide (Instance)
+deerhide (Instance)
+deerhide (Instance)
+loxpelt_top (Instance)
+loxpelt_top (Instance)
+loxpelt_top (Instance)
+loxpelt (Instance)
+loxpelt_top (Instance)
+loxpelt_top (Instance)
+loxpelt_top (Instance)
+loxpelt (Instance)
+loxpelt_top (Instance)
+loxpelt_top (Instance)
+loxpelt_top (Instance)
+loxpelt (Instance)
+woodwall (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Wood (Instance)
+Heavymetal_Color (Instance)
+Wood (Instance)
+Wood (Instance)
+Heavymetal_Color (Instance)
+Wood (Instance)
+Heavymetal_Color (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ForgeWorn (Instance)
+ThunderStone_mat (Instance)
+ThunderStone_mat (Instance)
+ThunderStone_mat (Instance)
+ThunderStone_mat (Instance)
+ThunderStone_mat (Instance)
+ThunderStone_mat (Instance)
+workbench_highlight (Instance)
+lightning_sparcs (Instance)
+Lightning2 (Instance)
+Lightning (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+TearChanal_mat (Instance)
+BlackMetalChest_mat (Instance)
+TearChanal_mat (Instance)
+BlackMetalChest_mat (Instance)
+TearChanal_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+GuckColor (Instance)
+BlackMetalChest_mat (Instance)
+BlackMetalChest_mat (Instance)
+GuckColor (Instance)
+pixel_lit (Instance)
+wraith_smoke (Instance)
+light_glow (Instance)
+workbench_highlight (Instance)
 DarkWoodGate_worn (Instance)
 DarkWoodGate_worn (Instance)
 DarkWoodGate_mat (Instance)
@@ -5722,50 +5839,34 @@ Table_d 2 (Instance)
 crystal_window (Instance)
 stonefloor (Instance)
 woodwall (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 ironchest (Instance)
 hopper_dark (Instance)
 ironchest (Instance)
 Standard (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 ironchest (Instance)
 hopper_dark (Instance)
 ironchest (Instance)
 Standard (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 ironchest (Instance)
 hopper_dark (Instance)
 ironchest (Instance)
 Standard (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 ironchest (Instance)
 hopper_dark (Instance)
 ironchest (Instance)
 Standard (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 woodchest (Instance)
 hopper_dark (Instance)
 woodchest (Instance)
 Standard (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 woodchest (Instance)
 hopper_dark (Instance)
 woodchest (Instance)
 Standard (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 woodchest (Instance)
 hopper_dark (Instance)
 woodchest (Instance)
 Standard (Instance)
-HopperInput (Instance)
-HopperOutput (Instance)
 woodchest (Instance)
 hopper_dark (Instance)
 woodchest (Instance)
@@ -6143,157 +6244,267 @@ Custom/Creature
 woodwall (Instance)
 woodwall (Instance)
 cart_rope (Instance)
-MinotaurAxe4 (Instance)
+flame (Instance)
+flame (Instance)
+HelDemon (Instance)
 Standard (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-Teeth (From Devils) (Instance)
-MinotaurClouds (Instance)
-MinotaurAxe4 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-Teeth (From Devils) (Instance)
-MinotaurClouds (Instance)
-MinotaurAxe4 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor3 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyWhite (Instance)
-MinotaurBodyWhite (Instance)
-Teeth (From Devils) (Instance)
-MinotaurClouds (Instance)
-MinotaurAxe2 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor4 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyWhite (Instance)
-Teeth (From Devils) (Instance)
-MinotaurClouds (Instance)
-MinotaurAxe3 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-Teeth (From Devils) (Instance)
-MinotaurClouds (Instance)
-MinotaurAxe3 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurArmor1 (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyBlack (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-MinotaurBodyRed (Instance)
-Teeth (From Devils) (Instance)
-MinotaurClouds (Instance)
+green_smoke (Instance)
+skeleton_eye (Instance)
+Standard (Instance)
+green_smoke (Instance)
+skeleton_eye (Instance)
+Jotunn (Instance)
+Jotunn (Instance)
+NPC_Hair (Instance)
+SvartalQueen_Mat (Instance)
+flame (Instance)
+flame (Instance)
+Standard (Instance)
+green_smoke (Instance)
+svartalfr_eye (Instance)
+Standard (Instance)
+green_smoke (Instance)
+svartalfr_eye (Instance)
+NPC_Hair (Instance)
+wraith_gold (Instance)
+wraith_gold (Instance)
+wraith_gold (Instance)
+smoke (Instance)
+smoke (Instance)
+smoke (Instance)
+smoke (Instance)
+light_glow (Instance)
+troll_gold (Instance)
+troll_gold (Instance)
+light_glow (Instance)
+eye_red (Instance)
+eye_red (Instance)
+greydwarf_elite_GOLD (Instance)
+greydwarf_elite_GOLD (Instance)
+greydwarf_elite_GOLD (Instance)
+Dandelion (Instance)
+Rock_13 (Instance)
+runetablet_vegvisir (Instance)
+Rock_13 (Instance)
+Rock_13 (Instance)
+Rock_13 (Instance)
+Rock_13 (Instance)
+Rock_08 (Instance)
+runetablet_vegvisir (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+stone_mat (Instance)
+runetablet_vegvisir (Instance)
+Rock_13 (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+magmaplat (Instance)
+blood_altar (Instance)
+grave_fog (Instance)
+SnowFlakes_04 (Instance)
+SnowFlakes_04 (Instance)
+SnowFlakes_03 (Instance)
+SnowFlakes_02 (Instance)
+SnowFlakes_01 (Instance)
+SmokeA1_01 (Instance)
+SmokeA1_01 (Instance)
+Glow_Ice_02add (Instance)
+FrostFlake_01 (Instance)
+Glow_Ice_02mobile (Instance)
+SmokeA1_01 (Instance)
+SmokeA1_01 (Instance)
+Glow_Ice_02add (Instance)
+FrostFlake_01 (Instance)
+Glow_Ice_02mobile (Instance)
+Glow_Ice_04 (Instance)
+Glow_Ice_03 (Instance)
+Glow_Ice_02 (Instance)
+SmokeA1_SphereM (Instance)
+FlakesA1_01 (Instance)
+Glow_Ice_02 (Instance)
+Glow_Ice_06 (Instance)
+flame (Instance)
+flame (Instance)
+flame (Instance)
+flame (Instance)
+flame (Instance)
+flame (Instance)
+Magic Circle (Instance)
+Magic Circle (Instance)
+Particle (Instance)
+Rays (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+_collider (Instance)
+Rock_13 (Instance)
+ice (Instance)
+ice (Instance)
+ice (Instance)
+ice (Instance)
+ice (Instance)
+ice (Instance)
+StylRocksMagic_Mat (Instance)
+grave_fog (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Platform (Instance)
+Arches (Instance)
+Altar (Instance)
+grave_fog (Instance)
 Armor 1 1 (Instance)
 Armor 1 1 (Instance)
 Armor 1 1 (Instance)
@@ -6525,348 +6736,10 @@ M_Flame (Instance)
 M_DemonLordSword_Legacy (Instance)
 M_DemonLordWings_Legacy (Instance)
 M_DemonLordBody_Legacy (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-woodwall_worn (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stonefloor_worn (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_worn (Instance)
-stonefloor_2x2 (Instance)
-stone_stairs 1 (Instance)
-stone_stairs 1 (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_2x4 (Instance)
-stonefloor_2x4 (Instance)
-rain_drop_indoor (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-rain_drop_indoor (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-rain_drop_indoor (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_worn (Instance)
-stonefloor_2x2 (Instance)
-stonefloor_2x2 (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs_worn (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-stone_stairs (Instance)
-moss_rock2 (Instance)
-moss_rock2 (Instance)
-moss_rock5 (Instance)
-moss_rock3 (Instance)
-moss_rock1 (Instance)
-moss_rock12 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock10 (Instance)
-moss_rock10 (Instance)
-moss_rock11 (Instance)
-moss_rock11 (Instance)
-moss_rock12 (Instance)
-moss_rock12 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock13 (Instance)
-moss_rock13 (Instance)
-moss_rock13 (Instance)
-moss_rock13 (Instance)
-moss_rock10 (Instance)
-moss_rock10 (Instance)
-moss_rock11 (Instance)
-moss_rock11 (Instance)
-moss_rock1 (Instance)
-moss_rock12 (Instance)
-moss_rock15 (Instance)
-moss_rock15 (Instance)
-moss_rock15 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-rock1 (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-moss_rock9 (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-rain_drop_indoor (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-rain_drop_indoor (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-rain_drop_indoor (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrickWorn (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-clayBrick (Instance)
-stone_stairs (Instance)
 Hidden/Internal-MotionVectors
 Hidden/CubeBlend
 Hidden/CubeCopy
 Hidden/CubeBlur
-Hidden/Internal-StencilWrite
-Hidden/Internal-ScreenSpaceShadows
 PlayerHair (Instance)
 water (Instance)
 PlayerMaterial (Instance)
@@ -7230,6 +7103,323 @@ Standard (Instance)
 item_particle (Instance)
 helmet_leather_mat (Instance)
 Standard (Instance)
+item_particle (Instance)
+rootsword_1 (Instance)
+rootsword_2 (Instance)
+item_particle (Instance)
+tridentcolor (Instance)
+tridentcolor (Instance)
+item_particle (Instance)
+tridentcolor (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+flame (Instance)
+flame (Instance)
+ruby (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+flame (Instance)
+flame (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+silverbar (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+BlackMetalChest_silver_mat (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+BlackMetalChest_mat (Instance)
+item_particle (Instance)
+BlackMetalChest_mat (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Black_ (Instance)
+Black_ (Instance)
+Black_ (Instance)
+Black_ (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Black_ (Instance)
+M_Heavy_Full_Metal_Sword (Instance)
+M_Heavy_Full_Metal_Sword (Instance)
+M_Heavy_Full_Metal_Sword (Instance)
+Heavymetal_Color (Instance)
+M_Heavy_Full_Metal_Sword (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+M_Heavy_Full_Metal_Sword (Instance)
+Heavymetal_Color (Instance)
+Heavymetal_Color (Instance)
+M_Heavy_Full_Metal_Sword (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+BlackMetalChest_silver_mat (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+skeleton_eye (Instance)
+skeleton_eye (Instance)
+HelDemon (Instance)
+item_particle (Instance)
+Jotunn (Instance)
+item_particle (Instance)
+finewood_log_destruction (Instance)
+arrow_heavymetal (Instance)
+item_particle (Instance)
+eliteChaosArmor (Instance)
+eliteChaosArmorChainmail (Instance)
+eliteChaosBootsLeather (Instance)
+eliteChaosBoots (Instance)
+eliteChaosArmor (Instance)
+eliteChaosArmorChainmail (Instance)
+eliteChaosBootsLeather (Instance)
+eliteChaosBoots (Instance)
+Standard (Instance)
+ChaosArmorLeather (Instance)
+eliteChaosGloves (Instance)
+eliteChaosGlovesChainmail (Instance)
+eliteChaosGloves (Instance)
+eliteChaosArmorLeather (Instance)
+eliteChaosArmor (Instance)
+eliteChaosArmorChainmail (Instance)
+ChaosArmorLeather (Instance)
+eliteChaosGloves (Instance)
+eliteChaosGlovesChainmail (Instance)
+eliteChaosGloves (Instance)
+eliteChaosArmorLeather (Instance)
+eliteChaosArmor (Instance)
+eliteChaosArmorChainmail (Instance)
+Standard (Instance)
+chaosHelmChainmail (Instance)
+chaosHelmNonMetal_A (Instance)
+chaosHelmPlume (Instance)
+chaosHelmNonMetal_A (Instance)
+chaosHelm (Instance)
+chaosHelmChainmail (Instance)
+chaosHelmNonMetal_A (Instance)
+chaosHelmPlume (Instance)
+chaosHelmNonMetal_A (Instance)
+chaosHelm (Instance)
+Standard (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+flame (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+blackmetalsword (Instance)
+item_particle (Instance)
+wraith_smoke (Instance)
+gnista (Instance)
+antifreezegland (Instance)
+item_particle (Instance)
+flame2 (Instance)
+flame (Instance)
+flame (Instance)
+gnista (Instance)
+meteorite (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+blackhole (Instance)
+item_particle (Instance)
+flame2 (Instance)
+ashrain_zinder (Instance)
+flame (Instance)
+flame (Instance)
+smoke (Instance)
+fire_log (Instance)
+item_particle (Instance)
+smoke (Instance)
+smoke (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+Apple_mat (Instance)
+item_particle (Instance)
+PinkError (Instance)
+PinkError (Instance)
+PinkError (Instance)
+PinkError (Instance)
+PinkError (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+Flametal_Color (Instance)
+item_particle (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
+item_particle (Instance)
+DeepAbyssBarColor (Instance)
+item_particle (Instance)
+gnista (Instance)
+Frometal_Color (Instance)
+item_particle (Instance)
+Heavymetal_Color (Instance)
 item_particle (Instance)
 blackmetalaxe (Instance)
 item_particle (Instance)
@@ -7639,6 +7829,197 @@ Ironbeam_mat (Instance)
 Ironbeam_mat (Instance)
 Guardstone_Oden_mat (Instance)
 Guardstone_OdenGlow_mat (Instance)
+fangspear (Instance)
+SageStaff06 (Instance)
+torch (Instance)
+surtlingcore (Instance)
+torchmat (Instance)
+gnista (Instance)
+light_glow (Instance)
+flame (Instance)
+fog (Instance)
+flame (Instance)
+surtlingcore (Instance)
+item_particle (Instance)
+fangspear (Instance)
+SageStaff04 (Instance)
+torch (Instance)
+surtlingcore (Instance)
+torchmat (Instance)
+gnista (Instance)
+light_glow (Instance)
+flame (Instance)
+fog (Instance)
+flame (Instance)
+surtlingcore (Instance)
+item_particle (Instance)
+fangspear (Instance)
+SageStaff03 (Instance)
+torch (Instance)
+surtlingcore (Instance)
+torchmat (Instance)
+gnista (Instance)
+light_glow (Instance)
+flame (Instance)
+fog (Instance)
+flame (Instance)
+surtlingcore (Instance)
+item_particle (Instance)
+fangspear (Instance)
+SageStaff05 (Instance)
+torch (Instance)
+surtlingcore (Instance)
+torchmat (Instance)
+gnista (Instance)
+light_glow (Instance)
+flame (Instance)
+fog (Instance)
+flame (Instance)
+surtlingcore (Instance)
+item_particle (Instance)
+fangspear (Instance)
+SageStaff01 (Instance)
+torch (Instance)
+surtlingcore (Instance)
+torchmat (Instance)
+gnista (Instance)
+light_glow (Instance)
+flame (Instance)
+fog (Instance)
+flame (Instance)
+surtlingcore (Instance)
+item_particle (Instance)
+fangspear (Instance)
+ScholarStaffFire (Instance)
+SageStaff01 (Instance)
+torch (Instance)
+surtlingcore (Instance)
+torchmat (Instance)
+gnista (Instance)
+light_glow (Instance)
+flame (Instance)
+fog (Instance)
+flame (Instance)
+surtlingcore (Instance)
+item_particle (Instance)
+helmet_leather_mat (Instance)
+ElfMaterial (Instance)
+goblin (Instance)
+goblin (Instance)
+item_particle (Instance)
+blackmetal (Instance)
+ChitinKnife_mat (Instance)
+item_particle (Instance)
+deathsquito_needle (Instance)
+ChitinKnife_mat (Instance)
+item_particle (Instance)
+BlackMetalRoundShields_mat (Instance)
+sagebooks (Instance)
+item_particle (Instance)
+BlackMetalRoundShields_mat (Instance)
+sagebooks (Instance)
+item_particle (Instance)
+BlackMetalRoundShields_mat (Instance)
+sagebooks (Instance)
+item_particle (Instance)
+bronzebuckler (Instance)
+sagebooks (Instance)
+item_particle (Instance)
+SageCrownObsidian (Instance)
+SageCrownRed_stone (Instance)
+item_particle (Instance)
+SageCrownObsidian (Instance)
+SageCrownGreen_stone (Instance)
+item_particle (Instance)
+SageCrownObsidian (Instance)
+SageCrownBlue_stone 1 (Instance)
+item_particle (Instance)
+SageCrownSilver (Instance)
+SageCrownRed_stone (Instance)
+item_particle (Instance)
+SageCrownSilver (Instance)
+SageCrownGreen_stone (Instance)
+item_particle (Instance)
+SageCrownSilver (Instance)
+SageCrownBlue_stone 1 (Instance)
+item_particle (Instance)
+SageCrownGold (Instance)
+SageCrownRed_stone (Instance)
+item_particle (Instance)
+SageCrownGold (Instance)
+SageCrownGreen_stone (Instance)
+item_particle (Instance)
+Hidden/Internal-ScreenSpaceShadows
+SageCrownGold (Instance)
+SageCrownBlue_stone 1 (Instance)
+item_particle (Instance)
+sagehood_black (Instance)
+SagePantsMesh_Mat (Instance)
+item_particle (Instance)
+sagehood_white (Instance)
+sagehood_white (Instance)
+item_particle (Instance)
+sagehood_red (Instance)
+sagehood_red (Instance)
+item_particle (Instance)
+sagehood_green (Instance)
+sagehood_green (Instance)
+item_particle (Instance)
+sagehood_gray (Instance)
+sagehood_gray (Instance)
+item_particle (Instance)
+sagehood_brown (Instance)
+sagehood_brown (Instance)
+item_particle (Instance)
+sagehood_blue (Instance)
+sagehood_blue (Instance)
+item_particle (Instance)
+sagehood_black (Instance)
+sagehood_black (Instance)
+item_particle (Instance)
+sagetunicchest_white_mat (Instance)
+sagehood_white (Instance)
+item_particle (Instance)
+sagetunicchest_red_mat (Instance)
+sagehood_red (Instance)
+item_particle (Instance)
+sagetunicchest_green_mat (Instance)
+sagehood_green (Instance)
+item_particle (Instance)
+sagetunicchest_gray_mat (Instance)
+sagehood_gray (Instance)
+item_particle (Instance)
+sagetunicchest_brown_mat (Instance)
+sagehood_brown (Instance)
+item_particle (Instance)
+sagetunicchest_blue_mat (Instance)
+sagehood_blue (Instance)
+item_particle (Instance)
+sagetunicchest_black_mat (Instance)
+sagehood_black (Instance)
+item_particle (Instance)
+sagerobe_white_mat (Instance)
+sagerobe_white_mat (Instance)
+item_particle (Instance)
+sagerobe_red_mat (Instance)
+sagerobe_red_mat (Instance)
+item_particle (Instance)
+sagerobe_green_mat1 (Instance)
+sagerobe_green_mat1 (Instance)
+item_particle (Instance)
+sagerobe_gray_mat (Instance)
+sagerobe_gray_mat (Instance)
+item_particle (Instance)
+sagerobe_brown_mat (Instance)
+sagerobe_brown_mat (Instance)
+item_particle (Instance)
+sagerobe_blue_mat (Instance)
+sagerobe_blue_mat (Instance)
+item_particle (Instance)
+Hidden/Internal-StencilWrite
+sagerobe_black_mat (Instance)
+sagerobe_black_mat (Instance)
+item_particle (Instance)
 Hidden/BlitCopy
 Hidden/Internal-Flare
 Hidden/Internal-DeferredReflections
@@ -7811,40 +8192,22 @@ light_glow
 SmokeBlob
 _REPLACE_StoneCutterBench_mat
 _REPLACE_StoneCutterBench_worn_mat
-rocks
+pixel_lit_opaque
+club_trail
+dust_particle_pixel
+pixel_unlit
+daedricsword
 item_particle
-stone 1
-clayBrick 1
-clayBrick
-stone
-clayBrickWorn
-blood_cloud
-splat_decal_blend 1
-slime_green 2
+block_wave
+daedricsword
+fog
+gnista
+daedricmace
+daedricaxe
 dust_particle
-sawdust
-rocks
-entrails 1
-stone
-item_particle
-moss_rock10
-moss_rock9
-moss_rock15
-moss_rock11
-moss_rock2
-moss_rock13
-dust_particle
-sawdust
-moss_rock12
-moss_rock1
-moss_rock5
-moss_rock3
-rocks
-stone
-dust_particle
-sawdust
-stone_stairs 1
-stonefloor_2x4
+daedricsword
+ebonyscabbards
+daedrichammer
 02 - Default
 03 - Default
 rrr_grig_mat
@@ -7863,6 +8226,16 @@ JVLmock_RoofShingles_worn
 JVLmock_stone_stairs
 Font Material
 JVLmock_stonefloor_2x2_worn
+pixel_lit_opaque
+iron
+DraugrFangGlow
+smoke
+coal
+item_particle
+block_wave
+dust_particle_pixel
+Bow Glow
+pixel_unlit
 JVLmock_item_particle
 6test-min
 28-min
@@ -7924,9 +8297,8 @@ red2-min
 29-min
 14-min
 hopper_dark
-HopperOutput
 JVLmock_ironchest
-HopperInput
+JVLmock_litpanel
 JVLmock_woodchest
 Default-Material
 glow1_ADD
@@ -8546,34 +8918,158 @@ M_Animation_02
 M_Ground_04
 M_Noise_05
 MeatPack_Raw
-HitCloud_DoD
-HitSparks_DoD
 gnista
-MinotaurBodyBlack
-Blood_Splat_Decal_DoD
-MinotaurAxe3
-Backstab_Sparks_DoD
-Teeth (From Devils)
-MinotaurClouds
-blood_splat1_dod
-MinotaurBodyRed
-MinotaurArmor1
-CritFlash_DoD
-Blood_Splat_DoD
-Blood_Drops_DoD
-Crit_Sparks_DoD
-Slime_Red_DoD
-MinotaurAxe4
-Shield2_1_3
-MinotaurArmor4
-Star_Mat_HM
-MinotaurBodyWhite
-MinotaurAxe2
-MinotaurArmor3
-M_Animation_02
-M_Ground_04
-M_Noise_05
-MeatPack_Raw
+block_wave
+pixel_lit_opaque
+dust_particle_pixel
+stone
+item_particle
+rocks
+club_trail
+build_fog_lowres
+fog
+Heavymetal_Color
+dust_particle
+pixel_unlit
+tridentcolor
+smoke
+HelDemon
+flame
+skeleton_eye
+Flametal_Color
+JVLmock_PlayerMaterial_Fem
+SvartalQueen_Mat
+coin
+finewood_log_destruction
+grave_fog
+water_surface
+PlayerHair
+Padded_mat
+trail
+splat_decal_blend
+blackmetalsword
+IronArmorPlayer_legs
+green_smoke
+Arches
+crit_trace
+svartalfr_eye
+blood_splat2
+slime_green
+blood_splat
+blood_drop
+water_ring
+Altar
+CapeLinen
+backstab_trace
+blood_cloud
+ashrain_zinder
+crit_bam
+waystone_Trail
+IronArmorLegs_mat
+NPC_Hair
+Frometal_Color
+shockwave_corpse
+PaddedChest_mat
+Platform
+arrow_heavymetal
+dust
+IronArmorLegs_drop
+eliteChaosGloves
+chaosHelmChainmail
+splat_decal_snowstep
+rock_sparcs
+eliteChaosArmor
+snowlump
+pixel_lit
+ChaosArmorLeather
+meteor
+aoe_flame
+fx_Magiccircle_p
+chaosHelmPlume
+footstep_mud
+fireball_mat
+eliteChaosBoots
+eliteChaosArmorLeather
+eliteChaosBootsLeather
+flame_large
+energywave
+chaosHelm
+chaosHelmNonMetal_A
+eliteChaosGlovesChainmail
+blue_zinder
+eliteChaosArmorChainmail
+dust_footstep
+ice
+water_ring_thin
+ship_water
+Apple_mat
+crystal_exterior
+crystal
+antifreezegland
+runetablet_vegvisir
+Rock_13
+Rock_08
+stone_mat
+wraith_smoke
+Magic Circle
+Particle
+SnowFlakes_03
+Glow_Ice_06
+SnowFlakes_01
+Rays
+Magic Circle
+SnowFlakes_04
+Glow_Ice_02mobile
+Glow_Ice_02
+SmokeA1_SphereM
+Glow_Ice_04
+SmokeA1_01
+SnowFlakes_02
+FrostFlake_01
+FlakesA1_01
+Jotunn
+_collider
+Glow_Ice_03
+StylRocksMagic_Mat
+Glow_Ice_02add
+blood_altar
+magmaplat
+meteorite
+flame2
+burningbranch_particle
+light_glow
+sawdust
+coal
+fire_log
+Dandelion
+ancientseed
+greydwarf_elite_GOLD
+evileyes_particles
+amber
+wraith
+wraith_gold
+TheHugin
+lighting
+exclamationmark
+Munin_mat
+thorGlow
+aoe_shockwave
+workbench_highlight
+lightning_sparcs
+wood_item
+Wood
+station_radius
+WorkbenchWorn_mat
+Workbench_mat
+DeepAbyssBarColor
+PinkError
+GuckColor
+Firetree_log
+troll_gold
+rootsword_1
+rootsword_2
+M_Heavy_Full_Metal_Sword
+Black_
 Default-ParticleSystem
 DefaultRuneMaterial
 floatingRuneSpriteMaterial_OceanCurrents
@@ -9827,6 +10323,19 @@ lit_world_text
 Font Material
 4421
 stonetest2
+block_wave
+gnista
+dust_particle_pixel
+pixel_lit_opaque
+item_particle
+club_trail
+Axe_Slicer
+fog
+dust_particle
+double_axe_head_blinn3SG_Base_Color
+frost
+FantasyAxe_Mat
+star
 MagicCircle23bcg 1
 wood_pile
 build_fog_lowres
@@ -9842,6 +10351,21 @@ Default-Material
 ship_hatch
 dust_particle_pixel 1
 ship_shadow
+Debris_Sides_mtl
+Portal_Fire_Inner_mtl
+Portal_Sparks_Inner_mtl
+Edge_Glow_mtl
+Edge_Glow_B_mtl
+Stream_Trails_Outer_mtl
+Portal_Sparks_Outer_mtl
+Portal_Fire_Outer_mtl
+GroundMask_mtl
+Black_Box_mtl 1
+Edge_Scorch_mtl
+Smoke_Outer_mtl
+Smoke_Inner_mtl
+Black_Box_mtl
+Blank_mtl
 Font Material
 Font Material
 Font Material
@@ -9849,6 +10373,32 @@ Font Material
 Font Material
 Font Material
 Font Material
+mat_flame
+rock
+item_particle
+mat_glow
+mat_frost
+ice
+Font Material
+Font Material
+Font Material
+Font Material
+Font Material
+Font Material
+Bone
+mat_frost_emissive
+mat_dust
+gnista
+mat_fireball
+mat_smoke
+mat_healing
+dragonscale
+lithud
+Font Material
+heart
+mat_lightning
+mat_bolt
+emerald
 wood_item
 dust
 Munin_mat
@@ -9882,6 +10432,52 @@ ob_banner_11
 ob_banner_16
 ob_banner_7
 ob_banner_6
+horse_armor_color
+item_particle
+UncookedHorseMeat_mat
+WolfSkewer_material
+PlayerHair
+Horse_color_Black_Tobiano_pinto
+Horse_color_grays and roans
+Horse_color_grays and roans 1
+splat_decal_blend
+fog
+taming
+slime_green
+blood_splat
+gnista
+turnip_0
+blood_splat2
+blood_drop
+dust
+water_ring
+dust_footstep
+waystone_Trail
+water_surface
+Horse_BAKED_Black
+love
+crit_trace
+carrot
+smoke
+crit_bam
+pixel_lit
+backstab_trace
+ashrain_zinder
+Efe06_m_r
+dust_particle_pixel
+build_fog_lowres
+sawdust
+dust_particle
+rug_horse
+rug_horse_top_mat
+carrotsoup
+club_trail
+battleaxe
+battleaxe
+iron
+pixel_lit_opaque
+block_wave
+fi_village_food
 woodwall_darkwood
 SmokeBlob
 JVLmock_flame
@@ -9925,32 +10521,6 @@ chaosBootsMetal
 FillerLegs
 eliteChaosBoots
 chaosHelmGrill
-mat_flame
-rock
-item_particle
-mat_glow
-mat_frost
-ice
-Font Material
-Font Material
-Font Material
-Font Material
-Font Material
-Font Material
-Bone
-mat_frost_emissive
-mat_dust
-gnista
-mat_fireball
-mat_smoke
-mat_healing
-dragonscale
-lithud
-Font Material
-heart
-mat_lightning
-mat_bolt
-emerald
 WaterSplashesTrailsAdd
 WaterSplashes2Add
 WaterSplashesTrails
@@ -11057,6 +11627,46 @@ gloves
 serpentcape
 simplebackpack
 knightcape
+sagerobechest_brown_mat
+flame
+flame_small
+smoke
+block_wave
+pixel_lit_opaque
+gnista
+dust_particle_pixel
+fog
+club_trail
+sagerobechest_black_mat
+wraith_smoke
+rocks
+fireworks
+cold_sparcs
+blood_splat2
+fireball_mat
+energywave
+sage_skull_projectile
+shaman_purpleflame
+dust_particle
+pixel_lit
+build_fog_lowres
+coldball
+ice
+flame_large
+SagePants_mat
+sagerobechest_green_mat
+SageSpirit
+sagerobechest_white_mat
+aoe_smoke
+aoe_shockwave
+lighting
+stone
+thorGlow
+lightning_sparcs
+sagerobechest_red_mat
+ashrain_zinder
+sagerobechest_blue_mat
+sagerobechest_gray_mat
 JVLmock_blackhole
 PickupStarMat
 PlateBodyMat

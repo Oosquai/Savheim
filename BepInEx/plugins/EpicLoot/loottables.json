@@ -215,8 +215,7 @@
         { "Item": "SpearBronze",              "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] },
         { "Item": "BowFineWood",              "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] },
         { "Item": "KnifeCopperParry",         "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] },
-        { "Item": "SwordBronzeParry",         "Weight": 3, "Rarity": [ 80, 17, 2, 1 ] },
-        { "Item": "SwordBronzeShort",         "Weight": 3, "Rarity": [ 80, 17, 2, 1 ] },
+        { "Item": "SwordBronzeShort",         "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] },
         { "Item": "MaceBronzeBlock",          "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] },
         { "Item": "GreatswordBronze",         "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] }
       ]
@@ -292,8 +291,7 @@
         { "Item": "JavelinBronze",      "Weight": 5, "Rarity": [ 38, 56, 4, 2 ] },
         { "Item": "BowHuntsman",        "Weight": 5, "Rarity": [ 38, 56, 4, 2 ] },
         { "Item": "KnifeIronParry",     "Weight": 5, "Rarity": [ 38, 56, 4, 2 ] },
-        { "Item": "SwordIronParry",     "Weight": 3, "Rarity": [ 38, 56, 4, 2 ] },
-        { "Item": "SwordIronShort",     "Weight": 3, "Rarity": [ 38, 56, 4, 2 ] },
+        { "Item": "SwordIronShort",     "Weight": 5, "Rarity": [ 38, 56, 4, 2 ] },
         { "Item": "MaceIronBlock",      "Weight": 5, "Rarity": [ 38, 56, 4, 2 ] }
       ]
     },
@@ -370,8 +368,7 @@
         { "Item": "AxeForstasca",        "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "FistFenrirClaw",      "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "KnifeSilverParry",    "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
-        { "Item": "SwordSilverParry",    "Weight": 3, "Rarity": [ 10, 40, 50, 10 ] },
-        { "Item": "SwordSilverShort",    "Weight": 3, "Rarity": [ 10, 40, 50, 10 ] },
+        { "Item": "SwordSilverShort",    "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "MaceSilverBlock",     "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] }
       ]
     },
@@ -446,8 +443,7 @@
         { "Item": "GreataxeBlackmetal",      "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "MaceNeedle",              "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "KnifeBlackMetalParry",    "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SwordBlackmetalParry",    "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SwordBlackmetalShort",    "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SwordBlackmetalShort",    "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "MaceBlackmetalBlock",     "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "BlackmetalShredders",     "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SledgeBlackmetal",        "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] }

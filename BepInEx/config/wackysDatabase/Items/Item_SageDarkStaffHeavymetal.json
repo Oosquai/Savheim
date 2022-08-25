@@ -4,7 +4,7 @@
     "m_description": "If everything around you is perfectly still, you can just barely hear this ancient artifact softly singing to itself about melted brains, poisoned hearts, and tasty soup made from puppies.",
     "clone": true,
     "clonePrefabName": "SageDarkStaff",
-    "cloneMaterial": "",
+    "cloneMaterial": "Heavymetal_Color",
     "m_weight": 1.0,
     "m_attackStamina": 20.0,
     "m_maxStackSize": 1,
