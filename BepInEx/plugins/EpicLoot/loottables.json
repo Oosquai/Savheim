@@ -580,8 +580,8 @@
         { "Item": "ChaosPlateHelm",       "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
         { "Item": "GoldRubyRing",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
         { "Item": "SilverRing",           "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "CapeOdin",             "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "HelmetOdin",           "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "CapeOdin",             "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "HelmetOdin",           "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
       ]
     },
     {
