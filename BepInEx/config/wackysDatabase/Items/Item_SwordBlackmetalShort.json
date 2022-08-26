@@ -1,10 +1,10 @@
 {
     "name": "SwordBlackmetalShort",
-    "m_name": "Blackmetal short sword",
+    "m_name": "Blackmetal katana",
     "m_description": "A lighter sword, this is the tactician's method for prevailing in combat.",
     "clone": true,
-    "clonePrefabName": "SwordBlackmetal",
-    "cloneMaterial": "",
+    "clonePrefabName": "EvilSpiritKatana",
+    "cloneMaterial": "blackmetalpick",
     "m_weight": 0.6,
     "m_attackStamina": 10.0,
     "m_maxStackSize": 1,

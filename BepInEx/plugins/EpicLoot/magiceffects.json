@@ -2601,7 +2601,7 @@
           "Heavymetal Knife", "Frometal Knife", "Flametal Knife",
           "$item_fistweapon_fenris", "Blackmetal shredders", "Cauterizing claws",
           "Blackmetal Skirmisher",
-          "Bronze short sword", "Iron short sword", "Silver short sword", "Blackmetal short sword"
+          "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana"
         ],
         "AllowedRarities" : [
           "Epic",

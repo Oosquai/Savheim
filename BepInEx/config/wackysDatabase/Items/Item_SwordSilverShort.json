@@ -1,10 +1,10 @@
 {
     "name": "SwordSilverShort",
-    "m_name": "Silver short sword",
+    "m_name": "Silver katana",
     "m_description": "A lighter sword, this is the tactician's method for prevailing in combat.",
     "clone": true,
-    "clonePrefabName": "SwordSilver",
-    "cloneMaterial": "",
+    "clonePrefabName": "EvilSpiritKatana",
+    "cloneMaterial": "silverknife",
     "m_weight": 0.6,
     "m_attackStamina": 8.0,
     "m_maxStackSize": 1,

@@ -290,7 +290,7 @@
       "Name": "Prevail's Eviscerator",
       "Description": "This deadly blade is covered in blue blood and little bits of crab shell...  what in Odin's name was this used for?",
       "Requirements" : {
-        "AllowedItemNames": [ "Bronze short sword", "Iron short sword", "Silver short sword", "Blackmetal short sword" ]
+        "AllowedItemNames": [ "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Opportunist" },
@@ -303,7 +303,7 @@
       "Description": "He was the best tank in town, but sometimes he wished they would just let him smash piggies...  Now he can do both.",
       "Requirements" : {
         "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife",
-                              "Bronze short sword", "Iron short sword", "Silver short sword", "Blackmetal short sword",
+                              "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana",
                               "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace" ]
       },
       "GuaranteedMagicEffects": [

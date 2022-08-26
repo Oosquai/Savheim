@@ -1,0 +1,22 @@
+{
+    "name": "TransmogrificationStation",
+    "m_name": "Transmogrification",
+    "m_description": "Magic",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_forge",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Misc",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "Stone:50:0:True",
+        "GreydwarfEye:30:0:True",
+        "SurtlingCore:20:0:True",
+        "Crystal:20:0:True",
+        "Chain:3:0:True"
+    ]
+}
