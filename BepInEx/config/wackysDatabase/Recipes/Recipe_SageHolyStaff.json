@@ -2,12 +2,12 @@
     "name": "SageHolyStaff",
     "clone": false,
     "clonePrefabName": "",
-    "craftingStation": "$piece_forge",
+    "craftingStation": "$piece_workbench",
     "minStationLevel": 4,
     "amount": 1,
     "disabled": false,
     "reqs": [
-        "ancient_sage_core:1:0:False",
+        "StableMagusStaff:1:0:False",
         "YagluthDrop:1:0:False",
         "BlackMetal:25:10:False",
         "SurtlingCore:5:2:False"

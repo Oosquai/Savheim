@@ -1,0 +1,15 @@
+{
+    "name": "BattleaxeFireTH",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Tar:2:1:True",
+        "HeavymetalBar:28:14:True",
+        "SurtlingCore:10:5:True",
+        "LeatherScraps:4:2:True"
+    ]
+}

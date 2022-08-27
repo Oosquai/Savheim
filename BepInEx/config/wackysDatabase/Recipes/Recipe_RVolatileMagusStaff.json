@@ -1,0 +1,13 @@
+{
+    "name": "RVolatileMagusStaff",
+    "clone": true,
+    "clonePrefabName": "VolatileMagusStaff",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "bonemass_drop:1:0:False",
+        "ModifiedMagusStaff:1:0:False"
+    ]
+}

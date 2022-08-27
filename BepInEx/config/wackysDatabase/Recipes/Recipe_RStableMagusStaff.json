@@ -1,0 +1,13 @@
+{
+    "name": "RStableMagusStaff",
+    "clone": true,
+    "clonePrefabName": "StableMagusStaff",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DragonTear:1:0:False",
+        "VolatileMagusStaff:1:0:False"
+    ]
+}

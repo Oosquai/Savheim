@@ -1,0 +1,15 @@
+{
+    "name": "ShieldFireTowerTH",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Tar:5:5:True",
+        "HeavymetalBar:15:10:True",
+        "SurtlingCore:10:5:True",
+        "WorldTreeFragment:5:2:True"
+    ]
+}
