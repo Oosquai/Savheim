@@ -1,0 +1,15 @@
+{
+    "name": "RThrowingAxeFlametal",
+    "clone": true,
+    "clonePrefabName": "ThrowingAxeFlametal",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Flametal:15:10:False",
+        "BurningWorldTreeFragment:10:5:False"
+        "SurtlingCore:10:5:True",
+        "LeatherScraps:4:2:True"
+    ]
+}

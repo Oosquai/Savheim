@@ -19,7 +19,7 @@
     "m_blockPower": 33.0,
     "m_blockPowerPerLevel": 3.0,
     "m_canBeReparied": true,
-    "m_timedBlockBonus": 2.0,
+    "m_timedBlockBonus": 1.5,
     "m_deflectionForce": 20.0,
     "m_deflectionForcePerLevel": 0.0,
     "m_backstabbonus": 4.0,

@@ -1,0 +1,14 @@
+{
+    "name": "RSwordHeavymetalShort",
+    "clone": true,
+    "clonePrefabName": "SwordHeavymetalShort",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "HeavymetalBar:10:5:False",
+        "WorldTreeFragment:15:5:False",
+        "LinenThread:10:5:True"
+    ]
+}

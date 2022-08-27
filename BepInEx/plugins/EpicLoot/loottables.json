@@ -594,7 +594,10 @@
         { "Item": "ShieldFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
         { "Item": "ShieldFrometalTower",   "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
         { "Item": "ShieldFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldFlametalTower",   "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "ShieldFlametalTower",   "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SageBookHeavymetal",    "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SageBookFrometal",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
+        { "Item": "SageBookFlametal",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
       ]
     },
     {

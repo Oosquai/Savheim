@@ -1,0 +1,14 @@
+{
+    "name": "RShieldFrometalBuckler",
+    "clone": true,
+    "clonePrefabName": "ShieldFrometalBuckler",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:8:4:False",
+        "WorldTreeFragment:8:4:False",
+        "PrimordialIce:4:2:False"
+    ]
+}

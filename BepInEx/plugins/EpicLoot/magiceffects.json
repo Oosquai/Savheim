@@ -281,7 +281,7 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal Shield", "Frometal Shield", "Flametal Shield"
+        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook", "Heavymetal Shield", "Frometal Shield", "Flametal Shield"
         ]
       },
       "ValuesPerRarity" : {
@@ -1188,7 +1188,7 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
@@ -1217,7 +1217,7 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
@@ -1246,7 +1246,7 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
@@ -1304,7 +1304,7 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 2, "Increment" : 1 },
@@ -1431,7 +1431,7 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ],
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ],
         "ItemHasBlockPower" : true
       },
       "ValuesPerRarity" : {
@@ -1888,7 +1888,7 @@
         "AllowedSkillTypes" : [
           "Blocking"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
@@ -2114,7 +2114,7 @@
           "Chest",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 5, "MaxValue" : 10, "Increment" : 1 },
@@ -2377,7 +2377,7 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ],
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ],
         "ItemHasBlockPower" : true
       },
       "ValuesPerRarity" : {
@@ -2655,7 +2655,7 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler",                                "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook",
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler",                                "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook",
                                "Heavymetal Shield", "Frometal Shield", "Flametal Shield" 
         ]
       },
@@ -2732,7 +2732,7 @@
           "Shield"
         ],
         "AllowedItemNames": [
-          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Leather spellbook", "Cursed spellbook", "Artisan spellbook"
+          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
 
         ]
       },

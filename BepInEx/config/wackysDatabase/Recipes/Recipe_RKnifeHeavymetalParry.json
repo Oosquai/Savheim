@@ -1,0 +1,14 @@
+{
+    "name": "RKnifeHeavymetalParry",
+    "clone": true,
+    "clonePrefabName": "KnifeHeavymetalParry",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "HeavymetalBar:8:4:False",
+        "WorldTreeFragment:12:6:False",
+        "LinenThread:4:2:True"
+    ]
+}

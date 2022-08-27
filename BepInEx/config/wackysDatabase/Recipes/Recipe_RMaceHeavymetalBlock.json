@@ -1,0 +1,14 @@
+{
+    "name": "RMaceHeavymetalBlock",
+    "clone": true,
+    "clonePrefabName": "MaceHeavymetalBlock",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "HeavymetalBar:10:5:False",
+        "WorldTreeFragment:20:10:False",
+        "LinenThread:10:5:True"
+    ]
+}

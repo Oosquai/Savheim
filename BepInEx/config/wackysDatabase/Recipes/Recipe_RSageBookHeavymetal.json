@@ -2,13 +2,13 @@
     "name": "RSageBookHeavymetal",
     "clone": true,
     "clonePrefabName": "SageBookHeavymetal",
-    "craftingStation": "$piece_workbench",
+    "craftingStation": "Thors Forge",
     "minStationLevel": 1,
     "amount": 1,
     "disabled": false,
     "reqs": [
-        "LeatherScraps:10:5:True",
-        "Resin:4:2:True",
-        "Coal:4:4:True"
+        "HeavymetalBar:4:2:False",
+        "WorldTreeFragment:4:2:False",
+        "LinenThread:12:4:False"
     ]
 }

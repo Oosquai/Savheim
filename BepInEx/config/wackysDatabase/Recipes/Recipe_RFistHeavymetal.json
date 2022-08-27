@@ -1,0 +1,14 @@
+{
+    "name": "RFistHeavymetal",
+    "clone": true,
+    "clonePrefabName": "FistHeavymetal",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "HeavymetalBar:10:5:False",
+        "WorldTreeFragment:10:5:False",
+        "LinenThread:12:4:False"
+    ]
+}

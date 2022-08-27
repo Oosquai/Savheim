@@ -1,0 +1,14 @@
+{
+    "name": "RMaceFrometalBlock",
+    "clone": true,
+    "clonePrefabName": "MaceFrometalBlock",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:10:5:False",
+        "WorldTreeFragment:20:10:False",
+        "PrimordialIce:4:2:False"
+    ]
+}

@@ -475,7 +475,7 @@
       "Description": "Come all ye who seek shelter.",
       "Requirements" : {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddHealthRegen", "Values": { "MinValue": 6, "MaxValue": 9, "Increment": 1 } },
@@ -489,7 +489,7 @@
       "Description": "All ye who strike me shall falter.",
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" },
@@ -502,7 +502,7 @@
       "Name": "Helkar's Black Book",
       "Description": "Ancient, mysterious, and full of deadly incantations, this tome focuses on sustained destruction.",
       "Requirements" : {
-        "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Executioner" },
@@ -514,7 +514,7 @@
       "Name": "The Morrigan's Black Book",
       "Description": "Ancient, mysterious, and full of deadly incantations, this tome focuses on rapid destruction.",
       "Requirements" : {
-        "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Executioner" },
@@ -639,7 +639,7 @@
       "Description": "The best defense is... well, a good defense, really.",
       "Requirements" : {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       }
     },
     {
@@ -671,7 +671,7 @@
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" }

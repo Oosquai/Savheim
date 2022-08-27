@@ -1,0 +1,15 @@
+{
+    "name": "RThrowingAxeHeavymetal",
+    "clone": true,
+    "clonePrefabName": "ThrowingAxeHeavymetal",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "HeavymetalBar:15:10:False",
+        "WorldTreeFragment:10:5:False"
+        "SurtlingCore:10:5:True",
+        "LeatherScraps:4:2:True"
+    ]
+}

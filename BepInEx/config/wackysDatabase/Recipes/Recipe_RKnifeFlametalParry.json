@@ -1,0 +1,14 @@
+{
+    "name": "RKnifeFlametalParry",
+    "clone": true,
+    "clonePrefabName": "KnifeFlametalParry",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Flametal:8:4:False",
+        "BurningWorldTreeFragment:4:2:False",
+        "LinenThread:4:2:True"
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "RKnifeFrometalParry",
+    "clone": true,
+    "clonePrefabName": "KnifeFrometalParry",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:8:4:False",
+        "WorldTreeFragment:4:2:False",
+        "PrimordialIce:2:1:False"
+    ]
+}
