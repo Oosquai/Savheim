@@ -8,7 +8,7 @@
     "disabled": false,
     "reqs": [
         "Flametal:15:10:False",
-        "BurningWorldTreeFragment:10:5:False"
+        "BurningWorldTreeFragment:10:5:False",
         "SurtlingCore:10:5:True",
         "LeatherScraps:4:2:True"
     ]

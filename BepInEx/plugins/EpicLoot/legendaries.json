@@ -341,17 +341,18 @@
     },
     {
       "ID": "CleverCleaver",
-      "Name": "Clever Crystal Cleaver",
-      "Description": "Lighter, faster, and more precise, this is the clever viking's weapon.",
+      "Name": "The Gruesome Griffer",
+      "Description": "Balanced, faster, and more precise, this is the clever viking's weapon.  The goatman cometh!",
       "EquipFx": "WhiteAura",
       "EquipFxMode": "EquipRoot",
       "Requirements" : {
-        "AllowedItemNames": [ "$item_battleaxe_crystal" ]
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "ModifyBackstab", "Values": { "MinValue" : 225, "MaxValue" : 250, "Increment" : 1 } },
-        { "Type": "ModifyParry", "Values": { "MinValue" : 90, "MaxValue" : 99, "Increment" : 1 } },
-        { "Type": "Opportunist", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
+        { "Type": "Opportunist" },
+        { "Type": "ModifyBackstab", "Values": { "MinValue" : 125, "MaxValue" : 150, "Increment" : 1 } },
+        { "Type": "ModifyParry", "Values": { "MinValue" : 40, "MaxValue" : 44, "Increment" : 1 } },
         { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
         { "Type": "RemoveSpeedPenalty" }
@@ -363,8 +364,7 @@
       "Description": "He thirsts, and your neck runneth over.",
       "Requirements" : {
         "AllowedItemTypes": [ "TwoHandedWeapon" ],
-        "AllowedSkillTypes": [ "Axes" ],
-        "ExcludedItemNames": [ "$item_battleaxe_crystal" ]
+        "AllowedSkillTypes": [ "Axes" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Executioner", "Values": { "MinValue" : 901, "MaxValue" : 999, "Increment" : 1 } },

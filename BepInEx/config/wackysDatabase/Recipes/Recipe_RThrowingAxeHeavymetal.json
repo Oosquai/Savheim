@@ -8,7 +8,7 @@
     "disabled": false,
     "reqs": [
         "HeavymetalBar:15:10:False",
-        "WorldTreeFragment:10:5:False"
+        "WorldTreeFragment:10:5:False",
         "SurtlingCore:10:5:True",
         "LeatherScraps:4:2:True"
     ]
