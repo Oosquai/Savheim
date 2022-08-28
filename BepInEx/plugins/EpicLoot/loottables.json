@@ -178,7 +178,7 @@
     {
       "Name": "Tier1Tools",
       "Loot": [
-        { "Item": "PickaxeAntler", "Weight": 5, "Rarity": [ 94, 3.5, 2, 0.5 ] }
+        { "Item": "PickaxeAntler", "Weight": 3, "Rarity": [ 94, 3.5, 2, 0.5 ] }
       ]
     },
     {
@@ -254,8 +254,8 @@
     {
       "Name": "Tier2Tools",
       "Loot": [
-        { "Item": "PickaxeBronze", "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] },
-        { "Item": "Cultivator",    "Weight": 5, "Rarity": [ 80, 17, 2, 1 ] },
+        { "Item": "PickaxeBronze", "Weight": 3, "Rarity": [ 80, 17, 2, 1 ] },
+        { "Item": "Cultivator",    "Weight": 3, "Rarity": [ 80, 17, 2, 1 ] },
         { "Item": "RuneFocus",     "Weight": 1, "Rarity": [ 97,  2, 1, 0 ] }
       ]
     },
@@ -336,7 +336,7 @@
     {
       "Name": "Tier3Tools",
       "Loot": [
-        { "Item": "PickaxeIron", "Weight": 5, "Rarity": [ 38, 56, 4, 2 ] }
+        { "Item": "PickaxeIron", "Weight": 3, "Rarity": [ 38, 56, 4, 2 ] }
       ]
     },
     {
@@ -483,11 +483,11 @@
         { "Item": "ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets", "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "ArmorBlackmetalgarbHelmet",                                          "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "ArmorWandererHelmet",                                                "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SageRobeGray",                                                       "Weight": 1, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SageTunicGray",                                                      "Weight": 1, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SageHoodGray",                                                       "Weight": 1, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SageCrownSilver01",                                                  "Weight": 1, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SagePants",                                                          "Weight": 1, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SageRobeBlack",                                                      "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SageTunicBlack",                                                     "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SageHoodBlack",                                                      "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SageCrownSilver01",                                                  "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SagePants",                                                          "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "GoldRubyRing",                                                       "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SilverRing",                                                         "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] }
       ]
@@ -504,7 +504,7 @@
     {
       "Name": "Tier5Tools",
       "Loot": [
-//      { "Item": "PickaxeBlackmetal", "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] }
+        { "Item": "PickaxeBlackmetal", "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] }
       ]
     },
     {
@@ -521,91 +521,201 @@
     {
       "Name": "Tier6Weapons",
       "Loot": [
-        { "Item": "SpearFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SledgeFireTH",         "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SwordFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BowFireTH",            "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AtgeirFireTH",         "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BattleaxeFireTH",      "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "GreatswordFireTH",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "MaceFireTH",           "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "KnifeFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AxeFireTH",            "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ThrowingAxeFire",      "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "KnifeFlame",           "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "CauterizingClaws",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BowHeavymetal",        "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AtgeirHeavymetal",     "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SledgeHeavymetal",     "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BattleaxeHeavymetal",  "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SpearHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "KnifeHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "MaceHeavymetal",       "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "GreatSwordHeavymetal", "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SwordHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AxeHeavymetal",        "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "PickaxeHeavymetal",    "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BowFrometal",          "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AtgeirFrometal",       "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SledgeFrometal",       "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BattleaxeFrometal",    "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SpearFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "KnifeFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "MaceFrometal",         "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "GreatSwordFrometal",   "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SwordFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AxeFrometal",          "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "PickaxeFrometal",      "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BowFlametal",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AtgeirFlametal",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SledgeFlametal",       "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "BattleaxeFlametal",    "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SpearFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "KnifeFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "MaceFlametal",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "GreatSwordFlametal",   "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SwordFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "AxeFlametal",          "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "PickaxeFlametal",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "BowHeavymetal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AtgeirHeavymetal",      "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SledgeHeavymetal",      "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "BattleaxeHeavymetal",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SpearHeavymetal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "KnifeHeavymetal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "KnifeHeavymetalParry",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "MaceHeavymetal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "MaceHeavymetalBlock",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "GreatSwordHeavymetal",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SwordHeavymetal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SwordHeavymetalShort",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AxeHeavymetal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ThrowingAxeHeavymetal", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "FistHeavymetal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] }
       ]
     },
     {
       "Name": "Tier6Armor",
       "Loot": [
-        { "Item": "ArmorMistlandsChest",  "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ChaosPlateArmorBody",  "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ArmorMistlandsLegs",   "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ChaosPlateLegs",       "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ArmorMistlandsHelmet", "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ChaosPlateHelm",       "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "GoldRubyRing",         "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SilverRing",           "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "CapeOdin",             "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "HelmetOdin",           "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "SilverRing",           "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "CapeOdin",             "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "HelmetOdin",           "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] }
       ]
     },
     {
       "Name": "Tier6Shields",
       "Loot": [
-        { "Item": "ShieldFireTowerTH",     "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldFireTH",          "Weight": 5, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldHeavymetalTower", "Weight": 3, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldFrometal",        "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldFrometalTower",   "Weight": 2, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldFlametal",        "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "ShieldFlametalTower",   "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SageBookHeavymetal",    "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SageBookFrometal",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] },
-        { "Item": "SageBookFlametal",      "Weight": 1, "Rarity": [ 0, 10, 65, 25 ] }
+        { "Item": "ShieldHeavymetal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldHeavymetalTower",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldHeavymetalBuckler", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageBookHeavymetal",      "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier6Tools",
+      "Loot": [
+        { "Item": "PickaxeHeavymetal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
       ]
     },
     {
       "Name": "Tier6Everything",
       "Loot": [
         { "Item": "Tier6Weapons" },
+        { "Item": "Tier5Armor"   },
         { "Item": "Tier6Armor"   },
-        { "Item": "Tier6Shields" }
+        { "Item": "Tier6Shields" },
+        { "Item": "Tier6Tools"   }
+      ]
+    },
+
+    // Tier 7 Items
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Name": "Tier7Weapons",
+      "Loot": [
+        { "Item": "BowFrometal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AtgeirFrometal",      "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SledgeFrometal",      "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "BattleaxeFrometal",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SpearFrometal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "KnifeFrometal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "KnifeFrometalParry",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "MaceFrometal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "MaceFrometalBlock",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "GreatSwordFrometal",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SwordFrometal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SwordFrometalShort",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AxeFrometal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ThrowingAxeFrometal", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "FistFrometal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier7Armor",
+      "Loot": [
+        { "Item": "SilverRing",           "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "CapeOdin",             "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "HelmetOdin",           "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier7Shields",
+      "Loot": [
+        { "Item": "ShieldFrometal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldFrometalTower",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldFrometalBuckler", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageBookFrometal",      "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier7Tools",
+      "Loot": [
+        { "Item": "PickaxeFrometal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier7Everything",
+      "Loot": [
+        { "Item": "Tier7Weapons" },
+        { "Item": "Tier5Armor"   },
+        { "Item": "Tier7Armor"   },
+        { "Item": "Tier7Shields" },
+        { "Item": "Tier7Tools"   }
+      ]
+    },
+
+    // Tier 8 Items
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Name": "Tier8Weapons",
+      "Loot": [
+        { "Item": "BowFlametal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AtgeirFlametal",      "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SledgeFlametal",      "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "BattleaxeFlametal",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SpearFlametal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "KnifeFlametal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "KnifeFlametalParry",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "MaceFlametal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "MaceFlametalBlock",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "GreatSwordFlametal",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SwordFlametal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SwordFlametalShort",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AxeFlametal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ThrowingAxeFlametal", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "FistFlametal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SpearFireTH",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SledgeFireTH",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SwordFireTH",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "BowFireTH",           "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AtgeirFireTH",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "BattleaxeFireTH",     "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "GreatswordFireTH",    "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "MaceFireTH",          "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "KnifeFireTH",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AxeFireTH",           "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ThrowingAxeFire",     "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier8Armor",
+      "Loot": [
+        { "Item": "ArmorMistlandsChest",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ChaosPlateArmorBody",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorMistlandsLegs",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ChaosPlateLegs",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorMistlandsHelmet", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ChaosPlateHelm",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SilverRing",           "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "CapeOdin",             "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "HelmetOdin",           "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier8Shields",
+      "Loot": [
+        { "Item": "ShieldFlametal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldFlametalTower",   "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldFlametalBuckler", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageBookFlametal",      "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldFireTowerTH",     "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ShieldFireTH",          "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier8Tools",
+      "Loot": [
+        { "Item": "PickaxeFlametal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
+      ]
+    },
+    {
+      "Name": "Tier8Everything",
+      "Loot": [
+        { "Item": "Tier8Weapons" },
+        { "Item": "Tier8Armor"   },
+        { "Item": "Tier8Shields" },
+        { "Item": "Tier8Tools"   }
+      ]
+    },
+
+    // Tier 9 Items (only kraken??)
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Name": "Tier9Weapons",
+      "Loot": [
+        { "Item": "TridentDeepAbyss",    "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] },
+        { "Item": "BowDeepAbyss",        "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] },
+        { "Item": "GreatSwordDeepAbyss", "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] }
+      ]
+    },
+    {
+      "Name": "Tier9Everything",
+      "Loot": [
+        { "Item": "Tier9Weapons" }
       ]
     }
   ],
@@ -1176,7 +1286,7 @@
         }
       ]
     },
-    // Special Tier 6 Mobs (Frost Giant, Fire Giant)
+    // Special Tier 6 Mobs
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "Tier6MobSpecial",
@@ -1233,6 +1343,293 @@
             { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] },
             { "Item": "Tier6Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
             { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        }
+      ]
+    },
+    // Tier 7 Mobs
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Tier7Mob",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 82], [1, 18] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 10, "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "Tier7Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 77], [1, 23] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 5, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 67], [1, 33] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 57], [1, 43] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 2, "Rarity": [ 0, 0, 65, 35 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 42], [1, 58] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 27], [1, 73] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] }
+          ]
+        }
+      ]
+    },
+    // Special Tier 7 Mobs
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Tier7MobSpecial",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 70], [1, 18], [2, 12] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 10, "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "Tier7Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "RunestoneLegendary", "Weight": 10 }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 63], [1, 23], [2, 14] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 5, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "RunestoneLegendary", "Weight": 5 }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 51], [1, 33], [2, 16] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "RunestoneLegendary", "Weight": 3 }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 39], [1, 43], [2, 18] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 2, "Rarity": [ 0, 0, 65, 35 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] },
+            { "Item": "RunestoneLegendary", "Weight": 2 }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 22], [1, 58], [2, 20] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] },
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 5], [1, 73], [2, 22] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "RunestoneLegendary", "Weight": 2 }
+          ]
+        }
+      ]
+    },
+    // Tier 8 Mobs
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Tier8Mob",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 82], [1, 18] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 10, "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "Tier8Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 77], [1, 23] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 5, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 67], [1, 33] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 57], [1, 43] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 65, 35 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 42], [1, 58] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 27], [1, 73] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] }
+          ]
+        }
+      ]
+    },
+    // Special Tier 8 Mobs
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Tier8MobSpecial",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 70], [1, 18], [2, 12] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 10, "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "Tier8Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "RunestoneLegendary", "Weight": 11 }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 63], [1, 23], [2, 14] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 5, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "RunestoneLegendary", "Weight": 6 }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 51], [1, 33], [2, 16] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "RunestoneLegendary", "Weight": 4 }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 39], [1, 43], [2, 18] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 65, 35 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] },
+            { "Item": "RunestoneLegendary", "Weight": 3 }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 22], [1, 58], [2, 20] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] },
+            { "Item": "RunestoneLegendary", "Weight": 2 }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 5], [1, 73], [2, 22] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "RunestoneLegendary", "Weight": 3 }
+          ]
+        }
+      ]
+    },
+    // Tier 9 Mobs
+    ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "Tier9Mob",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 82], [1, 18] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 10, "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "Tier9Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 77], [1, 23] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 5, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 67], [1, 33] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 3, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 57], [1, 43] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 65, 35 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 65, 35 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 42], [1, 58] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 55, 45 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 27], [1, 73] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier9Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         }
       ]
@@ -1565,13 +1962,13 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_BurnedBones",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier8Mob"
     },
     // Swollen body
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_SwollenBody",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier8Mob"
     },
     // Small Fire Neck
     ////////////////////////////////////////////////////////////////////////////////////
@@ -1583,7 +1980,7 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_ElderSurtling",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier8Mob"
     },
     // Hostile NPC 5
     ////////////////////////////////////////////////////////////////////////////////////
@@ -1595,55 +1992,55 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_FrozenCorpse",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier7Mob"
     },
     // Angry Frozen Corpse
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_AngryFrozenCorpse",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier7Mob"
     },
     // Dvergr
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRN_Dvergr",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier7Mob"
     },
     // Blazing Bones
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_BlazingBones",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier8Mob"
     },
     // Svartalfr Mage
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRN_SvartalfrMage",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier6Mob"
     },
     // Svartalfr Heavy
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRN_SvartalfrHeavy",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier6Mob"
     },
     // Svartalfr
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRN_Svartalfr",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier6Mob"
     },
     // Svartalfr Archer
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRN_SvartalfrArcher",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier6Mob"
     },
     // Svartalfr Brigade
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRN_SvartalfrBrigade",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier6Mob"
     },
     // Storm Drake
     ////////////////////////////////////////////////////////////////////////////////////
@@ -1666,7 +2063,7 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "GoblinShaman",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier5Mob"
     },
     // Hostile NPC 6
     ////////////////////////////////////////////////////////////////////////////////////
@@ -1678,55 +2075,43 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_AshNeck",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier8Mob"
     },
     // Blazing Damned One
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_BlazingDamnedOne",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier8Mob"
     },
     // Fire Drake
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_AshHatchling",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier8Mob"
     },
     // Polar Lox
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_PolarLox",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier7Mob"
     },
     // White Fenring
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_PolarFenring",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier7Mob"
     },
     // Storm Fenring
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_StormFenring",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier7Mob"
     },
     // Silver Golem
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_SilverGolem",
-      "RefObject": "Tier6Mob"
-    },
-    // Svartalfr Queen
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "RRRN_SvartalfrQueen",
-      "RefObject": "Tier6Mob"
-    },
-    // Devourer Fenring
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "RRRM_DevourerFenring",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier7Mob"
     },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1750,42 +2135,12 @@
     // Frost Giant - deep north
     {
       "Object": "FrostGiant_HG",
-      "RefObject": "Tier6MobSpecial"
+      "RefObject": "Tier7MobSpecial"
     },
     // Fire Giant - ashlands
     {
       "Object": "FireGiant_HG",
-      "RefObject": "Tier6MobSpecial"
-    },
-    // Minotaur - mistlands
-    {
-      "Object": "Minotaur_HM",
-      "RefObject": "Tier5Mob"
-    },
-    // Armoured Minotaur - mistlands
-    {
-      "Object": "MinotaurArmoured_HM",
-      "RefObject": "Tier6Mob"
-    },
-    // Frost Minotaur - deep north
-    {
-      "Object": "FrostMinotaur_HM",
-      "RefObject": "Tier5Mob"
-    },
-    // Armoured Frost Minotaur - deep north
-    {
-      "Object": "FrostMinotaurArmoured_HM",
-      "RefObject": "Tier6Mob"
-    },
-    // Fire Minotaur - ashlands
-    {
-      "Object": "FireMinotaur_HM",
-      "RefObject": "Tier5Mob"
-    },
-    // Armoured Fire Minotaur - ashlands
-    {
-      "Object": "FireMinotaurArmoured_HM",
-      "RefObject": "Tier6Mob"
+      "RefObject": "Tier8MobSpecial"
     },
     // Fantasy Creatures
     {
@@ -1800,17 +2155,17 @@
     // Fantasy Creatures
     {
       "Object": "DemonLord_DoD",
-      "RefObject": "Tier6MobSpecial"
+      "RefObject": "Tier8MobSpecial"
     },
     // Fantasy Creatures
     {
       "Object": "EarthElemental_DoD",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier6Mob"
     },
     // Fantasy Creatures
     {
       "Object": "FireElemental_DoD",
-      "RefObject": "Tier5Mob"
+      "RefObject": "Tier8Mob"
     },
     // Fantasy Creatures
     {
@@ -1830,7 +2185,7 @@
     // Fantasy Creatures
     {
       "Object": "IceElemental_DoD",
-      "RefObject": "Tier4Mob"
+      "RefObject": "Tier7Mob"
     },
     // Fantasy Creatures
     {
@@ -1910,15 +2265,15 @@
     },
     {
       "Object": "Golden_Greydwarf_Miniboss",
-      "RefObject": "Tier6MobSpecial"
+      "RefObject": "Tier2Mob"
     },
     {
       "Object": "Golden_Troll_Miniboss",
-      "RefObject": "Tier6MobSpecial"
+      "RefObject": "Tier3MobSpecial"
     },
     {
       "Object": "Golden_Wraith_Miniboss",
-      "RefObject": "Tier6MobSpecial"
+      "RefObject": "Tier4MobSpecial"
     },
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // BOSSES
@@ -2130,48 +2485,42 @@
           "Level": 1,
           "Drops": [ [3, 20], [4, 60], [5, 15], [6, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 5, "Rarity": [ 0, 0, 80, 20 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [4, 70], [5, 20], [6, 10] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 4, "Rarity": [ 0, 0, 70, 30 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [4, 45], [5, 40], [6, 15] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 3, "Rarity": [ 0, 0, 60, 40 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
+            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [4, 25], [5, 50], [6, 25] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
+            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [4, 5], [5, 60], [6, 30], [7, 5] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
+            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [5, 50], [6, 40], [7, 10] ],
           "Loot": [
-            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] },
-            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
+            { "Item": "Tier5Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2185,42 +2534,42 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2234,42 +2583,91 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
+          ]
+        }
+      ]
+    },
+    // Devourer Fenring (Deep North boss)
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "RRRM_DevourerFenring",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2283,42 +2681,42 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2330,42 +2728,42 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2379,42 +2777,42 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2428,42 +2826,42 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2477,42 +2875,42 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2526,89 +2924,89 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
     },
     {
-      "Object": "RRRN_SvartalfarQueen",
+      "Object": "RRRN_SvartalfrQueen",
       "LeveledLoot": [
         {
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2622,42 +3020,42 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
@@ -2671,42 +3069,60 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.1" }
+            { "Item": "Tier6Everything", "Weight": 4, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier7Everything", "Weight": 3, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.2" }
+            { "Item": "Tier6Everything", "Weight": 3, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "Tier7Everything", "Weight": 3, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.3" }
+            { "Item": "Tier6Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "Tier9Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] }
           ]
         },
         {
           "Level": 4,
           "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.4" }
+            { "Item": "Tier6Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier9Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] }
           ]
         },
         {
           "Level": 5,
           "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
           "Loot": [
-            { "Item": "GoblinKing.5" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "Tier8Everything", "Weight": 3, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "Tier9Everything", "Weight": 3, "Rarity": [ 0, 0, 20, 80 ] }
           ]
         },
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
           "Loot": [
-            { "Item": "GoblinKing.6" }
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "Tier8Everything", "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "Tier9Everything", "Weight": 4, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]

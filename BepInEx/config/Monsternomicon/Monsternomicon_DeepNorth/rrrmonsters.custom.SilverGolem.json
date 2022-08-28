@@ -31,7 +31,7 @@
       "bToleratesWater":true,
       "bToleratesFire":true,
       "bToleratesSmoke":true,
-      "fHealth":2000,
+      "fHealth":4000,
       "dDamageTaken":{
          "m_blunt":"Normal",
          "m_slash":"Resistant",
@@ -78,13 +78,13 @@
             "bAIPrioritized":true,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":105,
+               "fBlunt":131,
                "fSlash":0,
                "fPierce":0,
                "fChop":113,
                "fPickaxe":113,
                "fFire":0,
-               "fFrost":30,
+               "fFrost":37,
                "fLightning":0,
                "fPoison":0,
                "fSpirit":0
@@ -109,13 +109,13 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":105,
+               "fBlunt":131,
                "fSlash":0,
                "fPierce":0,
                "fChop":113,
                "fPickaxe":113,
                "fFire":0,
-               "fFrost":30,
+               "fFrost":37,
                "fLightning":0,
                "fPoison":0,
                "fSpirit":0
@@ -140,13 +140,13 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":150,
+               "fBlunt":188,
                "fSlash":0,
                "fPierce":0,
                "fChop":113,
                "fPickaxe":113,
                "fFire":0,
-               "fFrost":30,
+               "fFrost":37,
                "fLightning":0,
                "fPoison":0,
                "fSpirit":0
@@ -169,7 +169,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":90,
+               "fBlunt":113,
                "fSlash":0,
                "fPierce":0,
                "fChop":113,

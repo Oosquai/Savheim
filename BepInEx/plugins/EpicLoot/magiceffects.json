@@ -63,7 +63,10 @@
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
           "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light",
+          "Sage's heavymetal staff of fire", "Sage's heavymetal staff of ice", "Sage's heavymetal staff of lightning", "Sage's heavymetal staff of darkness", "Sage's heavymetal staff of light",
+          "Sage's frometal staff of fire", "Sage's frometal staff of ice", "Sage's frometal staff of lightning", "Sage's frometal staff of darkness", "Sage's frometal staff of light",
+          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness", "Sage's flametal staff of light"
         ],
         "ItemHasPhysicalDamage" : true
       },
@@ -105,7 +108,10 @@
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
           "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness"
+          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light",
+          "Sage's heavymetal staff of fire", "Sage's heavymetal staff of ice", "Sage's heavymetal staff of lightning", "Sage's heavymetal staff of darkness", "Sage's heavymetal staff of light",
+          "Sage's frometal staff of fire", "Sage's frometal staff of ice", "Sage's frometal staff of lightning", "Sage's frometal staff of darkness", "Sage's frometal staff of light",
+          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness", "Sage's flametal staff of light"
         ],
         "ItemHasElementalDamage" : true
       },
@@ -281,7 +287,9 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook", "Heavymetal Shield", "Frometal Shield", "Flametal Shield"
+        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
+                              "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                              "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
         ]
       },
       "ValuesPerRarity" : {
@@ -522,8 +530,7 @@
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
-          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth"
         ]
       },
       "ValuesPerRarity" : {
@@ -567,8 +574,7 @@
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
-          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth"
         ]
       },
       "ValuesPerRarity" : {
@@ -611,8 +617,7 @@
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
-          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth"
         ]
       },
       "ValuesPerRarity" : {
@@ -658,8 +663,7 @@
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
-          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth"
         ]
       },
       "ValuesPerRarity" : {
@@ -704,8 +708,7 @@
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
-          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth"
         ]
       },
       "ValuesPerRarity" : {
@@ -750,8 +753,7 @@
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
-          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth"
         ]
       },
       "ValuesPerRarity" : {
@@ -796,8 +798,7 @@
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
-          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light"
+          "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth"
         ]
       },
       "ValuesPerRarity" : {
@@ -844,7 +845,10 @@
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
           "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation",
           "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth",
-          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "$item_torch"
+          "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "$item_torch",
+          "Sage's heavymetal staff of fire", "Sage's heavymetal staff of ice", "Sage's heavymetal staff of lightning", "Sage's heavymetal staff of darkness",
+          "Sage's frometal staff of fire", "Sage's frometal staff of ice", "Sage's frometal staff of lightning", "Sage's frometal staff of darkness",
+          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness"
         ]
       },
       "ValuesPerRarity" : {
@@ -990,7 +994,7 @@
           "Shield"
         ],
         "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
-                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                                 "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower",
                                 "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
@@ -1023,7 +1027,7 @@
           "Shield"
         ],
         "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
-                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                                 "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower", 
                                 "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
@@ -1056,7 +1060,7 @@
           "Shield"
         ],
         "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
-                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                                 "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower", 
                                 "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
@@ -1089,7 +1093,7 @@
           "Shield"
         ],
         "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
-                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                                 "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower", 
                                 "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
@@ -1123,7 +1127,7 @@
           "Shield"
         ],
         "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
-                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                                 "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower", 
                                 "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
@@ -1156,7 +1160,7 @@
           "Shield"
         ],
         "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
-                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                                 "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower",
                                 "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
@@ -2406,7 +2410,8 @@
           "Shield"
         ],
         "AllowedItemNames": [
-          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler"
+          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "$item_shield_fire",
+          "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler"
         ]
       },
       "ValuesPerRarity" : {
@@ -2595,13 +2600,13 @@
       "Description" : "$mod_epicloot_me_opportunist_desc",
       "Requirements" : {
         "AllowedItemNames" : [
-          "$item_knife_flint", "$item_knife_copper", "Assassin's copper knife", "$item_knife_iron", "Assassin's iron knife", "$item_knife_chitin",
-          "$item_knife_silver", "Obsidian Dagger", "Assassin's silver knife", "$item_knife_blackmetal", "Assassin's blackmetal knife",
-          "$item_knife_fire", "Flaming shard",
-          "Heavymetal Knife", "Frometal Knife", "Flametal Knife",
-          "$item_fistweapon_fenris", "Blackmetal shredders", "Cauterizing claws",
+          "$item_knife_flint", "$item_knife_copper", "$item_knife_iron", "$item_knife_chitin", "$item_knife_silver", "Obsidian Dagger", "$item_knife_blackmetal",
+          "Heavymetal Knife", "Frometal Knife", "Flametal Knife", "$item_knife_fire",
+          "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife",
+          "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
+          "$item_fistweapon_fenris", "Blackmetal shredders", "Heavymetal claws", "Frometal claws", "Flametal claws",
           "Blackmetal Skirmisher",
-          "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana"
+          "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana"
         ],
         "AllowedRarities" : [
           "Epic",
@@ -2655,8 +2660,9 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler",                                "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook",
-                               "Heavymetal Shield", "Frometal Shield", "Flametal Shield" 
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
+                               "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                               "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" 
         ]
       },
       "SelectionWeight" : 1,
@@ -2731,9 +2737,9 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
-        "AllowedItemNames": [
-          "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
-
+        "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
+                              "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                              "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
         ]
       },
       "ValuesPerRarity" : {

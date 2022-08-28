@@ -31,7 +31,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":true,
-      "fHealth":55,
+      "fHealth":110,
       "dDamageTaken":{
          "m_blunt":"Immune",
          "m_slash":"Immune",

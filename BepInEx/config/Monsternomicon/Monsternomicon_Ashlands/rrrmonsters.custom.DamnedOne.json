@@ -27,7 +27,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":true,
-      "fHealth":2500,
+      "fHealth":10000,
       "dDamageTaken":{
          "m_blunt":"Weak",
          "m_slash":"Normal",
@@ -77,7 +77,7 @@
             "bAIPrioritized":true,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":120,
+               "fBlunt":180,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -85,7 +85,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":60,
+               "fPoison":90,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
@@ -107,7 +107,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":120,
+               "fBlunt":180,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -115,7 +115,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":60,
+               "fPoison":90,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
@@ -137,7 +137,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":100,
+               "fBlunt":150,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -166,7 +166,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":140,
+               "fBlunt":210,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -197,7 +197,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":180,
+               "fBlunt":270,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -205,7 +205,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":120,
+               "fPoison":180,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
@@ -235,7 +235,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":80,
+               "fPoison":120,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,

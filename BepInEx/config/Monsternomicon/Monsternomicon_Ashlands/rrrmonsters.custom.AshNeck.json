@@ -27,7 +27,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":true,
-      "fHealth":850,
+      "fHealth":3400,
       "dDamageTaken":{
          "m_blunt":"Normal",
          "m_slash":"Normal",
@@ -70,11 +70,11 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":120,
+               "fSlash":180,
                "fPierce":0,
                "fChop":113,
                "fPickaxe":38,
-               "fFire":30,
+               "fFire":45,
                "fFrost":0,
                "fLightning":0,
                "fPoison":0,
@@ -101,7 +101,7 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":105,
+               "fSlash":158,
                "fPierce":0,
                "fChop":113,
                "fPickaxe":38,

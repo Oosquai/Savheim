@@ -16,7 +16,7 @@
     "m_armor": 20.0,
     "m_armorPerLevel": 1.0,
     "m_movementModifier": -0.10000000149011612,
-    "m_blockPower": 32.0,
+    "m_blockPower": 44.0,
     "m_blockPowerPerLevel": 0.0,
     "m_canBeReparied": true,
     "m_timedBlockBonus": 6.0,
@@ -39,7 +39,7 @@
     "m_teleportable": true,
     "m_toolTier": 0,
     "m_value": 0,
-    "m_damages": "m_blunt:0, m_chop:0, m_damage:0, m_fire:65, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:65, m_spirit:0, ",
-    "m_damagesPerLevel": "m_blunt:0, m_chop:0, m_damage:0, m_fire:0, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:6, m_spirit:0, ",
+    "m_damages": "m_blunt:0, m_chop:0, m_damage:0, m_fire:74, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:87, m_spirit:0, ",
+    "m_damagesPerLevel": "m_blunt:0, m_chop:0, m_damage:0, m_fire:3, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:8, m_spirit:0, ",
     "damageModifiers": []
 }

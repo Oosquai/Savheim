@@ -2,14 +2,14 @@
     "name": "BowFireTH",
     "clone": false,
     "clonePrefabName": "",
-    "craftingStation": "$piece_forge",
+    "craftingStation": "Thors Forge",
     "minStationLevel": 1,
     "amount": 1,
     "disabled": false,
     "reqs": [
-        "Tar:5:5:True",
-        "HeavymetalBar:10:5:True",
+        "BurningWorldTreeFragment:20:10:True",
+        "Flametal:10:5:True",
         "SurtlingCore:10:5:True",
-        "WorldTreeFragment:10:5:True"
+        "LeatherScraps:4:2:True"
     ]
 }

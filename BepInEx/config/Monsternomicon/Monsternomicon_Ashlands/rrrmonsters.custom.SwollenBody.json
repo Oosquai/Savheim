@@ -27,7 +27,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":true,
-      "fHealth":320,
+      "fHealth":1280,
       "dDamageTaken":{
          "m_blunt":"Resistant",
          "m_slash":"Resistant",
@@ -110,7 +110,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":90,
+               "fPoison":135,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
@@ -139,7 +139,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":60,
+               "fPoison":90,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,

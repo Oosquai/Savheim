@@ -290,7 +290,7 @@
       "Name": "Prevail's Eviscerator",
       "Description": "This deadly blade is covered in blue blood and little bits of crab shell...  what in Odin's name was this used for?",
       "Requirements" : {
-        "AllowedItemNames": [ "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana" ]
+        "AllowedItemNames": [ "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Opportunist" },
@@ -302,9 +302,9 @@
       "Name": "Madchild's Duality",
       "Description": "He was the best tank in town, but sometimes he wished they would just let him smash piggies...  Now he can do both.",
       "Requirements" : {
-        "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife",
-                              "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana",
-                              "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace" ]
+        "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife", "Heavymetal knife", "Frometal knife", "Flametal knife",
+                              "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana",
+                              "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace", "Steady heavymetal mace", "Steady frometal mace", "Steady flametal mace" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyBlockPower" },
@@ -475,7 +475,8 @@
       "Description": "Come all ye who seek shelter.",
       "Requirements" : {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+        "ExcludedItemNames": [ "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                               "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddHealthRegen", "Values": { "MinValue": 6, "MaxValue": 9, "Increment": 1 } },
@@ -489,7 +490,9 @@
       "Description": "All ye who strike me shall falter.",
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
+                               "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                               "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" },
@@ -540,13 +543,15 @@
       "Name": "Bright Prismatic Shard",
       "Description": "Light bounces off this blade into a rainbow of colors.",
       "Requirements" : {
-        "AllowedItemNames": [ "$item_knife_silver" ]
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "AddFireDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } },
-        { "Type": "AddLightningDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } },
-        { "Type": "AddPoisonDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } },
-        { "Type": "AddFrostDamage", "Values": { "MinValue": 11, "MaxValue": 15, "Increment": 1 } }
+        { "Type": "AddFireDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
+        { "Type": "AddFrostDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
+        { "Type": "AddLightningDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
+        { "Type": "AddPoisonDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
+        { "Type": "AddSpiritDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } }
       ]
     },
     {
@@ -564,8 +569,6 @@
         { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } }
       ]
     },
-
-// Tower shield names:  "$item_shield_woodtower", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower"
 
     //////////////////////////////
     // Generics
@@ -671,7 +674,9 @@
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
-        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "$item_shield_fire", "Black metal buckler", "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+        "ExcludedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
+                               "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                               "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Immovable" }

@@ -27,7 +27,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":true,
-      "fHealth":280,
+      "fHealth":560,
       "dDamageTaken":{
          "m_blunt":"Weak",
          "m_slash":"Normal",
@@ -101,11 +101,11 @@
                "fDamage":0,
                "fBlunt":0,
                "fSlash":0,
-               "fPierce":60,
+               "fPierce":75,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
-               "fFrost":30,
+               "fFrost":37,
                "fLightning":0,
                "fPoison":0,
                "fSpirit":0
@@ -124,12 +124,12 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":60,
+               "fSlash":75,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
-               "fFrost":30,
+               "fFrost":37,
                "fLightning":0,
                "fPoison":0,
                "fSpirit":0
@@ -154,12 +154,12 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":60,
+               "fSlash":75,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
-               "fFrost":30,
+               "fFrost":35,
                "fLightning":0,
                "fPoison":0,
                "fSpirit":0
@@ -184,12 +184,12 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":80,
+               "fSlash":100,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
-               "fFrost":30,
+               "fFrost":35,
                "fLightning":0,
                "fPoison":0,
                "fSpirit":0
@@ -213,7 +213,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":60,
+               "fBlunt":75,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,

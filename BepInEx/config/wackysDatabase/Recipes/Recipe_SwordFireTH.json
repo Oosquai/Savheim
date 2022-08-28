@@ -2,13 +2,13 @@
     "name": "SwordFireTH",
     "clone": false,
     "clonePrefabName": "",
-    "craftingStation": "$piece_forge",
-    "minStationLevel": 2,
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
     "amount": 1,
     "disabled": false,
     "reqs": [
-        "Tar:5:5:True",
-        "HeavymetalBar:20:10:True",
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:20:10:True",
         "SurtlingCore:10:5:True",
         "LeatherScraps:4:2:True"
     ]

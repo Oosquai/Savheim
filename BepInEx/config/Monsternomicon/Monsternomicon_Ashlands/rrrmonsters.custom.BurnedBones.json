@@ -27,7 +27,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":true,
-      "fHealth":240,
+      "fHealth":960,
       "dDamageTaken":{
          "m_blunt":"Weak",
          "m_slash":"Normal",
@@ -104,7 +104,7 @@
                "fDamage":0,
                "fBlunt":0,
                "fSlash":0,
-               "fPierce":113,
+               "fPierce":170,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
@@ -128,13 +128,13 @@
                "fDamage":0,
                "fBlunt":0,
                "fSlash":0,
-               "fPierce":60,
+               "fPierce":90,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":60,
+               "fPoison":90,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
@@ -151,7 +151,7 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":113,
+               "fSlash":170,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
@@ -180,7 +180,7 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":113,
+               "fSlash":170,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
@@ -209,7 +209,7 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":135,
+               "fSlash":203,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
@@ -238,7 +238,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":60,
+               "fBlunt":90,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -268,7 +268,7 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":113,
+               "fSlash":170,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,

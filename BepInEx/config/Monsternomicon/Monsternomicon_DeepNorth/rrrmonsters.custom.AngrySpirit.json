@@ -39,7 +39,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":true,
-      "fHealth":55,
+      "fHealth":110,
       "dDamageTaken":{
          "m_blunt":"Immune",
          "m_slash":"Immune",
@@ -87,7 +87,7 @@
                "fPickaxe":0,
                "fFire":0,
                "fFrost":0,
-               "fLightning":45,
+               "fLightning":54,
                "fPoison":0,
                "fSpirit":0
             },
