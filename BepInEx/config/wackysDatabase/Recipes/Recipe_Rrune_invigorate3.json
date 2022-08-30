@@ -1,0 +1,14 @@
+{
+    "name": "Rrune_invigorate3",
+    "clone": true,
+    "clonePrefabName": "rune_invigorate3",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DragonTear:2:0:False",
+        "Ruby:4:2:False",
+        "MushroomYellow:6:3:False"
+    ]
+}

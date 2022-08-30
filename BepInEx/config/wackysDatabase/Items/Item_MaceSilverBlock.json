@@ -17,7 +17,7 @@
     "m_armorPerLevel": 1.0,
     "m_movementModifier": -0.05000000074505806,
     "m_blockPower": 42.0,
-    "m_blockPowerPerLevel": 0.0,
+    "m_blockPowerPerLevel": 2.0,
     "m_canBeReparied": true,
     "m_timedBlockBonus": 2.0,
     "m_deflectionForce": 30.0,

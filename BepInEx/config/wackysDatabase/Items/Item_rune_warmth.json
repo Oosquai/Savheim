@@ -1,6 +1,6 @@
 {
     "name": "rune_warmth",
-    "m_name": "Rune of Warmth",
+    "m_name": "Rune of Warmth I",
     "m_description": "Increases health and stamina regen and makes you resistant to cold, but burns itself to cinders quickly with just a few uses.  Upgrading increases Durability only.",
     "clone": false,
     "clonePrefabName": "",

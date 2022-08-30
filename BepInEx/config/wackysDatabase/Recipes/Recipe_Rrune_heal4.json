@@ -1,0 +1,14 @@
+{
+    "name": "Rrune_heal4",
+    "clone": true,
+    "clonePrefabName": "rune_heal4",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DragonTear:2:0:False",
+        "Amber:4:2:False",
+        "Pukeberries:6:3:False"
+    ]
+}
