@@ -70,7 +70,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "Throwable" },
         { "Type": "RecallWeapon" },
-        { "Type": "Opportunist", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "Opportunist" },
         { "Type": "ModifyBackstab", "Values": { "MinValue" : 80, "MaxValue" : 90, "Increment" : 1 } }
       ]
     },
@@ -102,7 +102,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "Glowing" },
         { "Type": "RemoveSpeedPenalty" },
-        { "Type": "Opportunist", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
+        { "Type": "Opportunist" },
         { "Type": "ModifyBackstab", "Values": { "MinValue" : 61, "MaxValue" : 80, "Increment" : 1 } }
       ]
     },
@@ -123,8 +123,8 @@
     },
     {
       "ID": "NjordsFavor",
-      "Name": "$mod_epicloot_l_njord",
-      "Description": "$mod_epicloot_l_njord_desc",
+      "Name": "Chepoky",
+      "Description": "Razor sharp, lightning fast, and lethal.  Poke 'em full of holes.",
       "Requirements" : {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Knives" ]

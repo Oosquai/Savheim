@@ -2614,9 +2614,9 @@
         ]
       },
       "ValuesPerRarity" : {
-        "Rare" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
-        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
+        "Rare" : { "MinValue" : 5, "MaxValue" : 10, "Increment" : 1 },
+        "Epic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
