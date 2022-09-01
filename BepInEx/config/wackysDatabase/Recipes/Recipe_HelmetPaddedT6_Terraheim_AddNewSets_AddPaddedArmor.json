@@ -1,0 +1,15 @@
+{
+    "name": "HelmetPaddedT6_Terraheim_AddNewSets_AddPaddedArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "HelmetPadded:1:0:False",
+        "Flametal:10:5:True",
+        "SalamanderFurTH:5:0:True"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ArmorLeatherLegsT6_Terraheim_AddNewSets_AddLeatherArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:10:3:True",
+        "SalamanderFurTH:5:0:True",
+        "ArmorLeatherLegsT5_Terraheim_AddNewSets_AddLeatherArmor:1:0:False"
+    ]
+}

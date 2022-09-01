@@ -1,0 +1,15 @@
+{
+    "name": "ArmorWolfLegsT6_Terraheim_AddNewSets_AddSilverArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:10:3:True",
+        "SalamanderFurTH:5:0:True",
+        "ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor:1:0:False"
+    ]
+}

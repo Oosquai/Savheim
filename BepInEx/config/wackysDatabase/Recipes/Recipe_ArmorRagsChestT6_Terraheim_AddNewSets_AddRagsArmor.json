@@ -1,0 +1,14 @@
+{
+    "name": "ArmorRagsChestT6_Terraheim_AddNewSets_AddRagsArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 3,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:10:3:True",
+        "SalamanderFurTH:5:0:True"
+    ]
+}

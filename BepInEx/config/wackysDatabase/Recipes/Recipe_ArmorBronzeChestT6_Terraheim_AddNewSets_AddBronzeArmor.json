@@ -1,0 +1,15 @@
+{
+    "name": "ArmorBronzeChestT6_Terraheim_AddNewSets_AddBronzeArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:10:3:True",
+        "SalamanderFurTH:5:0:True",
+        "ArmorBronzeChestT5_Terraheim_AddNewSets_AddBronzeArmor:1:0:False"
+    ]
+}

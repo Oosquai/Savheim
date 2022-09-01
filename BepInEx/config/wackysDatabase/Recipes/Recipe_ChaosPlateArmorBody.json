@@ -1,0 +1,15 @@
+{
+    "name": "ChaosPlateArmorBody",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:10:5:True",
+        "SalamanderFurTH:5:1:True",
+        "T2ChaosPlateArmor:1:0:True"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "name": "ArmorTrollLeatherChestT6_Terraheim_AddNewSets_AddTrollLeatherArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:10:3:True",
+        "SalamanderFurTH:5:0:True",
+        "ArmorTrollLeatherChestT5_Terraheim_AddNewSets_AddTrollLeatherArmor:1:0:False"
+    ]
+}

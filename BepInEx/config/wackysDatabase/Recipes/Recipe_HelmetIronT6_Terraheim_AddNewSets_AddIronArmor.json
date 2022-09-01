@@ -1,0 +1,15 @@
+{
+    "name": "HelmetIronT6_Terraheim_AddNewSets_AddIronArmor",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:5:5:True",
+        "Flametal:10:5:True",
+        "SalamanderFurTH:5:0:True",
+        "HelmetIronT5_Terraheim_AddNewSets_AddIronArmor:1:0:False"
+    ]
+}
