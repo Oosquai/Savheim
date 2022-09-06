@@ -1192,7 +1192,15 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook",
+                                "Sage Robe Black", "Sage Robe Blue", "Sage Robe Brown", "Sage Robe Gray", "Sage Robe Green", "Sage Robe Red", "Sage Robe White", 
+                                "Sage Tunic Black", "Sage Tunic Blue", "Sage Tunic Brown", "Sage Tunic Gray", "Sage Tunic Green", "Sage Tunic Red", "Sage Tunic White",
+                                "Sage Hood Black", "Sage Hood Blue", "Sage Hood Brown", "Sage Hood Gray", "Sage Hood Green", "Sage Hood Red", "Sage Hood White",
+                                "Sage's Golden Sapphire Circlet", "Sage's Golden Jade Circlet", "Sage's Golden Ruby Circlet",
+                                "Sage's Silver Sapphire Circlet", "Sage's Silver Jade Circlet", "Sage's Silver Ruby Circlet",
+                                "Sage's Obsidian Sapphire Circlet", "Sage's Obsidian Jade Circlet", "Sage's Obsidian Ruby Circlet",
+                                "Sage Pants"
+        ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
@@ -1221,7 +1229,15 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook",
+                                "Sage Robe Black", "Sage Robe Blue", "Sage Robe Brown", "Sage Robe Gray", "Sage Robe Green", "Sage Robe Red", "Sage Robe White", 
+                                "Sage Tunic Black", "Sage Tunic Blue", "Sage Tunic Brown", "Sage Tunic Gray", "Sage Tunic Green", "Sage Tunic Red", "Sage Tunic White",
+                                "Sage Hood Black", "Sage Hood Blue", "Sage Hood Brown", "Sage Hood Gray", "Sage Hood Green", "Sage Hood Red", "Sage Hood White",
+                                "Sage's Golden Sapphire Circlet", "Sage's Golden Jade Circlet", "Sage's Golden Ruby Circlet",
+                                "Sage's Silver Sapphire Circlet", "Sage's Silver Jade Circlet", "Sage's Silver Ruby Circlet",
+                                "Sage's Obsidian Sapphire Circlet", "Sage's Obsidian Jade Circlet", "Sage's Obsidian Ruby Circlet",
+                                "Sage Pants"
+        ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
@@ -1250,7 +1266,15 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook",
+                                "Sage Robe Black", "Sage Robe Blue", "Sage Robe Brown", "Sage Robe Gray", "Sage Robe Green", "Sage Robe Red", "Sage Robe White", 
+                                "Sage Tunic Black", "Sage Tunic Blue", "Sage Tunic Brown", "Sage Tunic Gray", "Sage Tunic Green", "Sage Tunic Red", "Sage Tunic White",
+                                "Sage Hood Black", "Sage Hood Blue", "Sage Hood Brown", "Sage Hood Gray", "Sage Hood Green", "Sage Hood Red", "Sage Hood White",
+                                "Sage's Golden Sapphire Circlet", "Sage's Golden Jade Circlet", "Sage's Golden Ruby Circlet",
+                                "Sage's Silver Sapphire Circlet", "Sage's Silver Jade Circlet", "Sage's Silver Ruby Circlet",
+                                "Sage's Obsidian Sapphire Circlet", "Sage's Obsidian Jade Circlet", "Sage's Obsidian Ruby Circlet",
+                                "Sage Pants"
+        ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 4, "Increment" : 1 },
@@ -1308,7 +1332,15 @@
           "Utility",
           "Shield"
         ],
-        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook",
+                                "Sage Robe Black", "Sage Robe Blue", "Sage Robe Brown", "Sage Robe Gray", "Sage Robe Green", "Sage Robe Red", "Sage Robe White", 
+                                "Sage Tunic Black", "Sage Tunic Blue", "Sage Tunic Brown", "Sage Tunic Gray", "Sage Tunic Green", "Sage Tunic Red", "Sage Tunic White",
+                                "Sage Hood Black", "Sage Hood Blue", "Sage Hood Brown", "Sage Hood Gray", "Sage Hood Green", "Sage Hood Red", "Sage Hood White",
+                                "Sage's Golden Sapphire Circlet", "Sage's Golden Jade Circlet", "Sage's Golden Ruby Circlet",
+                                "Sage's Silver Sapphire Circlet", "Sage's Silver Jade Circlet", "Sage's Silver Ruby Circlet",
+                                "Sage's Obsidian Sapphire Circlet", "Sage's Obsidian Jade Circlet", "Sage's Obsidian Ruby Circlet",
+                                "Sage Pants"
+        ]
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 1, "MaxValue" : 2, "Increment" : 1 },
@@ -2195,10 +2227,10 @@
         ]
       },
       "ValuesPerRarity" : {
-        "Magic" : { "MinValue" : 5, "MaxValue" : 10, "Increment" : 1 },
-        "Rare" : { "MinValue" : 8, "MaxValue" : 13, "Increment" : 1 },
-        "Epic" : { "MinValue" : 11, "MaxValue" : 16, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 14, "MaxValue" : 19, "Increment" : 1 }
+        "Magic" : { "MinValue" : 250, "MaxValue" : 275, "Increment" : 1 },
+        "Rare" : { "MinValue" : 275, "MaxValue" : 300, "Increment" : 1 },
+        "Epic" : { "MinValue" : 300, "MaxValue" : 325, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 325, "MaxValue" : 350, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [ "$mod_epicloot_me_modifydiscoveryradius_prefix1" ],
@@ -2605,7 +2637,7 @@
           "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife",
           "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
           "$item_fistweapon_fenris", "Blackmetal shredders", "Heavymetal claws", "Frometal claws", "Flametal claws",
-          "Blackmetal Skirmisher",
+          "Blackmetal Skirmisher", "Flametal Skirmisher",
           "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana"
         ],
         "AllowedRarities" : [

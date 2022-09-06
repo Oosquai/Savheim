@@ -7,6 +7,7 @@
     "amount": 1,
     "disabled": false,
     "reqs": [
+        "StableMagusStaff:1:0:False",
         "Flametal:10:5:False",
         "LoxPelt:3:2:False",
         "BurningWorldTreeFragment:8:4:False"

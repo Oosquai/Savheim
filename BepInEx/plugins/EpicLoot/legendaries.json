@@ -123,7 +123,7 @@
     },
     {
       "ID": "NjordsFavor",
-      "Name": "Chepoky",
+      "Name": "$mod_epicloot_l_njord",
       "Description": "Razor sharp, lightning fast, and lethal.  Poke 'em full of holes.",
       "Requirements" : {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
@@ -359,6 +359,20 @@
       ]
     },
     {
+      "ID": "ChepookiClaws",
+      "Name": "Chepookitty's Claws",
+      "Description": "Channel the feline speed and grace of Archie in your left hand and Coco in your right.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Unarmed" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 } },
+        { "Type": "AddMovementSkills", "Values": { "MinValue": 10, "MaxValue": 15, "Increment": 1 } }
+      ]
+    },
+    {
       "ID": "HeadsmanAxe",
       "Name": "The Headsman",
       "Description": "He thirsts, and your neck runneth over.",
@@ -395,7 +409,8 @@
         { "Type": "QuickDraw" },
         { "Type": "AddFrostDamage", "Values": { "MinValue" : 11, "MaxValue" : 17, "Increment" : 1 } },
         { "Type": "AddFireDamage", "Values": { "MinValue" : 11, "MaxValue" : 17, "Increment" : 1 } },
-        { "Type": "AddPoisonDamage", "Values": { "MinValue" : 11, "MaxValue" : 17, "Increment" : 1 } }
+        { "Type": "AddPoisonDamage", "Values": { "MinValue" : 11, "MaxValue" : 17, "Increment" : 1 } },
+        { "Type": "Indestructible" }
       ]
     },
     {
@@ -690,6 +705,11 @@
       "Requirements": {
         "AllowedItemTypes": [
           "Helmet"
+        ],
+        "ExcludedItemNames": [ "Sage Hood Black", "Sage Hood Blue", "Sage Hood Brown", "Sage Hood Gray", "Sage Hood Green", "Sage Hood Red", "Sage Hood White",
+                               "Sage's Golden Sapphire Circlet", "Sage's Golden Jade Circlet", "Sage's Golden Ruby Circlet",
+                               "Sage's Silver Sapphire Circlet", "Sage's Silver Jade Circlet", "Sage's Silver Ruby Circlet",
+                               "Sage's Obsidian Sapphire Circlet", "Sage's Obsidian Jade Circlet", "Sage's Obsidian Ruby Circlet"
         ]
       },
       "GuaranteedEffectCount": 6, 
@@ -707,6 +727,9 @@
       "Requirements": {
         "AllowedItemTypes": [
           "Chest"
+        ],
+        "ExcludedItemNames": [ "Sage Robe Black", "Sage Robe Blue", "Sage Robe Brown", "Sage Robe Gray", "Sage Robe Green", "Sage Robe Red", "Sage Robe White",
+                               "Sage Tunic Black", "Sage Tunic Blue", "Sage Tunic Brown", "Sage Tunic Gray", "Sage Tunic Green", "Sage Tunic Red", "Sage Tunic White"
         ]
       },
       "GuaranteedEffectCount": 6, 
@@ -723,7 +746,8 @@
       "Requirements": {
         "AllowedItemTypes": [
           "Legs"
-        ]
+        ],
+        "ExcludedItemNames": [ "Sage Pants" ]
       },
       "GuaranteedEffectCount": 6, 
       "GuaranteedMagicEffects": [
@@ -837,7 +861,7 @@
       "Requirements": {
         "AllowedItemTypes": [
           "Chest"
-        ]
+        ],
       },
       "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
@@ -858,6 +882,68 @@
       "GuaranteedMagicEffects": [
         { "Type": "DoubleJump" }
       ]
+    },
+
+    // Ranni's Dark Moon Set
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "RanniChest",
+      "Name": "Dark Moon Garb",
+      "Description": "The clothing of a true master of the arcane.  Why wear armor when one can simply choose not to be hit?",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Chest" ],
+        "AllowedItemNames": [ "Sage Robe Black", "Sage Robe Blue", "Sage Robe Brown", "Sage Robe Gray", "Sage Robe Green", "Sage Robe Red", "Sage Robe White",
+                              "Sage Tunic Black", "Sage Tunic Blue", "Sage Tunic Brown", "Sage Tunic Gray", "Sage Tunic Green", "Sage Tunic Red", "Sage Tunic White" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "RanniHelm",
+      "Name": "Dark Moon Cover",
+      "Description": "The headpiece of a true master of the arcane.  Why wear armor when one can simply choose not to be hit?",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Helmet" ],
+        "AllowedItemNames": [ "Sage Hood Black", "Sage Hood Blue", "Sage Hood Brown", "Sage Hood Gray", "Sage Hood Green", "Sage Hood Red", "Sage Hood White",
+                              "Sage's Golden Sapphire Circlet", "Sage's Golden Jade Circlet", "Sage's Golden Ruby Circlet",
+                              "Sage's Silver Sapphire Circlet", "Sage's Silver Jade Circlet", "Sage's Silver Ruby Circlet",
+                              "Sage's Obsidian Sapphire Circlet", "Sage's Obsidian Jade Circlet", "Sage's Obsidian Ruby Circlet" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "RanniLegs",
+      "Name": "Dark Moon Pants",
+      "Description": "The pants of a true master of the arcane.  Why wear armor when one can simply choose not to be hit?",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Legs" ],
+        "AllowedItemNames": [ "Sage Pants" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "RanniStaff",
+      "Name": "Dark Moon Staff",
+      "Description": "The Master's staff.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Torch" ],
+        "ExcludedItemNames": [ "$item_torch" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "RanniBook",
+      "Name": "Dark Moon Spellbook",
+      "Description": "The Master's spellbook.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Shield" ],
+        "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
+      },
+      "GuaranteedEffectCount": 6
     }
   ],
 
@@ -909,12 +995,29 @@
         { "Count": 2, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
         { "Count": 2, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 4, "MaxValue": 4, "Increment": 1 } } },
         { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -10, "MaxValue": -10, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 6, "MaxValue": 6, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -16, "MaxValue": -16, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.1, "MaxValue": 0.1, "Increment": 0.5 } } },
         { "Count": 4, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 9, "MaxValue": 9, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -24, "MaxValue": -24, "Increment": 1 } } }
+      ]
+    },
+    {
+      "ID": "RanniDarkMoon",
+      "Name": "Ranni's Dark Moon Regalia",
+      "LegendaryIDs": [
+        "RanniChest",
+        "RanniHelm",
+        "RanniLegs",
+        "RanniStaff",
+        "RanniBook"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyDiscoveryRadius", "Values": { "MinValue": 400, "MaxValue": 400, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "QuickLearner", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "AddElementalResistancePercentage", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
       ]
     }
   ] 

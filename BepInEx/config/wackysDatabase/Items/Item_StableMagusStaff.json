@@ -1,7 +1,7 @@
 {
     "name": "StableMagusStaff",
     "m_name": "Stable magus staff",
-    "m_description": "Finally, after much study, you've crafted a reliable core for a true arcane focus. Now it just lacks oomph. There must still be something missing...",
+    "m_description": "Finally, after much study, you've crafted multiple reliable cores for a true arcane focus. Now they just lack oomph. There must still be something missing... At least you have several to experiment with!",
     "clone": true,
     "clonePrefabName": "ScholarFireStaff",
     "cloneMaterial": "",

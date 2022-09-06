@@ -485,9 +485,8 @@
         { "Item": "ArmorWandererHelmet",                                                "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SageRobeBlack",                                                      "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SageTunicBlack",                                                     "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SageHoodBlack",                                                      "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SageCrownSilver01",                                                  "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "SagePants",                                                          "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SageHoodBlack",                                                      "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "SagePants",                                                          "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "GoldRubyRing",                                                       "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SilverRing",                                                         "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] }
       ]

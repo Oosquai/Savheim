@@ -4,7 +4,7 @@
     "clonePrefabName": "StableMagusStaff",
     "craftingStation": "$piece_workbench",
     "minStationLevel": 1,
-    "amount": 1,
+    "amount": 5,
     "disabled": false,
     "reqs": [
         "DragonTear:1:0:False",

@@ -7,6 +7,7 @@
     "amount": 1,
     "disabled": false,
     "reqs": [
+        "StableMagusStaff:1:0:False",
         "HeavymetalBar:10:4:False",
         "WorldTreeFragment:15:5:False",
         "LinenThread:12:4:False"
