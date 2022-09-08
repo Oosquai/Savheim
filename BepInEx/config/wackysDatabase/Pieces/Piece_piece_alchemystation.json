@@ -1,0 +1,20 @@
+{
+    "name": "piece_alchemystation",
+    "m_name": "Inscription Table",
+    "m_description": "Rune Crafting/Upgrading.",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_artisanstation",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "Crafting",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "adminonly": false,
+    "reqs": [
+        "WorldTreeFragment:15:0:True",
+        "Coal:10:0:True",
+        "Bronze:5:0:True"
+    ]
+}

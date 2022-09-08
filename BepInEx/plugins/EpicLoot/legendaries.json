@@ -351,9 +351,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "Opportunist" },
-        { "Type": "ModifyBackstab", "Values": { "MinValue" : 125, "MaxValue" : 150, "Increment" : 1 } },
         { "Type": "ModifyParry", "Values": { "MinValue" : 40, "MaxValue" : 44, "Increment" : 1 } },
-        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
         { "Type": "RemoveSpeedPenalty" }
       ]
