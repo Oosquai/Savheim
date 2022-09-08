@@ -351,8 +351,8 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "Opportunist" },
-        { "Type": "ModifyParry", "Values": { "MinValue" : 40, "MaxValue" : 44, "Increment" : 1 } },
-        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "ModifyParry", "Values": { "MinValue" : 50, "MaxValue" : 50, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "RemoveSpeedPenalty" }
       ]
     },
