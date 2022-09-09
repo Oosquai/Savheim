@@ -321,7 +321,8 @@
       },
       "GuaranteedEffectCount": 3, 
       "GuaranteedMagicEffects": [
-        { "Type": "Undying" }
+        { "Type": "Undying" },
+        { "Type": "ModifyParry" }
       ]
     },
     {
