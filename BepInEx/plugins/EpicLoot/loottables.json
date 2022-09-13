@@ -503,7 +503,7 @@
     {
       "Name": "Tier5Tools",
       "Loot": [
-//        { "Item": "PickaxeBlackmetal", "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] }
+        { "Item": "PickaxeBlackmetal", "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] }
       ]
     },
     {
@@ -511,8 +511,8 @@
       "Loot": [
         { "Item": "Tier5Weapons" },
         { "Item": "Tier5Armor"   },
-        { "Item": "Tier5Shields" },
-        { "Item": "Tier5Tools"   }
+//        { "Item": "Tier5Tools"   },
+        { "Item": "Tier5Shields" }
       ]
     },
     // Tier 6 Items
@@ -557,7 +557,7 @@
     {
       "Name": "Tier6Tools",
       "Loot": [
-//        { "Item": "PickaxeHeavymetal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
+        { "Item": "PickaxeHeavymetal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
       ]
     },
     {
@@ -566,8 +566,8 @@
         { "Item": "Tier6Weapons" },
         { "Item": "Tier5Armor"   },
         { "Item": "Tier6Armor"   },
-        { "Item": "Tier6Shields" },
-        { "Item": "Tier6Tools"   }
+//        { "Item": "Tier6Tools"   },
+        { "Item": "Tier6Shields" }
       ]
     },
 
@@ -613,7 +613,7 @@
     {
       "Name": "Tier7Tools",
       "Loot": [
-//        { "Item": "PickaxeFrometal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
+        { "Item": "PickaxeFrometal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
       ]
     },
     {
@@ -622,8 +622,8 @@
         { "Item": "Tier7Weapons" },
         { "Item": "Tier5Armor"   },
         { "Item": "Tier7Armor"   },
-        { "Item": "Tier7Shields" },
-        { "Item": "Tier7Tools"   }
+//        { "Item": "Tier7Tools"   },
+        { "Item": "Tier7Shields" }
       ]
     },
 
@@ -688,7 +688,7 @@
     {
       "Name": "Tier8Tools",
       "Loot": [
-//        { "Item": "PickaxeFlametal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
+        { "Item": "PickaxeFlametal", "Weight": 3, "Rarity": [ 0, 10, 75, 15 ] }
       ]
     },
     {
@@ -696,8 +696,8 @@
       "Loot": [
         { "Item": "Tier8Weapons" },
         { "Item": "Tier8Armor"   },
-        { "Item": "Tier8Shields" },
-        { "Item": "Tier8Tools"   }
+//        { "Item": "Tier8Tools"   },
+        { "Item": "Tier8Shields" }
       ]
     },
 
