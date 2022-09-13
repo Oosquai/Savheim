@@ -644,7 +644,7 @@
         { "Item": "GreatSwordFlametal",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SwordFlametal",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SwordFlametalShort",  "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
-//        { "Item": "AxeFlametal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AxeFlametal",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "ThrowingAxeFlametal", "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "FistFlametal",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SpearFireTH",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
@@ -656,7 +656,7 @@
         { "Item": "GreatswordFireTH",    "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "MaceFireTH",          "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "KnifeFireTH",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
-//        { "Item": "AxeFireTH",           "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "AxeFireTH",           "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "ThrowingAxeFire",     "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] }
       ]
     },
