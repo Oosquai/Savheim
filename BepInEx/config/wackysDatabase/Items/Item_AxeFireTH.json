@@ -1,7 +1,7 @@
 {
     "name": "AxeFireTH",
     "m_name": "$item_axe_fire",
-    "m_description": "<i>Axe</i>\n\u0016$item_axe_fire_description\n\nKilling a foe imbues their corpse with volatile energy, causing them to explode soon after death. The explosion deals damage equal to <color=cyan>50%</color> of the foes max hp. These explosions can chain.",
+    "m_description": "<i>Axe</i>\n\u0016$item_axe_fire_description This axe cannot cut Burning Trees.\n\nKilling a foe imbues their corpse with volatile energy, causing them to explode soon after death. The explosion deals damage equal to <color=cyan>50%</color> of the foes max hp. These explosions can chain.",
     "clone": false,
     "clonePrefabName": "",
     "cloneMaterial": "",
@@ -37,7 +37,7 @@
     "m_useDurabilityDrain": 1.0,
     "m_questItem": false,
     "m_teleportable": true,
-    "m_toolTier": 7,
+    "m_toolTier": 5,
     "m_value": 0,
     "m_damages": "m_blunt:0, m_chop:90, m_damage:0, m_fire:74, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:78, m_spirit:0, ",
     "m_damagesPerLevel": "m_blunt:0, m_chop:9, m_damage:0, m_fire:3, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:8, m_spirit:0, ",
