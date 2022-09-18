@@ -342,13 +342,21 @@
             "bLevelMultiplier":true
          },
          {
-            "sPrefabName":"Coal",
-            "iAmountMin":2,
-            "iAmountMax":3,
-            "fChance":1,
+            "sPrefabName":"ShardEpic",
+            "iAmountMin":1,
+            "iAmountMax":2,
+            "fChance":0.25,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
-         }
+         },
+         {
+            "sPrefabName":"ShardLegendary",
+            "iAmountMin":1,
+            "iAmountMax":1,
+            "fChance":0.1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
       ]
    },
    "Category_Special":{

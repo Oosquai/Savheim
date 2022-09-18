@@ -1,0 +1,14 @@
+{
+    "name": "CursedEffigy",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "HeavymetalBar:2:0:False",
+        "AncientSeed:1:0:False",
+        "WorldTreeFragment:3:0:False"
+    ]
+}

@@ -163,19 +163,19 @@
       "bReplaceOriginalDrops":true,
       "drDrops":[
          {
-            "sPrefabName":"Coins",
-            "iAmountMin":10,
-            "iAmountMax":20,
+            "sPrefabName":"OreHeavymetal",
+            "iAmountMin":4,
+            "iAmountMax":6,
             "fChance":1,
-            "bOnePerPlayer":false,
+            "bOnePerPlayer":true,
             "bLevelMultiplier":true
          },
          {
-            "sPrefabName":"Crystal",
-            "iAmountMin":3,
-            "iAmountMax":6,
+            "sPrefabName":"ShardLegendary",
+            "iAmountMin":2,
+            "iAmountMax":4,
             "fChance":1,
-            "bOnePerPlayer":false,
+            "bOnePerPlayer":true,
             "bLevelMultiplier":true
          },
          {
@@ -183,8 +183,8 @@
             "iAmountMin":1,
             "iAmountMax":1,
             "fChance":1,
-            "bOnePerPlayer":false,
-            "bLevelMultiplier":false
+            "bOnePerPlayer":true,
+            "bLevelMultiplier":true
          }
       ]
    },

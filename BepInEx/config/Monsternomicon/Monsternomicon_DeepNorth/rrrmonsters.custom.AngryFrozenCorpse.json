@@ -340,8 +340,8 @@
       "drDrops":[
          {
             "sPrefabName":"Coins",
-            "iAmountMin":1,
-            "iAmountMax":5,
+            "iAmountMin":11,
+            "iAmountMax":15,
             "fChance":1,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
@@ -358,6 +358,14 @@
             "sPrefabName":"Ruby",
             "iAmountMin":1,
             "iAmountMax":1,
+            "fChance":0.2,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
+            "sPrefabName":"ShardEpic",
+            "iAmountMin":1,
+            "iAmountMax":2,
             "fChance":0.2,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true

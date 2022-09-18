@@ -429,7 +429,22 @@
    "Category_CharacterDrop":{
       "bReplaceOriginalDrops":true,
       "drDrops":[
-         
+         {
+            "sPrefabName":"Coins",
+            "iAmountMin":21,
+            "iAmountMax":29,
+            "fChance":1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
+            "sPrefabName":"OreFrometal",
+            "iAmountMin":1,
+            "iAmountMax":2,
+            "fChance":1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         }       
       ]
    },
    "Category_Special":{

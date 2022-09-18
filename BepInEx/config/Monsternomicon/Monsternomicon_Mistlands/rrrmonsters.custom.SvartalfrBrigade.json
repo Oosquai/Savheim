@@ -567,8 +567,8 @@
       "drDrops":[
          {
             "sPrefabName":"Coins",
-            "iAmountMin":1,
-            "iAmountMax":3,
+            "iAmountMin":7,
+            "iAmountMax":13,
             "fChance":1,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
@@ -576,8 +576,32 @@
          {
             "sPrefabName":"Crystal",
             "iAmountMin":1,
+            "iAmountMax":2,
+            "fChance":0.2,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
+            "sPrefabName":"ShardEpic",
+            "iAmountMin":1,
+            "iAmountMax":2,
+            "fChance":0.2,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
+            "sPrefabName":"OreHeavymetal",
+            "iAmountMin":1,
             "iAmountMax":1,
-            "fChance":0.5,
+            "fChance":0.1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
+            "sPrefabName":"ShardLegendary",
+            "iAmountMin":1,
+            "iAmountMax":1,
+            "fChance":0.05,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
          },
@@ -585,9 +609,9 @@
             "sPrefabName":"GoblinTotem",
             "iAmountMin":1,
             "iAmountMax":1,
-            "fChance":0.03,
+            "fChance":0.025,
             "bOnePerPlayer":false,
-            "bLevelMultiplier":false
+            "bLevelMultiplier":true
          }
       ]
    },

@@ -259,6 +259,22 @@
             "bLevelMultiplier":true
          },
          {
+            "sPrefabName":"Guck",
+            "iAmountMin":1,
+            "iAmountMax":2,
+            "fChance":0.5,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
+            "sPrefabName":"WorldTreeFragment",
+            "iAmountMin":1,
+            "iAmountMax":2,
+            "fChance":0.1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
             "sPrefabName":"Tar",
             "iAmountMin":1,
             "iAmountMax":2,

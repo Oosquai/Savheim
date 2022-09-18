@@ -258,12 +258,20 @@
          },
          {
             "sPrefabName":"SilverOre",
-            "iAmountMin":5,
-            "iAmountMax":10,
+            "iAmountMin":4,
+            "iAmountMax":5,
             "fChance":1,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
-         }
+         },
+         {
+            "sPrefabName":"OreFrometal",
+            "iAmountMin":2,
+            "iAmountMax":3,
+            "fChance":1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         }       
       ]
    },
    "Category_Special":{

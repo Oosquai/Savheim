@@ -178,7 +178,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
         { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 4, "MaxValue" : 4.5, "Increment" : 0.1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 14, "MaxValue" : 15, "Increment" : 0.25 } },
         { "Type": "Indestructible" }
       ]
     },
@@ -206,8 +206,8 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddPiercingDamage", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 4, "MaxValue" : 4.5, "Increment" : 0.1 } },
-        { "Type": "LifeStealLowHealth", "Values": { "MinValue" : 6, "MaxValue" : 8, "Increment" : 0.1 } }
+        { "Type": "LifeSteal", "Values": { "MinValue" : 14, "MaxValue" : 15, "Increment" : 0.25 } },
+        { "Type": "LifeStealLowHealth", "Values": { "MinValue" : 21, "MaxValue" : 23, "Increment" : 0.25 } }
       ]
     },
     {
@@ -381,7 +381,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "Executioner", "Values": { "MinValue" : 901, "MaxValue" : 999, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 4.5, "MaxValue" : 5.5, "Increment" : 0.1 } }
+        { "Type": "LifeSteal", "Values": { "MinValue" : 17, "MaxValue" : 19, "Increment" : 0.25 } }
       ]
     },
     {
@@ -577,7 +577,7 @@
         "AllowedSkillTypes": [ "Axes", "Clubs", "Swords", "Knives" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "LifeSteal", "Values": { "MinValue" : 3.1, "MaxValue" : 3.9, "Increment" : 0.1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 15, "MaxValue" : 17, "Increment" : 0.25 } },
         { "Type": "ModifyDamageLowHealth", "Values": { "MinValue" : 25, "MaxValue" : 29, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
         { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } }
