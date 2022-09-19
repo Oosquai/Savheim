@@ -858,9 +858,7 @@
       "Description": "A robe common to all of the Lord's Blades, these deadly women shift nimbly between layers of darkness, etching streaks of gold into the night air, and planting visions of terror into the minds of their targets.",
       "IsSetItem": true, 
       "Requirements": {
-        "AllowedItemTypes": [
-          "Chest"
-        ],
+        "AllowedItemTypes": [ "Chest" ]
       },
       "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
@@ -880,6 +878,56 @@
       "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
         { "Type": "DoubleJump" }
+      ]
+    },
+
+    // Archibald Bauman Set
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "ArcherChest",
+      "Name": "Archer's Harness",
+      "Description": "Archibauld Bowman's trustworthy chest protection.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Chest" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "ArcherLegs",
+      "Name": "Archer's Legguards",
+      "Description": "Archibauld Bowman's pants.  Roomie and great for moving around in, but still with enough protection for when something gets too close.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Legs" ]
+      },
+      "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 15, "MaxValue" : 15, "Increment" : 1 } }
+      ]
+    },
+    {
+      "ID": "ArcherCape",
+      "Name": "Archer's Cloak",
+      "Description": "Archibauld Bowman's cloak.  It kept him warm on those dark nights spent tracking his arch nemesis, Drawback.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Shoulder" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "ArcherBow",
+      "Name": "Archer Bowman's Pride",
+      "Description": "Archibauld Bowman's famous bow.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Bow" ],
+        "AllowedSkillTypes": [ "Bows" ]
+      },
+      "GuaranteedEffectCount": 6,
+      "GuaranteedMagicEffects": [
+        { "Type": "Indestructible" }
       ]
     },
 
@@ -1000,6 +1048,21 @@
         { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.1, "MaxValue": 0.1, "Increment": 0.5 } } },
         { "Count": 4, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 9, "MaxValue": 9, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -24, "MaxValue": -24, "Increment": 1 } } }
+      ]
+    },
+    {
+      "ID": "ArcherBowman",
+      "Name": "Archer Bowman's Gear",
+      "LegendaryIDs": [
+        "ArcherChest",
+        "ArcherLegs",
+        "ArcherCape",
+        "ArcherBow"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "StaggerOnDamageTaken", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "Opportunist", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } }
       ]
     },
     {
