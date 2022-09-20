@@ -1,0 +1,13 @@
+{
+    "name": "FenrirsHeart",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Flametal:2:0:False",
+        "BurningWorldTreeFragment:3:0:False"
+    ]
+}

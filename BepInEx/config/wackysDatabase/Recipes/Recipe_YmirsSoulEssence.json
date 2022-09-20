@@ -1,0 +1,14 @@
+{
+    "name": "YmirsSoulEssence",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "Inscription Table",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:2:0:False",
+        "PrimordialIce:1:0:False",
+        "WorldTreeFragment:3:0:False"
+    ]
+}

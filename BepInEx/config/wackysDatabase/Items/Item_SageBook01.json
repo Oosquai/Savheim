@@ -1,7 +1,7 @@
 {
     "name": "SageBook01",
     "m_name": "Leather spellbook",
-    "m_description": "This rather simple tome of spells doesn't offer much physical protection, but reviewing the scribbled notes within might reveal other boons.",
+    "m_description": "A mage's shield.  Poor defense against physical attacks, but capable of holding enchants traditional shields cannot.",
     "clone": false,
     "clonePrefabName": "",
     "cloneMaterial": "",

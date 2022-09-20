@@ -1,7 +1,7 @@
 {
     "name": "SageBookFlametal",
     "m_name": "Flametal spellbook",
-    "m_description": "A master's spellbook crafted from the World Tree and reinforced with Flametal, the power of this ancient tome blazes forth from its pages.",
+    "m_description": "A mage's shield.  Poor defense against physical attacks, but capable of holding enchants traditional shields cannot.",
     "clone": true,
     "clonePrefabName": "SageBook01",
     "cloneMaterial": "Flametal_Color",

@@ -284,21 +284,18 @@
         { "Item": "ArmorBronzeChestT4_Terraheim_AddNewSets_AddBronzeArmor",             "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorIronChestT4_Terraheim_AddNewSets_AddIronArmor",                 "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorBarbarianBronzeChestJDT4_Terraheim_BarbarianArmor_AddNewSets",  "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
-        { "Item": "ArmorDragonslayerChest",                                             "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorFenringChest",                                                  "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorLeatherLegsT4_Terraheim_AddNewSets_AddLeatherArmor",            "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorTrollLeatherLegsT4_Terraheim_AddNewSets_AddTrollLeatherArmor",  "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorBronzeLegsT4_Terraheim_AddNewSets_AddBronzeArmor",              "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorIronLegsT4_Terraheim_AddNewSets_AddIronArmor",                  "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorBarbarianBronzeLegsJDT4_Terraheim_BarbarianArmor_AddNewSets",   "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
-        { "Item": "ArmorDragonslayerLegs",                                              "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorFenringLegs",                                                   "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "HelmetLeatherT4_Terraheim_AddNewSets_AddLeatherArmor",               "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "HelmetTrollLeatherT4_Terraheim_AddNewSets_AddTrollLeatherArmor",     "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "HelmetBronzeT4_Terraheim_AddNewSets_AddBronzeArmor",                 "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "HelmetIronT4_Terraheim_AddNewSets_AddIronArmor",                     "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ArmorBarbarianBronzeHelmetJDT4_Terraheim_BarbarianArmor_AddNewSets", "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
-        { "Item": "ArmorDragonslayerHelmet",                                            "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "HelmetFenring",                                                      "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "BackpackHeavy",                                                      "Weight": 1, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "LeatherBelt",                                                        "Weight": 1, "Rarity": [ 10, 40, 50, 10 ] },
@@ -403,6 +400,13 @@
         { "Item": "SageHolyStaffHeavymetal",      "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SageLightningStaffHeavymetal", "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "PickaxeHeavymetal",            "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorDragonslayerChest",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorDragonslayerLegs",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorDragonslayerHelmet",      "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageRobeBlack",                "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageTunicBlack",               "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageHoodBlack",                "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SagePants",                    "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SilverRing",                   "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "ShieldHeavymetal",             "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "ShieldHeavymetalTower",        "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
@@ -437,6 +441,14 @@
         { "Item": "SageHolyStaffFrometal",      "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SageLightningStaffFrometal", "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "PickaxeFrometal",            "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorSerpentChest",          "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorSerpentLegs",           "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorSerpentHelmet",         "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "ArmorSerpentCape",           "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageRobeBlack",              "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageTunicBlack",             "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageHoodBlack",              "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SagePants",                  "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SilverRing",                 "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "CapeOdin",                   "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "HelmetOdin",                 "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
@@ -490,6 +502,10 @@
         { "Item": "ChaosPlateLegs",             "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "ArmorMistlandsHelmet",       "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "ChaosPlateHelm",             "Weight": 5, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageRobeBlack",              "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageTunicBlack",             "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SageHoodBlack",              "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
+        { "Item": "SagePants",                  "Weight": 4, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "SilverRing",                 "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "CapeOdin",                   "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
         { "Item": "HelmetOdin",                 "Weight": 1, "Rarity": [ 0, 10, 75, 15 ] },
@@ -2589,21 +2605,21 @@
       "LeveledLoot": [
         {
           "Level": 1,
-          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Drops": [ [0, 0], [1, 30], [2, 60], [3, 8], [4, 2], [5, 0], [6, 0], [7, 0] ],
           "Loot": [
             { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
-          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Drops": [ [0, 0], [1, 25], [2, 50], [3, 15], [4, 8], [5, 2], [6, 0], [7, 0] ],
           "Loot": [
             { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
           "Level": 3,
-          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Drops": [ [0, 0], [1, 15], [2, 35], [3, 30], [4, 15], [5, 4], [6, 1], [7, 0] ],
           "Loot": [
             { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
           ]
@@ -2617,7 +2633,7 @@
         },
         {
           "Level": 5,
-          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Drops": [ [0, 0], [1, 0], [2, 10], [3, 15], [4, 28], [5, 30], [6, 15], [7, 2] ],
           "Loot": [
             { "Item": "Tier7Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
           ]

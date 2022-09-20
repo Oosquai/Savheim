@@ -837,9 +837,6 @@
           "Bow",
           "Torch"
         ],
-        "ExcludedSkillTypes": [
-          "Pickaxes"
-        ],
         "ExcludedItemNames" : [
           "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV",
           "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II",
@@ -2637,7 +2634,6 @@
           "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife",
           "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
           "$item_fistweapon_fenris", "Blackmetal shredders", "Heavymetal claws", "Frometal claws", "Flametal claws",
-          "Blackmetal Skirmisher", "Flametal Skirmisher",
           "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana"
         ],
         "AllowedRarities" : [

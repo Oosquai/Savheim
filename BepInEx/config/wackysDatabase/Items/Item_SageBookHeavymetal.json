@@ -1,7 +1,7 @@
 {
     "name": "SageBookHeavymetal",
     "m_name": "Heavymetal spellbook",
-    "m_description": "A master's spellbook crafted from the World Tree and reinforced with Heavymetal.",
+    "m_description": "A mage's shield.  Poor defense against physical attacks, but capable of holding enchants traditional shields cannot.",
     "clone": true,
     "clonePrefabName": "SageBook01",
     "cloneMaterial": "Heavymetal_Color",

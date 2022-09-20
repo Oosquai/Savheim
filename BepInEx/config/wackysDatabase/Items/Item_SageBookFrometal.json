@@ -1,7 +1,7 @@
 {
     "name": "SageBookFrometal",
     "m_name": "Frometal spellbook",
-    "m_description": "A master's spellbook crafted from the World Tree and reinforced with Frometal, this tome is almost too cold to hold.",
+    "m_description": "A mage's shield.  Poor defense against physical attacks, but capable of holding enchants traditional shields cannot.",
     "clone": true,
     "clonePrefabName": "SageBook01",
     "cloneMaterial": "Frometal_Color",

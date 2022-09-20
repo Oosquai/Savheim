@@ -1,7 +1,7 @@
 {
     "name": "SageBookLinen",
     "m_name": "Artisan spellbook",
-    "m_description": "This beautifully crafted spellbook won't help much against physical attacks, but memorizing the blazing silver arcana within could reveal powerful advantages in other areas.",
+    "m_description": "A mage's shield.  Poor defense against physical attacks, but capable of holding enchants traditional shields cannot.",
     "clone": true,
     "clonePrefabName": "SageBook01",
     "cloneMaterial": "CrystalAxe_mat",

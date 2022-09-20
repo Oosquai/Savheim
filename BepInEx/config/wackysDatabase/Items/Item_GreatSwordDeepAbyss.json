@@ -39,7 +39,7 @@
     "m_teleportable": true,
     "m_toolTier": 8,
     "m_value": 0,
-    "m_damages": "m_blunt:27, m_chop:0, m_damage:0, m_fire:27, m_frost:27, m_lightning:27, m_pickaxe:0, m_pierce:27, m_poison:27, m_slash:27, m_spirit:27, ",
+    "m_damages": "m_blunt:28, m_chop:0, m_damage:0, m_fire:28, m_frost:28, m_lightning:28, m_pickaxe:0, m_pierce:28, m_poison:28, m_slash:28, m_spirit:28, ",
     "m_damagesPerLevel": "m_blunt:2, m_chop:0, m_damage:0, m_fire:2, m_frost:2, m_lightning:2, m_pickaxe:0, m_pierce:2, m_poison:2, m_slash:2, m_spirit:2, ",
     "damageModifiers": []
 }

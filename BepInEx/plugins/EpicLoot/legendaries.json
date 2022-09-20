@@ -276,7 +276,7 @@
       "EquipFxMode": "EquipRoot", 
       "Requirements" : {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
-        "AllowedSkillTypes": [ "Swords", "Clubs" ]
+        "AllowedSkillTypes": [ "Clubs" ]
       },
       "GuaranteedEffectCount": 6, 
       "GuaranteedMagicEffects": [
@@ -886,7 +886,7 @@
     {
       "ID": "ArcherChest",
       "Name": "Archer's Harness",
-      "Description": "Archibauld Bowman's trustworthy chest protection.",
+      "Description": "Archer Bowman's trustworthy chest protection.",
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Chest" ]
@@ -896,7 +896,7 @@
     {
       "ID": "ArcherLegs",
       "Name": "Archer's Legguards",
-      "Description": "Archibauld Bowman's pants.  Roomie and great for moving around in, but still with enough protection for when something gets too close.",
+      "Description": "Archer Bowman's pants.  Roomie and great for moving around in, but still with enough protection for when something gets too close.",
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Legs" ]
@@ -909,23 +909,23 @@
     {
       "ID": "ArcherCape",
       "Name": "Archer's Cloak",
-      "Description": "Archibauld Bowman's cloak.  It kept him warm on those dark nights spent tracking his arch nemesis, Drawback.",
+      "Description": "Archer Bowman's cloak.  It kept him warm on those dark nights spent tracking his arch nemesis, Drawback.",
       "IsSetItem": true, 
       "Requirements": {
-        "AllowedItemTypes": [ "Shoulder" ]
+        "AllowedItemTypes": [ "Shoulder" ],
+        "ItemHasArmor" : true
       },
       "GuaranteedEffectCount": 6
     },
     {
       "ID": "ArcherBow",
       "Name": "Archer Bowman's Pride",
-      "Description": "Archibauld Bowman's famous bow.",
+      "Description": "Archer Bowman's famous bow.",
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Bow" ],
         "AllowedSkillTypes": [ "Bows" ]
       },
-      "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
         { "Type": "Indestructible" }
       ]
@@ -978,8 +978,7 @@
       "Requirements": {
         "AllowedItemTypes": [ "Torch" ],
         "ExcludedItemNames": [ "$item_torch" ]
-      },
-      "GuaranteedEffectCount": 6
+      }
     },
     {
       "ID": "RanniBook",
@@ -989,8 +988,7 @@
       "Requirements": {
         "AllowedItemTypes": [ "Shield" ],
         "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
-      },
-      "GuaranteedEffectCount": 6
+      }
     }
   ],
 
@@ -1039,10 +1037,10 @@
         "LordsBladeLegs"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } },
         { "Count": 2, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 4, "MaxValue": 4, "Increment": 1 } } },
         { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -10, "MaxValue": -10, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyParry", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 6, "MaxValue": 6, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -16, "MaxValue": -16, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.1, "MaxValue": 0.1, "Increment": 0.5 } } },
@@ -1052,7 +1050,7 @@
     },
     {
       "ID": "ArcherBowman",
-      "Name": "Archer Bowman's Gear",
+      "Name": "Archibald Bauman's Rig",
       "LegendaryIDs": [
         "ArcherChest",
         "ArcherLegs",
@@ -1061,8 +1059,8 @@
       ],
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "StaggerOnDamageTaken", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "Opportunist", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } }
+        { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
       ]
     },
     {

@@ -1,7 +1,7 @@
 {
     "name": "SageBookSlime",
     "m_name": "Cursed spellbook",
-    "m_description": "This corrupted spellbook offers little physical protection, but careful study of the incantations written in blood on the pages within could offer other benefits.",
+    "m_description": "A mage's shield.  Poor defense against physical attacks, but capable of holding enchants traditional shields cannot.",
     "clone": true,
     "clonePrefabName": "SageBook01",
     "cloneMaterial": "Abomination_mat",

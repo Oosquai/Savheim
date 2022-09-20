@@ -42,7 +42,7 @@
          "m_frost":"Immune",
          "m_lightning":"Normal",
          "m_poison":"Immune",
-         "m_spirit":"Immune"
+         "m_spirit":"Weak"
       }
    },
    "Category_Humanoid":{
