@@ -1,0 +1,14 @@
+{
+    "name": "RCapeLinenT7",
+    "clone": true,
+    "clonePrefabName": "CapeLinenT7",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "LinenThread:20:4:True",
+        "Silver:1:0:True",
+        "PrimordialIce:4:2:True"
+    ]
+}

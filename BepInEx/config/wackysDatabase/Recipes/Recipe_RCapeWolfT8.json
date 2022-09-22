@@ -1,0 +1,15 @@
+{
+    "name": "RCapeWolfT8",
+    "clone": true,
+    "clonePrefabName": "CapeWolfT8",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "WolfPelt:6:4:True",
+        "Silver:4:2:True",
+        "BurningWorldTreeFragment:4:2:True",
+        "SalamanderFurTH:4:2:True"
+    ]
+}

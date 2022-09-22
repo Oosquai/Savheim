@@ -1,0 +1,15 @@
+{
+    "name": "RCapeDeerHideT8",
+    "clone": true,
+    "clonePrefabName": "CapeDeerHideT8",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeerHide:4:4:True",
+        "BoneFragments:5:5:True",
+        "BurningWorldTreeFragment:4:2:True",
+        "SalamanderFurTH:4:2:True"
+    ]
+}

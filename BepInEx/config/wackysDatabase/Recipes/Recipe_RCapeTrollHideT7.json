@@ -1,0 +1,14 @@
+{
+    "name": "RCapeTrollHideT7",
+    "clone": true,
+    "clonePrefabName": "CapeTrollHideT7",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "TrollHide:10:5:True",
+        "BoneFragments:10:5:True",
+        "PrimordialIce:4:2:True"
+    ]
+}

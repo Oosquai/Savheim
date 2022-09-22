@@ -1,0 +1,15 @@
+{
+    "name": "RArmorSerpentCapeT8",
+    "clone": true,
+    "clonePrefabName": "ArmorSerpentCapeT8",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FrometalBar:5:1:True",
+        "LinenThread:20:5:True",
+        "BurningWorldTreeFragment:4:2:True",
+        "SalamanderFurTH:4:2:True"
+    ]
+}

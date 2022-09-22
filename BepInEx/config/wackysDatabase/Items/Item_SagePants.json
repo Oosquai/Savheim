@@ -42,6 +42,6 @@
     "m_damages": "",
     "m_damagesPerLevel": "",
     "damageModifiers": [
-        "Fire:Resistant"
+        "Poison:Resistant"
     ]
 }

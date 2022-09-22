@@ -1,0 +1,15 @@
+{
+    "name": "RCapeLoxT8",
+    "clone": true,
+    "clonePrefabName": "CapeLoxT8",
+    "craftingStation": "$piece_reforger",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "LoxPelt:6:2:True",
+        "Silver:2:0:True",
+        "BurningWorldTreeFragment:4:2:True",
+        "SalamanderFurTH:4:2:True"
+    ]
+}
