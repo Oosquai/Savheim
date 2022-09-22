@@ -1040,7 +1040,7 @@
         { "Count": 2, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } },
         { "Count": 2, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 4, "MaxValue": 4, "Increment": 1 } } },
         { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -10, "MaxValue": -10, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyParry", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyParry", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 6, "MaxValue": 6, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -16, "MaxValue": -16, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.1, "MaxValue": 0.1, "Increment": 0.5 } } },
