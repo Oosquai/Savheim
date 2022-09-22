@@ -1,0 +1,15 @@
+{
+    "name": "ArrowGreatFireTH",
+    "clone": false,
+    "clonePrefabName": "",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 1,
+    "amount": 20,
+    "disabled": false,
+    "reqs": [
+        "BlackMetal:1:0:True",
+        "SuccubusTail:1:0:True",
+        "SurtlingCore:1:0:True",
+        "BurningWorldTreeFragment:4:0:True"
+    ]
+}

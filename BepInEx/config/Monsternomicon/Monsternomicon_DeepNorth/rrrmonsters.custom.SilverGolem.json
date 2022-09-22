@@ -78,14 +78,14 @@
             "bAIPrioritized":true,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":131,
+               "fBlunt":94,
                "fSlash":0,
                "fPierce":0,
                "fChop":113,
                "fPickaxe":113,
                "fFire":0,
                "fFrost":37,
-               "fLightning":0,
+               "fLightning":37,
                "fPoison":0,
                "fSpirit":0
             },
@@ -261,6 +261,14 @@
             "iAmountMin":4,
             "iAmountMax":5,
             "fChance":1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
+            "sPrefabName":"Thunderstone",
+            "iAmountMin":1,
+            "iAmountMax":1,
+            "fChance":0.5,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
          },

@@ -1,0 +1,14 @@
+{
+    "name": "RArrowLightning",
+    "clone": true,
+    "clonePrefabName": "ArrowLightning",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 3,
+    "amount": 50,
+    "disabled": false,
+    "reqs": [
+        "Wood:20:1:True",
+        "Thunderstone:1:1:True",
+        "Feathers:5:1:True"
+    ]
+}

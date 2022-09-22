@@ -70,13 +70,13 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":180,
+               "fSlash":140,
                "fPierce":0,
                "fChop":113,
                "fPickaxe":38,
                "fFire":45,
                "fFrost":0,
-               "fLightning":0,
+               "fLightning":40,
                "fPoison":0,
                "fSpirit":0
             },
@@ -182,10 +182,10 @@
             "bLevelMultiplier":false
          },
          {
-            "sPrefabName":"SerpentMeat",
+            "sPrefabName":"Thunderstone",
             "iAmountMin":1,
-            "iAmountMax":2,
-            "fChance":0.5,
+            "iAmountMax":1,
+            "fChance":0.2,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
          }

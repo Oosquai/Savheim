@@ -67,14 +67,14 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":150,
+               "fSlash":70,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":0,
+               "fPoison":70,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,

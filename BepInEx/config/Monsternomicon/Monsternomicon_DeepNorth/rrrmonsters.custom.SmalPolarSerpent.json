@@ -70,14 +70,14 @@
             "bAIPrioritized":true,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":94,
+               "fBlunt":57,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
                "fFire":0,
                "fFrost":37,
-               "fLightning":0,
+               "fLightning":37,
                "fPoison":0,
                "fSpirit":0
             },
@@ -97,14 +97,14 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":100,
+               "fBlunt":63,
                "fSlash":0,
                "fPierce":0,
                "fChop":80,
                "fPickaxe":80,
                "fFire":0,
                "fFrost":37,
-               "fLightning":0,
+               "fLightning":37,
                "fPoison":0,
                "fSpirit":0
             },
@@ -132,8 +132,8 @@
                "fChop":80,
                "fPickaxe":80,
                "fFire":0,
-               "fFrost":125,
-               "fLightning":0,
+               "fFrost":75,
+               "fLightning":50,
                "fPoison":0,
                "fSpirit":0
             },
@@ -202,7 +202,7 @@
          {
             "sPrefabName":"SerpentMeat",
             "iAmountMin":1,
-            "iAmountMax":1,
+            "iAmountMax":3,
             "fChance":1,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true

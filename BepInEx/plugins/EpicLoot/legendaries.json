@@ -230,11 +230,12 @@
       "Description": "$mod_epicloot_l_skadi_desc",
       "Requirements" : {
         "AllowedItemTypes": [ "Bow" ],
-        "AllowedSkillTypes": [ "Bows" ]
+        "AllowedSkillTypes": [ "Bows" ],
+        "AllowedItemNames": [ "Blackmetal Skirmisher", "Flametal Skirmisher" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 8, "MaxValue" : 13, "Increment" : 1 } },
-        { "Type": "RemoveSpeedPenalty" }
+        { "Type": "ModifyParry" }
       ]
     },
     {
@@ -307,7 +308,6 @@
                               "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace", "Steady heavymetal mace", "Steady frometal mace", "Steady flametal mace" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "ModifyBlockPower" },
         { "Type": "ModifyParry" }
       ]
     },
