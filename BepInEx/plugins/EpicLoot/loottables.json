@@ -309,7 +309,7 @@
         { "Item": "GoldRubyRing",                                                       "Weight": 2, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "SilverRing",                                                         "Weight": 1, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ShieldSilver",                                                       "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
-        { "Item": "ShieldSerpentscale",                                                 "Weight": 1, "Rarity": [ 10, 40, 50, 10 ] }
+        { "Item": "ShieldSerpentscale",                                                 "Weight": 2, "Rarity": [ 10, 40, 50, 10 ] }
       ]
     },
 
@@ -373,6 +373,7 @@
         { "Item": "SageTunicBlack",                                                     "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SageHoodBlack",                                                      "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SagePants",                                                          "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "BackpackHeavy",                                                      "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "GoldRubyRing",                                                       "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SilverRing",                                                         "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "ShieldBlackmetal",                                                   "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
