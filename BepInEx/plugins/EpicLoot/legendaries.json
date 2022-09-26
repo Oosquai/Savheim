@@ -72,7 +72,7 @@
         { "Type": "Throwable" },
         { "Type": "RecallWeapon" },
         { "Type": "Executioner" },
-        { "Type": "ModifyBackstab", "Values": { "MinValue" : 80, "MaxValue" : 90, "Increment" : 1 } }
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } }
       ]
     },
     {
@@ -352,7 +352,7 @@
         "AllowedSkillTypes": [ "Axes" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "Opportunist" },
+        { "Type": "Executioner", "Values": { "MinValue" : 250, "MaxValue" : 299, "Increment" : 1 } },
         { "Type": "ModifyParry", "Values": { "MinValue" : 50, "MaxValue" : 50, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "RemoveSpeedPenalty" }

@@ -1,6 +1,6 @@
 {
     "name": "MaceBronzeBlock",
-    "m_name": "Steady bronze mace",
+    "m_name": "$item_mace_bronze",
     "m_description": "$item_mace_bronze_description",
     "clone": true,
     "clonePrefabName": "MaceBronze",
@@ -16,8 +16,8 @@
     "m_armor": 20.0,
     "m_armorPerLevel": 1.0,
     "m_movementModifier": -0.05000000074505806,
-    "m_blockPower": 18.0,
-    "m_blockPowerPerLevel": 2.0,
+    "m_blockPower": 12.0,
+    "m_blockPowerPerLevel": 0.0,
     "m_canBeReparied": true,
     "m_timedBlockBonus": 2.0,
     "m_deflectionForce": 30.0,
@@ -39,7 +39,7 @@
     "m_teleportable": true,
     "m_toolTier": 0,
     "m_value": 0,
-    "m_damages": "m_blunt:22, m_chop:0, m_damage:0, m_fire:0, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:0, m_spirit:0, ",
+    "m_damages": "m_blunt:35, m_chop:0, m_damage:0, m_fire:0, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:0, m_spirit:0, ",
     "m_damagesPerLevel": "m_blunt:6, m_chop:0, m_damage:0, m_fire:0, m_frost:0, m_lightning:0, m_pickaxe:0, m_pierce:0, m_poison:0, m_slash:0, m_spirit:0, ",
     "damageModifiers": []
 }

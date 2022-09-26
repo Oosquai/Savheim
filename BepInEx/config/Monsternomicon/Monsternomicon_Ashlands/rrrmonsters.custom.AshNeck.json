@@ -185,7 +185,7 @@
             "sPrefabName":"Thunderstone",
             "iAmountMin":1,
             "iAmountMax":1,
-            "fChance":0.2,
+            "fChance":0.1,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
          }
