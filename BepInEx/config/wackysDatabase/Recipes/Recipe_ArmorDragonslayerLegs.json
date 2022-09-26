@@ -2,7 +2,7 @@
     "name": "ArmorDragonslayerLegs",
     "clone": false,
     "clonePrefabName": "",
-    "craftingStation": "$piece_forge",
+    "craftingStation": "$piece_reforger",
     "minStationLevel": 1,
     "amount": 1,
     "disabled": false,

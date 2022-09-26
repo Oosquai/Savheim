@@ -66,9 +66,10 @@
           "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light",
           "Sage's heavymetal staff of fire", "Sage's heavymetal staff of ice", "Sage's heavymetal staff of lightning", "Sage's heavymetal staff of darkness", "Sage's heavymetal staff of light",
           "Sage's frometal staff of fire", "Sage's frometal staff of ice", "Sage's frometal staff of lightning", "Sage's frometal staff of darkness", "Sage's frometal staff of light",
-          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness", "Sage's flametal staff of light"
-        ],
-        "ItemHasPhysicalDamage" : true
+          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness", "Sage's flametal staff of light",
+          "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
+        ]
+//        "ItemHasPhysicalDamage" : true
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
@@ -111,9 +112,10 @@
           "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "Sage's staff of light",
           "Sage's heavymetal staff of fire", "Sage's heavymetal staff of ice", "Sage's heavymetal staff of lightning", "Sage's heavymetal staff of darkness", "Sage's heavymetal staff of light",
           "Sage's frometal staff of fire", "Sage's frometal staff of ice", "Sage's frometal staff of lightning", "Sage's frometal staff of darkness", "Sage's frometal staff of light",
-          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness", "Sage's flametal staff of light"
-        ],
-        "ItemHasElementalDamage" : true
+          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness", "Sage's flametal staff of light",
+          "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
+        ]
+//        "ItemHasElementalDamage" : true
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
@@ -261,6 +263,7 @@
         "AllowedItemTypes" : [
           "Shield"
         ],
+        "ExcludedItemNames" : [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ],
         "ItemHasBlockPower" : true
       },
       "ValuesPerRarity" : {
@@ -284,12 +287,11 @@
       "DisplayText" : "$mod_epicloot_me_modifyparry_display",
       "Description" : "$mod_epicloot_me_modifyparry_desc",
       "Requirements" : {
-        "AllowedItemTypes" : [
-          "Shield"
-        ],
+//        "AllowedItemTypes" : [ "Shield" ],
         "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
                               "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
-                              "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
+                              "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife", "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
+                              "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana"
         ]
       },
       "ValuesPerRarity" : {
@@ -1438,9 +1440,15 @@
           "TwoHandedWeapon",
           "Bow",
           "Torch",
+          "Shield",
           "Tool"
         ],
-        "ItemUsesStaminaOnAttack" : true
+        "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                                "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower",
+                                "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
+        ]
+//        "ItemUsesStaminaOnAttack" : true
       },
       "ValuesPerRarity" : {
         "Magic" : { "MinValue" : 5, "MaxValue" : 10, "Increment" : 1 },
@@ -1618,7 +1626,13 @@
           "TwoHandedWeapon",
           "Bow",
           "Tool",
+          "Shield",
           "Torch"
+        ],
+        "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                                "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower",
+                                "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
       },
       "ValuesPerRarity" : {
@@ -2091,7 +2105,13 @@
       "Description" : "$mod_epicloot_me_quicklearner_desc",
       "Requirements" : {
         "AllowedItemTypes" : [
-          "Helmet"
+          "Helmet",
+          "Shield"
+        ],
+        "ExcludedItemNames" : [ "$item_shield_wood", "$item_shield_banded", "$item_shield_silver", "$item_shield_blackmetal", "$item_shield_fire",
+                                "$item_shield_bronzebuckler", "$item_shield_ironbuckler", "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
+                                "$item_shield_woodtower", "Bone tower shield", "$item_shield_serpentscale", "$item_shield_blackmetal_tower", "$item_shield_fire_tower",
+                                "Heavymetal Shield", "Frometal Shield", "Flametal Shield", "Heavymetal Tower shield", "Frometal Tower Shield", "Flametal Tower Shield" 
         ]
       },
       "ValuesPerRarity" : {
@@ -2575,22 +2595,22 @@
       "Requirements" : {
         "AllowedItemTypes" : [
           "OneHandedWeapon",
-          "TwoHandedWeapon",
-          "Bow",
-          "Torch"
+          "TwoHandedWeapon"
         ],
-        "ExcludedSkillTypes": [
-          "Pickaxes"
+        "AllowedSkillTypes": [
+          "Axes"
         ],
         "AllowedRarities" : [
+          "Rare",
           "Epic",
           "Legendary"
         ],
         "ItemUsesStaminaOnAttack" : true
       },
       "ValuesPerRarity" : {
-        "Epic" : { "MinValue" : 50, "MaxValue" : 100, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 100, "MaxValue" : 200, "Increment" : 1 }
+        "Rare" : { "MinValue" : 25, "MaxValue" : 75, "Increment" : 1 },
+        "Epic" : { "MinValue" : 75, "MaxValue" : 125, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 125, "MaxValue" : 200, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -2628,23 +2648,24 @@
       "DisplayText" : "$mod_epicloot_me_opportunist_display",
       "Description" : "$mod_epicloot_me_opportunist_desc",
       "Requirements" : {
-        "AllowedItemNames" : [
-          "$item_knife_flint", "$item_knife_copper", "$item_knife_iron", "$item_knife_chitin", "$item_knife_silver", "Obsidian Dagger", "$item_knife_blackmetal",
-          "Heavymetal Knife", "Frometal Knife", "Flametal Knife", "$item_knife_fire",
-          "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife",
-          "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
-          "$item_fistweapon_fenris", "Blackmetal shredders", "Heavymetal claws", "Frometal claws", "Flametal claws",
-          "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana"
+        "AllowedItemTypes" : [
+          "OneHandedWeapon",
+          "TwoHandedWeapon"
+        ],
+        "AllowedSkillTypes": [
+          "Knives",
+          "Unarmed"
         ],
         "AllowedRarities" : [
+          "Rare",
           "Epic",
           "Legendary"
         ]
       },
       "ValuesPerRarity" : {
-        "Rare" : { "MinValue" : 5, "MaxValue" : 10, "Increment" : 1 },
-        "Epic" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 }
+        "Rare" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
+        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -2766,8 +2787,7 @@
           "Shield"
         ],
         "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
-                              "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
-                              "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
+                              "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler"
         ]
       },
       "ValuesPerRarity" : {

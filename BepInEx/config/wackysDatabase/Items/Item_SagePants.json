@@ -13,7 +13,7 @@
     "m_foodRegen": 0.0,
     "m_foodBurnTime": 0.0,
     "m_foodColor": "",
-    "m_armor": 4.0,
+    "m_armor": 12.0,
     "m_armorPerLevel": 2.0,
     "m_movementModifier": 0,
     "m_blockPower": 10.0,

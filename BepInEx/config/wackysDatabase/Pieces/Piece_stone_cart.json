@@ -14,7 +14,7 @@
     "adminonly": false,
     "reqs": [
         "Wood:20:1:True",
-        "IronNails:10:1:True",
+        "Iron:4:1:True",
         "Stone:4:1:True"
     ]
 }

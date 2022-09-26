@@ -49,11 +49,12 @@
       "EquipFx": "LightningAuraSledge",
       "EquipFxMode": "EquipRoot", 
       "Requirements": {
-        "AllowedItemNames": [ "$item_sledge_iron" ]
+        "AllowedItemTypes": [ "TwoHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
       },
       "GuaranteedEffectCount": 6, 
       "GuaranteedMagicEffects": [
-        { "Type": "ModifyPhysicalDamage", "Values": { "MinValue": 36, "MaxValue": 44, "Increment": 1 } },
+//        { "Type": "ModifyPhysicalDamage", "Values": { "MinValue": 36, "MaxValue": 44, "Increment": 1 } },
         { "Type": "AddLightningDamage", "Values": { "MinValue": 25, "MaxValue": 30, "Increment": 1 } },
         { "Type": "Throwable" },
         { "Type": "RecallWeapon" }
@@ -70,7 +71,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "Throwable" },
         { "Type": "RecallWeapon" },
-        { "Type": "Opportunist" },
+        { "Type": "Executioner" },
         { "Type": "ModifyBackstab", "Values": { "MinValue" : 80, "MaxValue" : 90, "Increment" : 1 } }
       ]
     },
@@ -84,7 +85,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
-        { "Type": "Executioner", "Values": { "MinValue" : 900, "MaxValue" : 1000, "Increment" : 10 } },
+//        { "Type": "Executioner", "Values": { "MinValue" : 900, "MaxValue" : 1000, "Increment" : 10 } },
         { "Type": "ModifyPhysicalDamage", "Values": { "MinValue" : 27, "MaxValue" : 30, "Increment" : 1 } }
       ]
     },
@@ -102,7 +103,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "Glowing" },
         { "Type": "RemoveSpeedPenalty" },
-        { "Type": "Opportunist" },
+//        { "Type": "Opportunist" },
         { "Type": "ModifyBackstab", "Values": { "MinValue" : 61, "MaxValue" : 80, "Increment" : 1 } }
       ]
     },
@@ -294,7 +295,6 @@
         "AllowedItemNames": [ "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "Opportunist" },
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 29, "Increment" : 1 } }
       ]
     },
@@ -303,7 +303,8 @@
       "Name": "Madchild's Duality",
       "Description": "He was the best tank in town, but sometimes he wished they would just let him smash piggies...  Now he can do both.",
       "Requirements" : {
-        "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife", "Heavymetal knife", "Frometal knife", "Flametal knife",
+        "NoRoll": true,
+        "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife", "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
                               "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana",
                               "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace", "Steady heavymetal mace", "Steady frometal mace", "Steady flametal mace" ]
       },
@@ -380,7 +381,7 @@
         "AllowedSkillTypes": [ "Axes" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "Executioner", "Values": { "MinValue" : 901, "MaxValue" : 999, "Increment" : 1 } },
+        { "Type": "Executioner", "Values": { "MinValue" : 250, "MaxValue" : 299, "Increment" : 1 } },
         { "Type": "LifeSteal", "Values": { "MinValue" : 17, "MaxValue" : 19, "Increment" : 0.25 } }
       ]
     },
@@ -519,6 +520,7 @@
       "Name": "Helkar's Black Book",
       "Description": "Ancient, mysterious, and full of deadly incantations, this tome focuses on sustained destruction.",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
@@ -531,6 +533,7 @@
       "Name": "The Morrigan's Black Book",
       "Description": "Ancient, mysterious, and full of deadly incantations, this tome focuses on rapid destruction.",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemNames": [ "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook" ]
       },
       "GuaranteedMagicEffects": [
@@ -1074,8 +1077,8 @@
         "RanniBook"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "ModifyDiscoveryRadius", "Values": { "MinValue": 400, "MaxValue": 400, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "QuickLearner", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "QuickLearner", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "AddElementalResistancePercentage", "Values": { "MinValue": 40, "MaxValue": 40, "Increment": 1 } } },
         { "Count": 5, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
       ]

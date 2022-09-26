@@ -29,7 +29,7 @@
     "m_maxDurability": 300.0,
     "m_durabilityDrain": 0.0,
     "m_durabilityPerLevel": 50.0,
-    "m_equipDuration": 0.1,
+    "m_equipDuration": 0,
     "m_holdDurationMin": 0.0,
     "m_holdStaminaDrain": 0.0,
     "m_maxQuality": 4,
