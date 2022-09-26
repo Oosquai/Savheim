@@ -309,7 +309,7 @@
         { "Item": "GoldRubyRing",                                                       "Weight": 2, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "SilverRing",                                                         "Weight": 1, "Rarity": [ 10, 40, 50, 10 ] },
         { "Item": "ShieldSilver",                                                       "Weight": 5, "Rarity": [ 10, 40, 50, 10 ] },
-        { "Item": "ShieldSerpentscale",                                                 "Weight": 2, "Rarity": [ 10, 40, 50, 10 ] }
+        { "Item": "ShieldSerpentscale",                                                 "Weight": 4, "Rarity": [ 10, 40, 50, 10 ] }
       ]
     },
 
@@ -320,7 +320,7 @@
       "Loot": [
         { "Item": "AtgeirBlackmetal",                                                   "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "AxeBlackMetal",                                                      "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "AxeSerpentTH",                                                       "Weight": 1, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "AxeSerpentTH",                                                       "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "ThrowingAxeBlackMetal",                                              "Weight": 2, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "KnifeBlackMetal",                                                    "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SwordBlackmetal",                                                    "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
@@ -330,7 +330,7 @@
         { "Item": "BowBlackmetalTH",                                                    "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "BattleaxeBlackmetal",                                                "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "GreataxeBlackmetal",                                                 "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
-        { "Item": "MaceNeedle",                                                         "Weight": 3, "Rarity": [ 0, 17.5, 70, 12.5 ] },
+        { "Item": "MaceNeedle",                                                         "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "KnifeBlackMetalParry",                                               "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
         { "Item": "SwordBlackmetalShort",                                               "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
 //        { "Item": "MaceBlackmetalBlock",                                                "Weight": 5, "Rarity": [ 0, 17.5, 70, 12.5 ] },
