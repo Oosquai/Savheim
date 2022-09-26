@@ -291,7 +291,8 @@
         "AllowedItemNames": [ "$item_shield_wood", "$item_shield_silver", "$item_shield_banded", "$item_shield_blackmetal", "Heavymetal shield", "Frometal shield", "Flametal shield", "$item_shield_fire",
                               "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                               "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife", "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
-                              "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana"
+                              "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana",
+                              "$item_fistweapon_fenris", "Blackmetal shredders", "Heavymetal claws", "Frometal claws", "Flametal claws"
         ]
       },
       "ValuesPerRarity" : {
