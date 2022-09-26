@@ -66,7 +66,8 @@
       "Description": "$mod_epicloot_l_lind_desc",
       "Requirements" : {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
-        "AllowedSkillTypes": [ "Axes" ]
+        "AllowedSkillTypes": [ "Axes" ],
+        "ExcludedItemNames": [ "$item_throwingaxe_fire", "Heavymetal throwing axe", "Frometal throwing axe", "Flametal throwing axe" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "Throwable" },
