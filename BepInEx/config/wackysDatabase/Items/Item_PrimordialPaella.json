@@ -1,9 +1,9 @@
 {
-    "name": "PrimordialSerpentStew",
-    "m_name": "Primordial Serpent Stew",
+    "name": "PrimordialPaella",
+    "m_name": "Primordial Paella",
     "m_description": "Chilled to perfection, with just a touch of spice.",
     "clone": true,
-    "clonePrefabName": "SerpentStew",
+    "clonePrefabName": "MinceMeatSauce",
     "cloneMaterial": "Frometal_Color",
     "m_weight": 0.5,
     "m_attackStamina": 20.0,
