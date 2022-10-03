@@ -3,7 +3,7 @@
     "clone": true,
     "clonePrefabName": "FibrousShocklateSmoothie",
     "craftingStation": "$piece_cauldron",
-    "minStationLevel": 2,
+    "minStationLevel": 4,
     "amount": 4,
     "disabled": false,
     "reqs": [

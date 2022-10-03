@@ -1,0 +1,15 @@
+{
+    "name": "RSmokedBoneMarrowGyros",
+    "clone": true,
+    "clonePrefabName": "SmokedBoneMarrowGyros",
+    "craftingStation": "$piece_cauldron",
+    "minStationLevel": 4,
+    "amount": 5,
+    "disabled": false,
+    "reqs": [
+        "BurningWorldTreeFragment:1:1:True",
+        "BoneFragments:5:1:True",
+        "Onion:5:1:True",
+        "Bread:5:1:True"
+    ]
+}
