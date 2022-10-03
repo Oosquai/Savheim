@@ -7,3 +7,14 @@ Fuling:
     amount: 0
   Mountain:
     amount: 0
+
+Succubus:
+  health: 2.0
+
+TentaRoot:
+  health: 3.0
+  infusion:
+    Frost: 100
+
+Kraken:
+  amount: 0

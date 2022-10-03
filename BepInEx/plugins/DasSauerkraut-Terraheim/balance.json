@@ -423,11 +423,11 @@
         "globalMoveMod": -0.07,
         "setEffect": "thorns",
         "headEffect": "meleedmg",
-        "chestEffect": "blockpower",
+        "chestEffect": "staminabns",
         "legsEffect": "healonblock",
         "setBonusVal": 0.40,
         "headEffectVal": 0.05,
-        "chestEffectVal": 0.2,
+        "chestEffectVal": 25,
         "legsEffectVal": 0.05,
         "upgrades": {
             "startingTier": 6,

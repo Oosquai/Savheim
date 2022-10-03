@@ -1,0 +1,14 @@
+{
+    "name": "RFibrousShocklateSmoothie",
+    "clone": true,
+    "clonePrefabName": "FibrousShocklateSmoothie",
+    "craftingStation": "$piece_cauldron",
+    "minStationLevel": 2,
+    "amount": 4,
+    "disabled": false,
+    "reqs": [
+        "Ooze:4:1:True",
+        "Turnip:4:1:True",
+        "WorldTreeFragment:1:1:True"
+    ]
+}

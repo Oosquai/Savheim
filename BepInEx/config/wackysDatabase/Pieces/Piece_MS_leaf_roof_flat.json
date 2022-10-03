@@ -1,0 +1,19 @@
+{
+    "name": "MS_leaf_roof_flat",
+    "m_name": "$piece_MS_leaf_roof_flat",
+    "m_description": "$piece_MS_leaf_roof_flat_description",
+    "clone": false,
+    "clonePrefabName": "",
+    "cloneMaterial": "",
+    "craftingStation": "$piece_workbench",
+    "piecehammer": "Hammer",
+    "piecehammerCategory": "20",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": true,
+    "adminonly": false,
+    "reqs": [
+        "Wood:2:1:True",
+        "MS_leaf:1:1:True"
+    ]
+}

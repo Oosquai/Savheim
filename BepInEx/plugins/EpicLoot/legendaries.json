@@ -72,8 +72,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "Throwable" },
         { "Type": "RecallWeapon" },
-        { "Type": "Executioner" },
-        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } }
+        { "Type": "ModifyBackstab", "Values": { "MinValue": 40, "MaxValue": 49, "Increment": 1 } }
       ]
     },
     {
@@ -87,7 +86,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
 //        { "Type": "Executioner", "Values": { "MinValue" : 900, "MaxValue" : 1000, "Increment" : 10 } },
-        { "Type": "ModifyPhysicalDamage", "Values": { "MinValue" : 27, "MaxValue" : 30, "Increment" : 1 } }
+        { "Type": "ModifyPhysicalDamage", "Values": { "MinValue" : 7, "MaxValue" : 10, "Increment" : 1 } }
       ]
     },
     {
@@ -314,6 +313,22 @@
       ]
     },
     {
+      "ID": "ChazAxe",
+      "Name": "Chaz's Toepick",
+      "Description": "Nothing sends 'em to the ground quicker.",
+      "Requirements" : {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes" ]
+      },
+      "GuaranteedEffectCount": 1,
+      "GuaranteedMagicEffects": [
+        { "Type": "Executioner" },
+        { "Type": "ModifyStaggerDamage", "Values": { "MinValue" : 40, "MaxValue" : 49, "Increment" : 1 } },
+        { "Type": "ModifyStaggerDuration", "Values": { "MinValue" : 23, "MaxValue" : 27, "Increment" : 1 } },
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 23, "MaxValue" : 27, "Increment" : 1 } }
+      ]
+    },
+    {
       "ID": "MfknBearodactyl2h",
       "Name": "MfknBearodactyl's Epitaph",
       "Description": "Like a Phoenix from the flames, he will rise from the ashes.",
@@ -324,7 +339,7 @@
       "GuaranteedEffectCount": 3, 
       "GuaranteedMagicEffects": [
         { "Type": "Undying" },
-        { "Type": "ModifyParry" }
+        { "Type": "ModifyParryWindow", "Values": { "MinValue" : 125, "MaxValue" : 125, "Increment" : 1 } }
       ]
     },
     {
@@ -543,6 +558,28 @@
       ]
     },
     {
+      "ID": "InstantBlink",
+      "Name": "Rune of Instantaneous Blink",
+      "Description": "Teleports you forward, and enchanted to have almost no cast time.\nRange: 15 (+5 per level)",
+      "Requirements" : {
+        "AllowedItemNames": [ "Rune of Blink" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 300, "MaxValue": 300, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "InstantFrostNova",
+      "Name": "Rune of Instantaneous Frost Nova",
+      "Description": "Freezes enemies around you, and enchanted to have almost no cast time.",
+      "Requirements" : {
+        "AllowedItemNames": [ "Rune of Frost Nova" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 300, "MaxValue": 300, "Increment": 1 } }
+      ]
+    },
+    {
       "ID": "MyraclewhipKnife",
       "Name": "Myraclewhip's Rotten Edge",
       "Description": "Running out of arrows really stinks, and so does this blade.",
@@ -578,7 +615,7 @@
       "Description": "Life is never more precious than when it's just about to end.",
       "Requirements" : {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
-        "AllowedSkillTypes": [ "Axes", "Clubs", "Swords", "Knives" ]
+        "AllowedSkillTypes": [ "Axes", "Clubs" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "LifeSteal", "Values": { "MinValue" : 15, "MaxValue" : 17, "Increment" : 0.25 } },
@@ -595,6 +632,7 @@
       "Name": "Legendary sword",
       "Description": "The pointy end goes in the bad guy.",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Swords" ]
       }
@@ -604,6 +642,7 @@
       "Name": "Legendary Dagger",
       "Description": "Never underestimate the damage a quick blade can do.",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Knives" ]
       }
@@ -613,6 +652,7 @@
       "Name": "Legendary weapon",
       "Description": "Bigger is better.",
       "Requirements" : {
+        "NoRoll": true,
         "AllowedItemTypes": [ "TwoHandedWeapon" ],
         "ExcludedSkillTypes": [ "Pickaxes" ]
       }
@@ -683,7 +723,7 @@
     // Legendary Set Items
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-    // Heimdall
+    // Heimdall (Tank)
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "HeimdallTowerShield",
@@ -759,7 +799,7 @@
       ]
     },
 
-    // Ragnar
+    // Ragnar (2h warrior)
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "RagnarBattleAxe",
@@ -770,7 +810,7 @@
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "TwoHandedWeapon" ], 
-        "AllowedSkillTypes": [ "Axes", "Swords" ]
+        "AllowedSkillTypes": [ "Axes", "Swords", "Polearms" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyPhysicalDamage", "Values": { "MinValue": 15, "MaxValue": 20, "Increment": 1 } },
@@ -816,7 +856,7 @@
       "GuaranteedEffectCount": 6
     },
 
-    // Lord's Blade Set
+    // Lord's Blade Set (Assassin)
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "LordsBladeDagger",
@@ -885,7 +925,7 @@
       ]
     },
 
-    // Archibald Bauman Set
+    // Archibald Bauman Set (Archer)
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "ArcherChest",
@@ -907,7 +947,7 @@
       },
       "GuaranteedEffectCount": 6,
       "GuaranteedMagicEffects": [
-        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 15, "MaxValue" : 15, "Increment" : 1 } }
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 20, "MaxValue" : 20, "Increment" : 1 } }
       ]
     },
     {
@@ -931,11 +971,113 @@
         "AllowedSkillTypes": [ "Bows" ]
       },
       "GuaranteedMagicEffects": [
+        { "Type": "QuickDraw", "Values": { "MinValue" : 50, "MaxValue" : 50, "Increment" : 1 } },
         { "Type": "Indestructible" }
       ]
     },
 
-    // Ranni's Dark Moon Set
+    // Valmien Set (Cleric)
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "ClericChest",
+      "Name": "Valmien's Vestments",
+      "Description": "Sacred garb infused with holy protection, allowing clerics to enter the fray and assist allies on the front line.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Chest" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "ClericHelm",
+      "Name": "Valmien's Crown",
+      "Description": "Sacred head gear for a battle cleric. These clerics rush between allies on the front line, supporting where needed.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Helmet" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "ClericShield",
+      "Name": "Valmien's Sanctuary",
+      "Description": "A battle cleric's offhand, augmenting their front-line support.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Shield" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "ClericStaff",
+      "Name": "Valmien's Holy Staff",
+      "Description": "The holy staff of an ancient, sacred order. Battle cleric's smite foes to earn precious recovery moments for their allies.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames": [ "Sage's staff of light", "Sage's heavymetal staff of light", "Sage's frometal staff of light", "Sage's flametal staff of light" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "AddLightningDamage", "Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } }
+      ]
+    },
+    {
+      "ID": "ClericHealRune",
+      "Name": "Valmien's Rune of Healing",
+      "Description": "The sacred incantation of an ancient battle cleric, providing quick, emergency aid.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemNames": [ "Rune of Healing I", "Rune of Healing II", "Rune of Healing III", "Rune of Healing IV" ]
+      }
+    },
+
+    // Paul Bunheim Set (Dual Wield Axes, logging)
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "LumberjackChest",
+      "Name": "Bunheim's harness",
+      "Description": "Sturdy and well-oiled, it smells of tree sap.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Chest" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "LumberjackHelm",
+      "Name": "Bunheim's dome protector",
+      "Description": "Falling trees are dangerous, m'kay?",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Helmet" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "LumberjackLegs",
+      "Name": "Bunheim's trousers",
+      "Description": "These don't get cleaned very often, and they seem to be covered in tree sap and ... blood?!",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Legs" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "LumberjackAxe",
+      "Name": "Bunheim's trusty axe",
+      "Description": "The tried and tested tool of the greatest lumberjack ever to walk these lands. Legend tells of him swinging two of these while whistling a happy tune, and myth suggests he didn't always hit just trees with them.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Axes" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyDamage", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } },
+        { "Type": "AddAxesSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } }
+      ]
+    },
+
+    // Ranni's Dark Moon Set (Mage)
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
       "ID": "RanniChest",
@@ -1011,6 +1153,7 @@
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "ModifyBlockPower", "Values": { "MinValue": 200, "MaxValue": 200, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "Bulwark" } },
+        { "Count": 4, "Effect": { "Type": "ModifyArmorLowHealth", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "Undying" } }
       ]
     },
@@ -1041,15 +1184,15 @@
         "LordsBladeLegs"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } } },
-        { "Count": 2, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 4, "MaxValue": 4, "Increment": 1 } } },
-        { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -10, "MaxValue": -10, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyParry", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 6, "MaxValue": 6, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -16, "MaxValue": -16, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.1, "MaxValue": 0.1, "Increment": 0.5 } } },
-        { "Count": 4, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 9, "MaxValue": 9, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -24, "MaxValue": -24, "Increment": 1 } } }
+        { "Count": 2, "Effect": { "Type": "ModifyParry", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 5, "MaxValue": 5, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -5, "MaxValue": -5, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 8, "MaxValue": 8, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -8, "MaxValue": -8, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.5, "MaxValue": 0.5, "Increment": 0.5 } } },
+        { "Count": 4, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 12, "MaxValue": 12, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -12, "MaxValue": -12, "Increment": 1 } } }
       ]
     },
     {
@@ -1062,9 +1205,41 @@
         "ArcherBow"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
+        { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
+      ]
+    },
+    {
+      "ID": "ValmienCleric",
+      "Name": "Valmien's Embrace",
+      "LegendaryIDs": [
+        "ClericChest",
+        "ClericHelm",
+        "ClericShield",
+        "ClericStaff",
+        "ClericHealRune"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "Bulwark" } },
+        { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
+      ]
+    },
+    {
+      "ID": "Lumberjack",
+      "Name": "The Legend of Paul Bunheim",
+      "LegendaryIDs": [
+        "LumberjackChest",
+        "LumberjackHelm",
+        "LumberjackLegs",
+        "LumberjackAxe"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "AddCarryWeight", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "IncreaseHealth", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "IncreaseStamina", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "Berserker" } }
       ]
     },
     {
@@ -1079,9 +1254,10 @@
       ],
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "QuickLearner", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "AddElementalResistancePercentage", "Values": { "MinValue": 40, "MaxValue": 40, "Increment": 1 } } },
-        { "Count": 5, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
+        { "Count": 3, "Effect": { "Type": "AddElementalResistancePercentage", "Values": { "MinValue": 40, "MaxValue": 40, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyElementalDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "ReflectDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 5, "Effect": { "Type": "Undying" } }
       ]
     }
   ] 

@@ -134,7 +134,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":60,
+               "fPoison":75,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,

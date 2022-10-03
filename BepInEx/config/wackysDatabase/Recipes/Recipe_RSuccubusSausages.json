@@ -1,0 +1,14 @@
+{
+    "name": "RSuccubusSausages",
+    "clone": true,
+    "clonePrefabName": "SuccubusSausages",
+    "craftingStation": "$piece_cauldron",
+    "minStationLevel": 2,
+    "amount": 4,
+    "disabled": false,
+    "reqs": [
+        "SuccubusTail:1:1:True",
+        "Entrails:4:1:True",
+        "Thistle:1:1:True"
+    ]
+}

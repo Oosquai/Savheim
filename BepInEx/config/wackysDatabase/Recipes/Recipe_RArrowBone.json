@@ -1,0 +1,13 @@
+{
+    "name": "RArrowBone",
+    "clone": true,
+    "clonePrefabName": "ArrowBone",
+    "craftingStation": "$piece_workbench",
+    "minStationLevel": 2,
+    "amount": 20,
+    "disabled": false,
+    "reqs": [
+        "BoneFragments:6:1:True",
+        "Feathers:2:1:True"
+    ]
+}

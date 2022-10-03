@@ -1,0 +1,14 @@
+{
+    "name": "RPrimordialSerpentStew",
+    "clone": true,
+    "clonePrefabName": "PrimordialSerpentStew",
+    "craftingStation": "$piece_cauldron",
+    "minStationLevel": 2,
+    "amount": 20,
+    "disabled": false,
+    "reqs": [
+        "PrimordialIce:1:1:True",
+        "SerpentMeatCooked:20:1:True",
+        "Honey:20:1:True"
+    ]
+}
