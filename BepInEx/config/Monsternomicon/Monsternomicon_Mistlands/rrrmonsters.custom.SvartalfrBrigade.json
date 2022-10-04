@@ -27,7 +27,7 @@
       "bToleratesWater":true,
       "bToleratesFire":false,
       "bToleratesSmoke":false,
-      "fHealth":220,
+      "fHealth":250,
       "dDamageTaken":{
          "m_blunt":"Normal",
          "m_slash":"Normal",
@@ -138,7 +138,7 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":81,
+               "fSlash":88,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
@@ -162,7 +162,7 @@
             "dtAttackDamageOverride":{
                "fDamage":0,
                "fBlunt":0,
-               "fSlash":81,
+               "fSlash":88,
                "fPierce":0,
                "fChop":0,
                "fPickaxe":0,
@@ -185,7 +185,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":54,
+               "fBlunt":59,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -215,7 +215,7 @@
             "bAIPrioritized":true,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":54,
+               "fBlunt":59,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -284,7 +284,7 @@
                "fPickaxe":0,
                "fFire":0,
                "fFrost":0,
-               "fLightning":25,
+               "fLightning":30,
                "fPoison":0,
                "fSpirit":0
             },
@@ -308,7 +308,7 @@
                "fPickaxe":0,
                "fFire":0,
                "fFrost":0,
-               "fLightning":25,
+               "fLightning":30,
                "fPoison":0,
                "fSpirit":0
             },
@@ -327,7 +327,7 @@
             "bAIPrioritized":true,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":68,
+               "fBlunt":75,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -379,7 +379,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":27,
+               "fBlunt":29,
                "fSlash":0,
                "fPierce":0,
                "fChop":0,
@@ -410,7 +410,7 @@
             "bAIPrioritized":true,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":88,
+               "fBlunt":93,
                "fSlash":0,
                "fPierce":0,
                "fChop":34,
@@ -436,7 +436,7 @@
             "bAIPrioritized":null,
             "dtAttackDamageOverride":{
                "fDamage":0,
-               "fBlunt":88,
+               "fBlunt":93,
                "fSlash":0,
                "fPierce":0,
                "fChop":34,

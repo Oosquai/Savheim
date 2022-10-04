@@ -1,0 +1,15 @@
+{
+    "name": "RDeepAbyssEssenceSurtr",
+    "clone": true,
+    "clonePrefabName": "DeepAbyssEssenceSurtr",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 5,
+    "disabled": false,
+    "reqs": [
+        "HeavymetalBar:5:0:False",
+        "FrometalBar:5:0:False",
+        "Flametal:5:0:False",
+        "TrophySurtr:1:0:False"
+    ]
+}

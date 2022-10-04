@@ -76,7 +76,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":0,
+               "fPoison":20,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
@@ -105,7 +105,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":0,
+               "fPoison":40,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
@@ -134,7 +134,7 @@
                "fFire":0,
                "fFrost":0,
                "fLightning":0,
-               "fPoison":75,
+               "fPoison":80,
                "fSpirit":0
             },
             "fAttackDamageTotalOverride":null,
