@@ -1010,23 +1010,21 @@
     },
     {
       "ID": "ClericStaff",
-      "Name": "Valmien's Holy Staff",
+      "Name": "Valmien's Holy Rod",
       "Description": "The holy staff of an ancient, sacred order. Battle cleric's smite foes to earn precious recovery moments for their allies.",
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemNames": [ "Sage's staff of light", "Sage's heavymetal staff of light", "Sage's frometal staff of light", "Sage's flametal staff of light" ]
-      },
-      "GuaranteedMagicEffects": [
-        { "Type": "AddLightningDamage", "Values": { "MinValue": 20, "MaxValue": 20, "Increment": 1 } }
-      ]
+      }
     },
     {
-      "ID": "ClericHealRune",
-      "Name": "Valmien's Rune of Healing",
-      "Description": "The sacred incantation of an ancient battle cleric, providing quick, emergency aid.",
+      "ID": "ClericMace",
+      "Name": "Valmien's Holy Scepter",
+      "Description": "Battle clerics judge their enemies with flurries of stunning attacks, leaving them exposed for their allies to finish off.",
       "IsSetItem": true, 
       "Requirements": {
-        "AllowedItemNames": [ "Rune of Healing I", "Rune of Healing II", "Rune of Healing III", "Rune of Healing IV" ]
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Clubs" ]
       }
     },
 
@@ -1035,7 +1033,7 @@
     {
       "ID": "LumberjackChest",
       "Name": "Bunheim's harness",
-      "Description": "Sturdy and well-oiled, it smells of tree sap.",
+      "Description": "Sturdy, well-oiled, and stylishly plaid, it smells of tree sap.",
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "Chest" ]
@@ -1073,7 +1071,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyDamage", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } },
-        { "Type": "AddAxesSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } }
+        { "Type": "AddAxesSkill", "Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } }
       ]
     },
 
@@ -1218,12 +1216,14 @@
         "ClericHelm",
         "ClericShield",
         "ClericStaff",
-        "ClericHealRune"
+        "ClericMace"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "AddSpiritDamage", "Values": { "MinValue": 33, "MaxValue": 33, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "Bulwark" } },
-        { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
+        { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyPhysicalDamage", "Values": { "MinValue": -70, "MaxValue": -70, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "AddLightningDamage", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } }
       ]
     },
     {

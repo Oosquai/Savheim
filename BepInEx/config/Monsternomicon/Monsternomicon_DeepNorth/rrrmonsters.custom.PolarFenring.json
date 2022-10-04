@@ -213,7 +213,7 @@
             "sPrefabName":"PrimordialIce",
             "iAmountMin":1,
             "iAmountMax":2,
-            "fChance":0.1,
+            "fChance":0.2,
             "bOnePerPlayer":false,
             "bLevelMultiplier":true
          },
