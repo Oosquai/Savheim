@@ -1949,6 +1949,12 @@
       "Object": "Succubus",
       "RefObject": "Tier8Mob"
     },
+    // Fire Golem
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "FireGolem",
+      "RefObject": "Tier8Mob"
+    },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Modded Mobs (Giants, Minotaurs, Deds Army, Fantasy Creatures) - chance for runestones on "special" mobs
@@ -2959,6 +2965,55 @@
             { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 0, 100 ] },
             { "Item": "Tier8Everything", "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
             { "Item": "Tier9Everything", "Weight": 4, "Rarity": [ 0, 0, 0, 100 ] }
+          ]
+        }
+      ]
+    },
+    // Nightmare Dragon (Ashlands Boss)
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "NightmareDragon",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 15], [2, 20], [3, 25], [4, 20], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 60, 40 ] }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 5], [2, 15], [3, 20], [4, 25], [5, 25], [6, 10], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 40, 60 ] }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 5], [2, 10], [3, 15], [4, 25], [5, 30], [6, 15], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] }
           ]
         }
       ]
