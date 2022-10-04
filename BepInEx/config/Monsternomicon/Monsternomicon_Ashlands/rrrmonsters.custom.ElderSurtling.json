@@ -23,7 +23,7 @@
       "bToleratesWater":false,
       "bToleratesFire":true,
       "bToleratesSmoke":true,
-      "fHealth":800,
+      "fHealth":1200,
       "dDamageTaken":{
          "m_blunt":"Normal",
          "m_slash":"Normal",
