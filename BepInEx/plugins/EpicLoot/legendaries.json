@@ -1071,7 +1071,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyDamage", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } },
-        { "Type": "AddAxesSkill", "Values": { "MinValue": 15, "MaxValue": 15, "Increment": 1 } }
+        { "Type": "AddAxesSkill", "Values": { "MinValue": 10, "MaxValue": 10, "Increment": 1 } }
       ]
     },
 
