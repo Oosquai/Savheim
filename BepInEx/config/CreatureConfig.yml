@@ -18,3 +18,8 @@ TentaRoot:
 
 Kraken:
   amount: 0
+
+Succubus_Queen1:
+  health: 2.0
+  effect:
+    Armored
