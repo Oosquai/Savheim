@@ -7,7 +7,7 @@
     "amount": 1,
     "disabled": false,
     "reqs": [
-        "Blackmetal:10:5:True",
+        "BlackMetal:10:5:True",
         "LinenThread:15:10:True"
     ]
 }

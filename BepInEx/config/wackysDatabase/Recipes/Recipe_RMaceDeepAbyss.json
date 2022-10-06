@@ -1,0 +1,14 @@
+{
+    "name": "RMaceDeepAbyss",
+    "clone": true,
+    "clonePrefabName": "MaceDeepAbyss",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeepAbyssEssence:20:10:False",
+        "WorldTreeFragment:8:4:False",
+        "BurningWorldTreeFragment:8:4:False"
+    ]
+}

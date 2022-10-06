@@ -110,6 +110,7 @@
           "Sage's heavymetal staff of fire", "Sage's heavymetal staff of ice", "Sage's heavymetal staff of lightning", "Sage's heavymetal staff of darkness", "Sage's heavymetal staff of light",
           "Sage's frometal staff of fire", "Sage's frometal staff of ice", "Sage's frometal staff of lightning", "Sage's frometal staff of darkness", "Sage's frometal staff of light",
           "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness", "Sage's flametal staff of light",
+          "Sage's staff of the Deep Abyss",
           "Leather spellbook", "Cursed spellbook", "Artisan spellbook", "Heavymetal spellbook", "Frometal spellbook", "Flametal spellbook"
         ]
 //        "ItemHasElementalDamage" : true
@@ -289,7 +290,8 @@
                               "$item_shield_bronzebuckler", "$item_shield_ironbuckler",  "Black metal buckler", "Heavymetal buckler", "Frometal buckler", "Flametal buckler",
                               "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife", "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
                               "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana",
-                              "$item_fistweapon_fenris", "Blackmetal shredders", "Heavymetal claws", "Frometal claws", "Flametal claws"
+                              "$item_fistweapon_fenris", "Blackmetal shredders", "Heavymetal claws", "Frometal claws", "Flametal claws",
+                              "Deep Abyss Knife", "Deep Abyss Sword"
         ]
       },
       "ValuesPerRarity" : {
@@ -845,7 +847,8 @@
           "Sage's staff of fire", "Sage's staff of ice", "Sage's staff of lightning", "Sage's staff of darkness", "$item_torch",
           "Sage's heavymetal staff of fire", "Sage's heavymetal staff of ice", "Sage's heavymetal staff of lightning", "Sage's heavymetal staff of darkness",
           "Sage's frometal staff of fire", "Sage's frometal staff of ice", "Sage's frometal staff of lightning", "Sage's frometal staff of darkness",
-          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness"
+          "Sage's flametal staff of fire", "Sage's flametal staff of ice", "Sage's flametal staff of lightning", "Sage's flametal staff of darkness",
+          "Sage's staff of the Deep Abyss"
         ]
       },
       "ValuesPerRarity" : {
@@ -1602,9 +1605,9 @@
         "ItemUsesStaminaOnAttack" : true
       },
       "ValuesPerRarity" : {
-        "Rare" : { "MinValue" : 6, "MaxValue" : 7.75, "Increment" : 0.25 },
-        "Epic" : { "MinValue" : 8, "MaxValue" : 9.75, "Increment" : 0.25 },
-        "Legendary" : { "MinValue" : 10, "MaxValue" : 12, "Increment" : 0.25 }
+        "Rare" : { "MinValue" : 3, "MaxValue" : 3.75, "Increment" : 0.1 },
+        "Epic" : { "MinValue" : 4, "MaxValue" : 4.75, "Increment" : 0.1 },
+        "Legendary" : { "MinValue" : 5, "MaxValue" : 6, "Increment" : 0.1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -1660,7 +1663,7 @@
           "Pickaxes",
           "Spears"
         ],
-        "ExcludedItemNames": [ "$item_battleaxe_flint", "$item_battleaxe_bronze_terraheim", "$item_battleaxe", "$item_battleaxe_silver", "$item_battleaxe_crystal", "$item_battleaxe_blackmetal", "$item_battleaxe_sledge_blackmetal", "$item_battleaxe_fire", "$item_battleaxe_sledge_fire", "$item_throwingaxe_fire", "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV", "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II", "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation", "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth", "Heavymetal Battleaxe", "Frometal Battleaxe", "Flametal Battleaxe", "Heavymetal throwing axe", "Frometal throwing axe", "Flametal throwing axe", "Ukonvasara" ]
+        "ExcludedItemNames": [ "$item_battleaxe_flint", "$item_battleaxe_bronze_terraheim", "$item_battleaxe", "$item_battleaxe_silver", "$item_battleaxe_crystal", "$item_battleaxe_blackmetal", "$item_battleaxe_sledge_blackmetal", "$item_battleaxe_fire", "$item_battleaxe_sledge_fire", "$item_throwingaxe_fire", "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV", "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II", "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation", "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth", "Heavymetal Battleaxe", "Frometal Battleaxe", "Flametal Battleaxe", "Heavymetal throwing axe", "Frometal throwing axe", "Flametal throwing axe", "Ukonvasara", "Deep Abyss Trident", "Deep Abyss Greatsword" ]
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -2150,7 +2153,7 @@
         "ExcludedSkillTypes": [
           "Pickaxes"
         ],
-        "ExcludedItemNames": [ "$item_battleaxe_flint", "$item_battleaxe_bronze_terraheim", "$item_battleaxe", "$item_battleaxe_silver", "$item_battleaxe_crystal", "$item_battleaxe_blackmetal", "$item_battleaxe_sledge_blackmetal", "$item_battleaxe_fire", "$item_battleaxe_sledge_fire", "$item_throwingaxe_fire", "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV", "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II", "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation", "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth", "Heavymetal Battleaxe", "Frometal Battleaxe", "Flametal Battleaxe", "Heavymetal throwing axe", "Frometal throwing axe", "Flametal throwing axe", "Rhongomiant", "Ukonvasara" ]
+        "ExcludedItemNames": [ "$item_battleaxe_flint", "$item_battleaxe_bronze_terraheim", "$item_battleaxe", "$item_battleaxe_silver", "$item_battleaxe_crystal", "$item_battleaxe_blackmetal", "$item_battleaxe_sledge_blackmetal", "$item_battleaxe_fire", "$item_battleaxe_sledge_fire", "$item_throwingaxe_fire", "Rune of Blink", "Rune of Firebolt I", "Rune of Firebolt II", "Rune of Firebolt III", "Rune of Firebolt IV", "Rune of Force I", "Rune of Force II", "Rune of Force III", "Rune of Frostbolt I", "Rune of Frostbolt II", "Rune of Frostbolt III", "Rune of Frostbolt IV", "Rune of Frost Nova", "Rune of Healing", "Rune of Immolation", "Rune of Invigorate", "Rune of Light", "Rune of Recall", "Rune of Travel", "Rune of Warmth", "Heavymetal Battleaxe", "Frometal Battleaxe", "Flametal Battleaxe", "Heavymetal throwing axe", "Frometal throwing axe", "Flametal throwing axe", "Rhongomiant", "Ukonvasara", "Deep Abyss Trident", "Deep Abyss Greatsword" ]
       },
       "SelectionWeight" : 1,
       "Prefixes": [ "$mod_epicloot_me_recallweapon_prefix1" ],
@@ -2552,9 +2555,9 @@
         "ItemUsesStaminaOnAttack" : true
       },
       "ValuesPerRarity" : {
-        "Rare" : { "MinValue" : 1, "MaxValue" : 2, "Increment" : 0.1 },
-        "Epic" : { "MinValue" : 2, "MaxValue" : 3, "Increment" : 0.1 },
-        "Legendary" : { "MinValue" : 3, "MaxValue" : 4, "Increment" : 0.1 }
+        "Rare" : { "MinValue" : 6, "MaxValue" : 7.9, "Increment" : 0.1 },
+        "Epic" : { "MinValue" : 8, "MaxValue" : 9.9, "Increment" : 0.1 },
+        "Legendary" : { "MinValue" : 10, "MaxValue" : 12, "Increment" : 0.1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [

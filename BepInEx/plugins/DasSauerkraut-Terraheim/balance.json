@@ -344,7 +344,7 @@
             "t4": {
                 "baseArmor": 20,
                 "armorPerLevel": 2,
-                "globalMoveMod": 0,
+                "globalMoveMod": -0.05,
                 "setBonusVal": 0.4,
                 "setActivationHP": 0.15,
                 "headEffectVal": 0.17,
@@ -354,7 +354,7 @@
             "t5": {
                 "baseArmor": 24,
                 "armorPerLevel": 2,
-                "globalMoveMod": 0,
+                "globalMoveMod": -0.05,
                 "setBonusVal": 0.5,
                 "setActivationHP": 0.2,
                 "headEffectVal": 0.2,
@@ -364,7 +364,7 @@
             "t6": {
                 "baseArmor": 40,
                 "armorPerLevel": 2,
-                "globalMoveMod": 0,
+                "globalMoveMod": -0.05,
                 "setBonusVal": 0.6,
                 "setActivationHP": 0.23,
                 "headEffectVal": 0.23,
@@ -403,14 +403,14 @@
                 "legsEffectVal": 0.25
             },
             "t6": {
-                "baseArmor": 26,
+                "baseArmor": 30,
                 "armorPerLevel": 2,
                 "globalMoveMod": 0,
                 "setBonusVal": 1.7,
                 "setActivationCount": 4,
                 "setAoESize": 2,
                 "headEffectVal": 0.12,
-                "chestEffectVal": 17,
+                "chestEffectVal": 19,
                 "legsEffectVal": 0.28
             }
         }
@@ -434,10 +434,10 @@
             "t6": {
                 "baseArmor": 40,
                 "armorPerLevel": 2,
-                "globalMoveMod": 0,
+                "globalMoveMod": -0.05,
                 "setBonusVal": 0.50,
                 "headEffectVal": 0.08,
-                "chestEffectVal": 0.23,
+                "chestEffectVal": 30,
                 "legsEffectVal": 0.07
             }
         }

@@ -1,0 +1,14 @@
+{
+    "name": "RKnifeDeepAbyss",
+    "clone": true,
+    "clonePrefabName": "KnifeDeepAbyss",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "DeepAbyssEssence:15:10:False",
+        "WorldTreeFragment:8:4:False",
+        "BurningWorldTreeFragment:8:4:False"
+    ]
+}

@@ -179,7 +179,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
         { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 14, "MaxValue" : 15, "Increment" : 0.25 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 6.5, "MaxValue" : 7, "Increment" : 0.1 } },
         { "Type": "Indestructible" }
       ]
     },
@@ -207,8 +207,8 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddPiercingDamage", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 14, "MaxValue" : 15, "Increment" : 0.25 } },
-        { "Type": "LifeStealLowHealth", "Values": { "MinValue" : 21, "MaxValue" : 23, "Increment" : 0.25 } }
+        { "Type": "LifeSteal", "Values": { "MinValue" : 6.5, "MaxValue" : 7, "Increment" : 0.1 } },
+        { "Type": "LifeStealLowHealth", "Values": { "MinValue" : 12.5, "MaxValue" : 13, "Increment" : 0.1 } }
       ]
     },
     {
@@ -232,10 +232,10 @@
       "Requirements" : {
         "AllowedItemTypes": [ "Bow" ],
         "AllowedSkillTypes": [ "Bows" ],
-        "AllowedItemNames": [ "Blackmetal Skirmisher", "Flametal Skirmisher" ]
+        "AllowedItemNames": [ "Blackmetal Skirmisher", "Flametal Skirmisher", "Deep Abyss Skirmisher" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 8, "MaxValue" : 13, "Increment" : 1 } },
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 10, "MaxValue" : 13, "Increment" : 1 } },
         { "Type": "ModifyParry" }
       ]
     },
@@ -292,7 +292,7 @@
       "Name": "Prevail's Eviscerator",
       "Description": "This deadly blade is covered in blue blood and little bits of crab shell...  what in Odin's name was this used for?",
       "Requirements" : {
-        "AllowedItemNames": [ "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana" ]
+        "AllowedItemNames": [ "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana", "Deep Abyss Sword" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 29, "Increment" : 1 } }
@@ -306,7 +306,7 @@
         "NoRoll": true,
         "AllowedItemNames": [ "Assassin's copper knife", "Assassin's iron knife", "Assassin's silver knife", "Assassin's blackmetal knife", "Assassin's heavymetal knife", "Assassin's frometal knife", "Assassin's flametal knife",
                               "Bronze katana", "Iron katana", "Silver katana", "Blackmetal katana", "Heavymetal katana", "Frometal katana", "Flametal katana",
-                              "Steady bronze mace", "Steady iron mace", "Steady silver mace", "Steady blackmetal mace", "Steady heavymetal mace", "Steady frometal mace", "Steady flametal mace" ]
+                              "Deep Abyss Knife", "Deep Abyss Sword" ]
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyParry" }
@@ -398,7 +398,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "Executioner", "Values": { "MinValue" : 250, "MaxValue" : 299, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 17, "MaxValue" : 19, "Increment" : 0.25 } }
+        { "Type": "LifeSteal", "Values": { "MinValue" : 7.5, "MaxValue" : 8, "Increment" : 0.1 } }
       ]
     },
     {
@@ -618,7 +618,7 @@
         "AllowedSkillTypes": [ "Axes", "Clubs" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "LifeSteal", "Values": { "MinValue" : 15, "MaxValue" : 17, "Increment" : 0.25 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 7.5, "MaxValue" : 8, "Increment" : 0.1 } },
         { "Type": "ModifyDamageLowHealth", "Values": { "MinValue" : 25, "MaxValue" : 29, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
         { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } }
@@ -1075,6 +1075,50 @@
       ]
     },
 
+    // Valravn Set (Lifesteal)
+    //////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    {
+      "ID": "Valravn1h",
+      "Name": "Valravn's Siphon",
+      "Description": "It drips with blood.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Knives", "Swords", "Axes", "Clubs" ]
+      }
+    },
+    {
+      "ID": "ValravnLegs",
+      "Name": "Valravn's Greaves",
+      "Description": "They squelch with each step.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Legs" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "ValravnCape",
+      "Name": "Valravn's Shroud",
+      "Description": "It's very soft, all the better for soaking things up.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Shoulder" ],
+        "ItemHasArmor" : true
+      },
+      "GuaranteedEffectCount": 6
+    },
+    {
+      "ID": "ValravnHelm",
+      "Name": "Valravn's Skull",
+      "Description": "It smells like wet iron.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "Helmet" ]
+      },
+      "GuaranteedEffectCount": 6
+    },
+
     // Ranni's Dark Moon Set (Mage)
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
     {
@@ -1203,9 +1247,24 @@
         "ArcherBow"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
+      ]
+    },
+    {
+      "ID": "Valravn",
+      "Name": "Valravn's Hunger",
+      "LegendaryIDs": [
+        "Valravn1h",
+        "ValravnHelm",
+        "ValravnLegs",
+        "ValravnCape"
+      ],
+      "SetBonuses": [
+        { "Count": 2, "Effect": { "Type": "LifeSteal", "Values": { "MinValue": 8, "MaxValue": 8, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
       ]
     },
     {

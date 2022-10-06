@@ -438,6 +438,14 @@
             "bLevelMultiplier":true
          },
          {
+            "sPrefabName":"PrimordialIce",
+            "iAmountMin":1,
+            "iAmountMax":2,
+            "fChance":1,
+            "bOnePerPlayer":false,
+            "bLevelMultiplier":true
+         },
+         {
             "sPrefabName":"OreFrometal",
             "iAmountMin":1,
             "iAmountMax":2,
