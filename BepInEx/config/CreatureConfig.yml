@@ -13,6 +13,7 @@ Succubus:
 
 TentaRoot:
   health: 3.0
+  damage: 2.0
   infusion:
     Frost: 100
 
