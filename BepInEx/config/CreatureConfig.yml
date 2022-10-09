@@ -24,3 +24,6 @@ Succubus_Queen1:
   health: 2.0
   effect:
     Armored
+
+GoblinLoot:
+  health: 10.0

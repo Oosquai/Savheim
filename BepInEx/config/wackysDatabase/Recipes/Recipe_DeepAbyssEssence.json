@@ -1,7 +1,7 @@
 {
-    "name": "RDeepAbyssEssenceSurtr",
-    "clone": true,
-    "clonePrefabName": "DeepAbyssEssenceSurtr",
+    "name": "DeepAbyssEssence",
+    "clone": false,
+    "clonePrefabName": "",
     "craftingStation": "Thors Forge",
     "minStationLevel": 1,
     "amount": 5,
