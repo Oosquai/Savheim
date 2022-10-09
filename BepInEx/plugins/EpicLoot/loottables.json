@@ -1534,7 +1534,7 @@
       "Object": "RRR_Hostile_T1",
       "RefObject": "Tier1Mob"
     },
-    // Forest Spider
+    // Forest Spiders
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "RRRM_ForestSpider",
@@ -3015,6 +3015,77 @@
     ////////////////////////////////////////////////////////////////////////////////////
     {
       "Object": "Kraken",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 0], [2, 25], [3, 30], [4, 25], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 4, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier7Everything", "Weight": 3, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 0], [2, 20], [3, 35], [4, 25], [5, 20], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 3, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "Tier7Everything", "Weight": 3, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 0], [2, 15], [3, 30], [4, 30], [5, 20], [6, 5], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "Tier9Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 0], [2, 10], [3, 20], [4, 30], [5, 25], [6, 10], [7, 5] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "Tier9Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 0], [2, 5], [3, 15], [4, 25], [5, 30], [6, 15], [7, 10] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "Tier8Everything", "Weight": 3, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "Tier9Everything", "Weight": 3, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 0], [3, 10], [4, 20], [5, 35], [6, 20], [7, 15] ],
+          "Loot": [
+            { "Item": "Tier6Everything", "Weight": 1, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "Tier7Everything", "Weight": 2, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "Tier8Everything", "Weight": 3, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "Tier9Everything", "Weight": 4, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        }
+      ]
+    },
+    {
+      "Object": "KrakenLD",
       "LeveledLoot": [
         {
           "Level": 1,
