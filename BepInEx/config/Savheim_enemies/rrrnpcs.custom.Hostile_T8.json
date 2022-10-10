@@ -24,7 +24,7 @@
       "bToleratesFire" : false,
       "bToleratesSmoke" : false,
       "bStaggerWhenBlocked" : null,
-      "fHealth" : 700,
+      "fHealth" : 650,
       "dDamageTaken" : {
          "m_blunt" : "Normal",
          "m_slash" : "Normal",
@@ -48,8 +48,8 @@
       ],
       "aRandomWeapon" : [
          "SwordFlametal",
-         "BowFrometal",
-         "BowHeavymetal",
+//         "BowFrometal",
+//         "BowHeavymetal",
          "AtgeirHeavymetal",
          "SledgeFrometal",
          "BattleaxeFlametal",
@@ -176,7 +176,7 @@
             "sPrefabName":"LoxPie",
             "iAmountMin":1,
             "iAmountMax":1,
-            "fChance":0.05,
+            "fChance":0.02,
             "bOnePerPlayer":false,
             "bLevelMultiplier": true
          },
@@ -184,7 +184,7 @@
             "sPrefabName":"MeadHealthMedium",
             "iAmountMin":1,
             "iAmountMax":1,
-            "fChance":0.12,
+            "fChance":0.1,
             "bOnePerPlayer":false,
             "bLevelMultiplier": true
          },
@@ -192,7 +192,7 @@
             "sPrefabName":"MeadStaminaMedium",
             "iAmountMin":1,
             "iAmountMax":1,
-            "fChance":0.08,
+            "fChance":0.07,
             "bOnePerPlayer":false,
             "bLevelMultiplier": true
          },
@@ -200,7 +200,7 @@
             "sPrefabName":"BarleyWine",
             "iAmountMin":1,
             "iAmountMax":1,
-            "fChance":0.05,
+            "fChance":0.03,
             "bOnePerPlayer":false,
             "bLevelMultiplier": true
          }
