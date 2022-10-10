@@ -1344,21 +1344,21 @@
           "Level": 1,
           "Drops": [ [0, 82], [1, 18] ],
           "Loot": [
-            { "Item": "Tier8Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] }
+            { "Item": "Tier8Everything", "Weight": 1,  "Rarity": [ 0, 20, 65, 15 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 77], [1, 23] ],
           "Loot": [
-            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 67], [1, 33] ],
           "Loot": [
-            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
@@ -1393,7 +1393,7 @@
           "Level": 1,
           "Drops": [ [0, 0], [1, 0], [2, 70], [3, 18], [4, 12] ],
           "Loot": [
-            { "Item": "Tier8Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] },
+            { "Item": "Tier8Everything", "Weight": 1,  "Rarity": [ 0, 20, 65, 15 ] },
             { "Item": "RunestoneLegendary", "Weight": 2 }
           ]
         },
@@ -1401,7 +1401,7 @@
           "Level": 2,
           "Drops": [ [0, 0], [1, 0], [2, 63], [3, 23], [4, 14] ],
           "Loot": [
-            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 80, 20 ] },
             { "Item": "RunestoneLegendary", "Weight": 2 }
           ]
         },
@@ -1409,7 +1409,7 @@
           "Level": 3,
           "Drops": [ [0, 0], [1, 0], [2, 51], [3, 33], [4, 16] ],
           "Loot": [
-            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] },
+            { "Item": "Tier8Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] },
             { "Item": "RunestoneLegendary", "Weight": 3 }
           ]
         },
@@ -1448,21 +1448,21 @@
           "Level": 1,
           "Drops": [ [0, 82], [1, 18] ],
           "Loot": [
-            { "Item": "Tier9Everything", "Weight": 1,  "Rarity": [ 0, 25, 65, 10 ] }
+            { "Item": "Tier9Everything", "Weight": 1,  "Rarity": [ 0, 0, 80, 20 ] }
           ]
         },
         {
           "Level": 2,
           "Drops": [ [0, 77], [1, 23] ],
           "Loot": [
-            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 85, 15 ] }
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
           ]
         },
         {
           "Level": 3,
           "Drops": [ [0, 67], [1, 33] ],
           "Loot": [
-            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 75, 25 ] }
+            { "Item": "Tier9Everything", "Weight": 1, "Rarity": [ 0, 0, 70, 30 ] }
           ]
         },
         {
@@ -1928,7 +1928,7 @@
     // Hostile NPC 8
     ////////////////////////////////////////////////////////////////////////////////////
     {
-      "Object": "RRR_Hostile_T8",
+      "Object": "RRRN_Hostile_T8",
       "RefObject": "Tier8Mob"
     },
     // Fire Neck
