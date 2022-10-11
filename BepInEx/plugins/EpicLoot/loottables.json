@@ -2147,11 +2147,11 @@
     },
     {
       "Object": "Golden_Troll_Miniboss",
-      "RefObject": "Tier2MobSpecial"
+      "RefObject": "Tier3MobSpecial"
     },
     {
       "Object": "Golden_Wraith_Miniboss",
-      "RefObject": "Tier3MobSpecial"
+      "RefObject": "Tier6MobSpecial"
     },
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // BOSSES
