@@ -1625,7 +1625,6 @@
         "AllowedItemTypes" : [
           "OneHandedWeapon",
           "TwoHandedWeapon",
-          "Bow",
           "Tool",
           "Shield",
           "Torch"
