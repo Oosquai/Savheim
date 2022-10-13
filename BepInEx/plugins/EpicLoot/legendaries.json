@@ -162,8 +162,8 @@
         "AllowedSkillTypes": [ "Swords" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
-        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "Indestructible" }
       ]
@@ -177,8 +177,8 @@
         "AllowedSkillTypes": [ "Swords" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 30, "MaxValue" : 35, "Increment" : 1 } },
-        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 25, "MaxValue" : 30, "Increment" : 1 } },
+        { "Type": "AddSlashingDamage", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
+        { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "LifeSteal", "Values": { "MinValue" : 6.5, "MaxValue" : 7, "Increment" : 0.1 } },
         { "Type": "Indestructible" }
       ]
