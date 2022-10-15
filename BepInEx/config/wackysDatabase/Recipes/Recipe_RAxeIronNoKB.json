@@ -1,0 +1,14 @@
+{
+    "name": "RAxeIronNoKB",
+    "clone": true,
+    "clonePrefabName": "AxeIronNoKB",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 2,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Wood:4:0:True",
+        "Iron:20:10:True",
+        "LeatherScraps:2:1:True"
+    ]
+}

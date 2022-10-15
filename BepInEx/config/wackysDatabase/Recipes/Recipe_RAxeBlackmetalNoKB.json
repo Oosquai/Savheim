@@ -1,0 +1,14 @@
+{
+    "name": "RAxeBlackmetalNoKB",
+    "clone": true,
+    "clonePrefabName": "AxeBlackmetalNoKB",
+    "craftingStation": "$piece_forge",
+    "minStationLevel": 4,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "FineWood:6:0:True",
+        "BlackMetal:20:10:True",
+        "LinenThread:5:5:True"
+    ]
+}
