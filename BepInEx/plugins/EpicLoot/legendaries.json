@@ -384,6 +384,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
+        { "Type": "Opportunist", "Values": { "MinValue" : 28, "MaxValue" : 32, "Increment" : 1 } },
         { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 } },
         { "Type": "AddMovementSkills", "Values": { "MinValue": 10, "MaxValue": 15, "Increment": 1 } }
       ]

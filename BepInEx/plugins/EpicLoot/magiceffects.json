@@ -2608,9 +2608,9 @@
         "ItemUsesStaminaOnAttack" : true
       },
       "ValuesPerRarity" : {
-        "Rare" : { "MinValue" : 25, "MaxValue" : 75, "Increment" : 1 },
-        "Epic" : { "MinValue" : 75, "MaxValue" : 125, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 125, "MaxValue" : 200, "Increment" : 1 }
+        "Rare" : { "MinValue" : 300, "MaxValue" : 350, "Increment" : 1 },
+        "Epic" : { "MinValue" : 350, "MaxValue" : 400, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 400, "MaxValue" : 450, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
@@ -2663,9 +2663,9 @@
         ]
       },
       "ValuesPerRarity" : {
-        "Rare" : { "MinValue" : 10, "MaxValue" : 15, "Increment" : 1 },
-        "Epic" : { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 }
+        "Rare" : { "MinValue" : 8, "MaxValue" : 12, "Increment" : 1 },
+        "Epic" : { "MinValue" : 12, "MaxValue" : 16, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 16, "MaxValue" : 20, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
