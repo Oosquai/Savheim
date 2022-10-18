@@ -368,7 +368,7 @@
         "AllowedSkillTypes": [ "Axes" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "Executioner", "Values": { "MinValue" : 250, "MaxValue" : 299, "Increment" : 1 } },
+        { "Type": "Executioner" },
         { "Type": "ModifyParry", "Values": { "MinValue" : 50, "MaxValue" : 50, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeed", "Values": { "MinValue" : 25, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "RemoveSpeedPenalty" }
@@ -398,7 +398,7 @@
         "AllowedSkillTypes": [ "Axes" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "Executioner", "Values": { "MinValue" : 250, "MaxValue" : 299, "Increment" : 1 } },
+        { "Type": "Executioner" },
         { "Type": "LifeSteal", "Values": { "MinValue" : 7.5, "MaxValue" : 8, "Increment" : 0.1 } }
       ]
     },
