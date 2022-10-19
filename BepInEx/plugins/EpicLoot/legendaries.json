@@ -589,8 +589,8 @@
         "AllowedSkillTypes": [ "Knives" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "AddPoisonDamage", "Values": { "MinValue": 21, "MaxValue": 25, "Increment": 1 } },
-        { "Type": "AddFireDamage", "Values": { "MinValue": 16, "MaxValue": 20, "Increment": 1 } },
+        { "Type": "AddPoisonDamage", "Values": { "MinValue": 25, "MaxValue": 29, "Increment": 1 } },
+        { "Type": "AddFireDamage", "Values": { "MinValue": 25, "MaxValue": 29, "Increment": 1 } },
         { "Type": "Slow" }
       ]
     },
