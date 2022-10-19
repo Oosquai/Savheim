@@ -147,7 +147,7 @@
         "AllowedSkillTypes": [ "Axes", "Polearms", "Clubs" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "AddLightningDamage" },
+        { "Type": "AddSpiritDamage" },
         { "Type": "AddFireDamage" },
         { "Type": "ModifyAttackSpeed" },
         { "Type": "ModifyMovementSpeed", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } }
@@ -603,11 +603,10 @@
         "AllowedSkillTypes": [ "Knives" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "AddFireDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
-        { "Type": "AddFrostDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
-        { "Type": "AddLightningDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
-        { "Type": "AddPoisonDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } },
-        { "Type": "AddSpiritDamage", "Values": { "MinValue": 5, "MaxValue": 9, "Increment": 1 } }
+        { "Type": "AddFireDamage", "Values": { "MinValue": 9, "MaxValue": 12, "Increment": 1 } },
+        { "Type": "AddFrostDamage", "Values": { "MinValue": 9, "MaxValue": 12, "Increment": 1 } },
+        { "Type": "AddPoisonDamage", "Values": { "MinValue": 9, "MaxValue": 12, "Increment": 1 } },
+        { "Type": "AddSpiritDamage", "Values": { "MinValue": 9, "MaxValue": 12, "Increment": 1 } }
       ]
     },
     {
@@ -1264,7 +1263,7 @@
       ],
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "LifeSteal", "Values": { "MinValue": 8, "MaxValue": 8, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": 35, "MaxValue": 35, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
       ]
     },

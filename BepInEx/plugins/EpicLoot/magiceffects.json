@@ -732,6 +732,7 @@
       "DisplayText" : "$mod_epicloot_me_addlightningdamage_display",
       "Description" : "$mod_epicloot_me_addlightningdamage_desc",
       "Requirements" : {
+        "NoRoll": true,
         "ExclusiveEffectTypes" : [
           "AddBluntDamage",
           "AddSlashingDamage",
@@ -1117,7 +1118,7 @@
       "DisplayText" : "$mod_epicloot_me_addspiritresistancepercentage_display",
       "Description" : "$mod_epicloot_me_addspiritresistancepercentage_desc",
       "Requirements" : {
-        "NoRoll": true,
+//        "NoRoll": true,
         "AllowedItemTypes" : [
           "Helmet",
           "Chest",
