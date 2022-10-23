@@ -2609,9 +2609,9 @@
         "ItemUsesStaminaOnAttack" : true
       },
       "ValuesPerRarity" : {
-        "Rare" : { "MinValue" : 200, "MaxValue" : 250, "Increment" : 1 },
-        "Epic" : { "MinValue" : 250, "MaxValue" : 300, "Increment" : 1 },
-        "Legendary" : { "MinValue" : 300, "MaxValue" : 350, "Increment" : 1 }
+        "Rare" : { "MinValue" : 250, "MaxValue" : 300, "Increment" : 1 },
+        "Epic" : { "MinValue" : 300, "MaxValue" : 350, "Increment" : 1 },
+        "Legendary" : { "MinValue" : 350, "MaxValue" : 400, "Increment" : 1 }
       },
       "SelectionWeight" : 1,
       "Prefixes": [
