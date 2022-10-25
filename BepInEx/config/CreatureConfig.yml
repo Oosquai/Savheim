@@ -22,8 +22,24 @@ Kraken:
 
 Succubus_Queen1:
   health: 2.0
+  stars:
+    0: default
+    1: default
+    2: default
+    3: default
+    4: default
+    5: [17, 28, 38, 12, 5]
   effect:
     Armored
 
 GoblinLoot:
   health: 10.0
+  stars:
+    0: default
+    1: default
+    2: default
+    3: default
+    4: default
+    5: [17, 28, 38, 12, 5]
+  effect:
+    Quick

@@ -706,7 +706,7 @@
     {
       "ID": "DevBoots",
       "Name": "Developer's Boots",
-      "Description": "You're a cheater if you have these, but you'll probably kill yourself trying to use them anyway.",
+      "Description": "You're a cheater if you have these, and cheaters never ... survive warp speed fall damage.",
       "Requirements": {
         "NoRoll": true,
         "AllowedItemTypes": ["Legs"]
@@ -714,8 +714,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "Indestructible" },
         { "Type": "DoubleJump" },
-        { "Type": "FeatherFall" },
-        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 300, "MaxValue": 300, "Increment": 1 } }
+        { "Type": "ModifyMovementSpeed", "Values": { "MinValue": 200, "MaxValue": 200, "Increment": 1 } }
       ]
     },
 
@@ -975,6 +974,20 @@
         { "Type": "Indestructible" }
       ]
     },
+    {
+      "ID": "ArcherSpear",
+      "Name": "Archer Bowman's Lawn Dart",
+      "Description": "Archer Bowman's sidearm.  It's like a big arrow that you throw.",
+      "IsSetItem": true, 
+      "Requirements": {
+        "AllowedItemTypes": [ "OneHandedWeapon" ],
+        "AllowedSkillTypes": [ "Spears" ]
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "ModifyMovementSpeed" },
+        { "Type": "RecallWeapon" }
+      ]
+    },
 
     // Valmien Set (Cleric)
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -1084,7 +1097,7 @@
       "IsSetItem": true, 
       "Requirements": {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
-        "AllowedSkillTypes": [ "Knives", "Swords", "Axes", "Clubs" ]
+        "AllowedSkillTypes": [ "Knives", "Swords", "Axes", "Clubs", "Spears" ]
       }
     },
     {
@@ -1244,11 +1257,13 @@
         "ArcherChest",
         "ArcherLegs",
         "ArcherCape",
-        "ArcherBow"
+        "ArcherBow",
+        "ArcherSpear"
       ],
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddSpearsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
       ]
     },

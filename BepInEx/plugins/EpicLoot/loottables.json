@@ -1593,12 +1593,6 @@
       "Object": "FireGolem",
       "RefObject": "Tier8Mob"
     },
-    // Loot Goblin
-    ////////////////////////////////////////////////////////////////////////////////////
-    {
-      "Object": "GoblinLoot",
-      "RefObject": "Tier8Mob"
-    },
 
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     // Modded Mobs
@@ -2665,6 +2659,61 @@
         {
           "Level": 6,
           "Drops": [ [0, 0], [1, 0], [2, 5], [3, 10], [4, 25], [5, 35], [6, 20], [7, 5] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 0, 100 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        }
+      ]
+    },
+    // Loot Goblin
+    ////////////////////////////////////////////////////////////////////////////////////
+    {
+      "Object": "GoblinLoot",
+      "LeveledLoot": [
+        {
+          "Level": 1,
+          "Drops": [ [0, 0], [1, 0], [2, 25], [3, 50], [4, 25], [5, 0], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 80, 20 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 2,
+          "Drops": [ [0, 0], [1, 0], [2, 25], [3, 50], [4, 25], [5, 0], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 70, 30 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 3,
+          "Drops": [ [0, 0], [1, 0], [2, 0], [3, 25], [4, 50], [5, 25], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 60, 40 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 4,
+          "Drops": [ [0, 0], [1, 0], [2, 0], [3, 25], [4, 50], [5, 25], [6, 0], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 40, 60 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 5,
+          "Drops": [ [0, 0], [1, 0], [2, 0], [3, 0], [4, 25], [5, 50], [6, 25], [7, 0] ],
+          "Loot": [
+            { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 20, 80 ] },
+            { "Item": "RunestoneLegendary", "Weight": 1 }
+          ]
+        },
+        {
+          "Level": 6,
+          "Drops": [ [0, 0], [1, 0], [2, 0], [3, 0], [4, 25], [5, 50], [6, 25], [7, 0] ],
           "Loot": [
             { "Item": "Tier8Everything", "Weight": 2, "Rarity": [ 0, 0, 0, 100 ] },
             { "Item": "RunestoneLegendary", "Weight": 1 }
