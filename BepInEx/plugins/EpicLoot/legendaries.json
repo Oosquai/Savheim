@@ -179,7 +179,7 @@
       "GuaranteedMagicEffects": [
         { "Type": "AddSlashingDamage", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
         { "Type": "ModifyAttackStaminaUse", "Values": { "MinValue" : 20, "MaxValue" : 25, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 6.5, "MaxValue" : 7, "Increment" : 0.1 } },
+        { "Type": "LifeSteal" },
         { "Type": "Indestructible" }
       ]
     },
@@ -207,7 +207,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "AddPiercingDamage", "Values": { "MinValue" : 15, "MaxValue" : 20, "Increment" : 1 } },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 6.5, "MaxValue" : 7, "Increment" : 0.1 } },
+        { "Type": "LifeSteal" },
         { "Type": "LifeStealLowHealth", "Values": { "MinValue" : 12.5, "MaxValue" : 13, "Increment" : 0.1 } }
       ]
     },
@@ -399,7 +399,7 @@
       },
       "GuaranteedMagicEffects": [
         { "Type": "Executioner" },
-        { "Type": "LifeSteal", "Values": { "MinValue" : 7.5, "MaxValue" : 8, "Increment" : 0.1 } }
+        { "Type": "LifeSteal", "Values": { "MinValue" : 7, "MaxValue" : 7.9, "Increment" : 0.1 } }
       ]
     },
     {
@@ -618,7 +618,7 @@
         "AllowedSkillTypes": [ "Axes", "Clubs" ]
       },
       "GuaranteedMagicEffects": [
-        { "Type": "LifeSteal", "Values": { "MinValue" : 7.5, "MaxValue" : 8, "Increment" : 0.1 } },
+        { "Type": "LifeSteal", "Values": { "MinValue" : 5, "MaxValue" : 5.9, "Increment" : 0.1 } },
         { "Type": "ModifyDamageLowHealth", "Values": { "MinValue" : 25, "MaxValue" : 29, "Increment" : 1 } },
         { "Type": "ModifyAttackSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } },
         { "Type": "ModifyMovementSpeedLowHealth", "Values": { "MinValue" : 45, "MaxValue" : 49, "Increment" : 1 } }
@@ -1098,7 +1098,10 @@
       "Requirements": {
         "AllowedItemTypes": [ "OneHandedWeapon" ],
         "AllowedSkillTypes": [ "Knives", "Swords", "Axes", "Clubs", "Spears" ]
-      }
+      },
+      "GuaranteedMagicEffects": [
+        { "Type": "LifeSteal" }
+      ]
     },
     {
       "ID": "ValravnLegs",
@@ -1206,7 +1209,7 @@
         "HeimdallLegs"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "ModifyBlockPower", "Values": { "MinValue": 200, "MaxValue": 200, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "ModifyBlockPower", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "Bulwark" } },
         { "Count": 4, "Effect": { "Type": "ModifyArmorLowHealth", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "Undying" } }
@@ -1241,13 +1244,13 @@
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "ModifyParry", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 2, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 5, "MaxValue": 5, "Increment": 1 } } },
-        { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -5, "MaxValue": -5, "Increment": 1 } } },
+//        { "Count": 2, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -5, "MaxValue": -5, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "AddMovementSkills", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 8, "MaxValue": 8, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -8, "MaxValue": -8, "Increment": 1 } } },
+//        { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -8, "MaxValue": -8, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "Paralyze", "Values": { "MinValue": 0.5, "MaxValue": 0.5, "Increment": 0.5 } } },
-        { "Count": 4, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 12, "MaxValue": 12, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -12, "MaxValue": -12, "Increment": 1 } } }
+        { "Count": 4, "Effect": { "Type": "AvoidDamageTaken", "Values": { "MinValue": 12, "MaxValue": 12, "Increment": 1 } } }
+//        { "Count": 4, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": -12, "MaxValue": -12, "Increment": 1 } } }
       ]
     },
     {
@@ -1262,9 +1265,8 @@
       ],
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "AddSpearsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
+        { "Count": 3, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
       ]
     },
     {
@@ -1277,7 +1279,7 @@
         "ValravnCape"
       ],
       "SetBonuses": [
-        { "Count": 2, "Effect": { "Type": "LifeSteal", "Values": { "MinValue": 8, "MaxValue": 8, "Increment": 1 } } },
+        { "Count": 2, "Effect": { "Type": "LifeSteal", "Values": { "MinValue": 5, "MaxValue": 5, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
         { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
       ]
