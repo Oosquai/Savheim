@@ -1265,8 +1265,8 @@
       ],
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "ModifyStaminaRegen", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
+        { "Count": 3, "Effect": { "Type": "AddBowsSkill", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } }
       ]
     },
     {
@@ -1281,7 +1281,7 @@
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "LifeSteal", "Values": { "MinValue": 5, "MaxValue": 5, "Increment": 1 } } },
         { "Count": 3, "Effect": { "Type": "ModifyArmor", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } }
+        { "Count": 4, "Effect": { "Type": "ModifyAttackSpeed", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } }
       ]
     },
     {
