@@ -1,0 +1,15 @@
+{
+    "name": "RDeepAbyssEssenceNMD",
+    "clone": true,
+    "clonePrefabName": "DeepAbyssEssenceNMD",
+    "craftingStation": "Thors Forge",
+    "minStationLevel": 1,
+    "amount": 1,
+    "disabled": false,
+    "reqs": [
+        "Heavyscale:1:0:False",
+        "Drakescale:1:0:False",
+        "Forgedscale:1:0:False",
+        "TrophyNightmareDragon:1:0:False"
+    ]
+}

@@ -4,12 +4,12 @@
     "clonePrefabName": "DeepAbyssEssenceSurtr",
     "craftingStation": "Thors Forge",
     "minStationLevel": 1,
-    "amount": 5,
+    "amount": 2,
     "disabled": false,
     "reqs": [
-        "Heavyscale:5:0:False",
-        "Drakescale:5:0:False",
-        "Forgedscale:5:0:False",
+        "Heavyscale:2:0:False",
+        "Drakescale:2:0:False",
+        "Forgedscale:2:0:False",
         "TrophySurtr:1:0:False"
     ]
 }

@@ -6,7 +6,7 @@
     "clonePrefabName": "EvilSpiritKatana",
     "cloneMaterial": "Heavymetal_Color",
     "m_weight": 0.6000000238418579,
-    "m_attackStamina": 12.0,
+    "m_attackStamina": 10.0,
     "m_maxStackSize": 1,
     "m_foodHealth": 0.0,
     "m_foodStamina": 0.0,

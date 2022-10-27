@@ -1330,8 +1330,8 @@
       ],
       "SetBonuses": [
         { "Count": 2, "Effect": { "Type": "QuickLearner", "Values": { "MinValue": 25, "MaxValue": 25, "Increment": 1 } } },
-        { "Count": 3, "Effect": { "Type": "AddElementalResistancePercentage", "Values": { "MinValue": 40, "MaxValue": 40, "Increment": 1 } } },
-        { "Count": 4, "Effect": { "Type": "ModifyElementalDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
+        { "Count": 3, "Effect": { "Type": "AddElementalResistancePercentage", "Values": { "MinValue": 33, "MaxValue": 33, "Increment": 1 } } },
+        { "Count": 4, "Effect": { "Type": "ModifyElementalDamage", "Values": { "MinValue": 50, "MaxValue": 50, "Increment": 1 } } },
         { "Count": 5, "Effect": { "Type": "ReflectDamage", "Values": { "MinValue": 100, "MaxValue": 100, "Increment": 1 } } },
         { "Count": 5, "Effect": { "Type": "Undying" } }
       ]
