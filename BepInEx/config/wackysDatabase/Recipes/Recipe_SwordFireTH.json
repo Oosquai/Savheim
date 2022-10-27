@@ -5,7 +5,7 @@
     "craftingStation": "Thors Forge",
     "minStationLevel": 1,
     "amount": 1,
-    "disabled": false,
+    "disabled": true,
     "reqs": [
         "BurningWorldTreeFragment:5:5:True",
         "Flametal:20:10:True",
