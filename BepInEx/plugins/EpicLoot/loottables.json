@@ -520,7 +520,7 @@
         { "Item": "FistFlametal",               "Weight": 5 },
         { "Item": "SpearFireTH",                "Weight": 5 },
         { "Item": "SledgeFireTH",               "Weight": 5 },
-        { "Item": "SwordFireTH",                "Weight": 5 },
+//        { "Item": "SwordFireTH",                "Weight": 5 },
         { "Item": "BowFireTH",                  "Weight": 5 },
         { "Item": "AtgeirFireTH",               "Weight": 5 },
         { "Item": "BattleaxeFireTH",            "Weight": 5 },
