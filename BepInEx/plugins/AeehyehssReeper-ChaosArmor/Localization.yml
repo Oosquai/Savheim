@@ -1,4 +1,5 @@
 ---
+# Keep this file in the same directory as ChaosArmor.dll
 # Use the Abenaki entry in this file as a template for any language localizations you want to add
 # The list of supported languages for localization for now is as follows:
 # English (hardcoded but can be overwritten in this file)
@@ -38,6 +39,15 @@
 
 Localizations:
     Abenaki:
+        T0ChaosPlateHelm:
+            Name: "placeholder"
+            Description: "placeholder"
+        T0ChaosPlateArmor:
+            Name: "placeholder"
+            Description: "placeholder"
+        T0ChaosPlateLegs:
+            Name: "placeholder"
+            Description: "placeholder"
         T1ChaosPlateHelm:
             Name: "placeholder"
             Description: "placeholder"
