@@ -1,7 +1,7 @@
 {
     "name": "MaceDeepAbyss",
     "m_name": "Deep Abyss Mace",
-    "m_description": "A mace made out of solidified essence found in the Deep Abyss of the ocean. All types of damage flow from this weapon, especially spirit.",
+    "m_description": "A mace made out of solidified essence found in the Deep Abyss of the ocean. Pumel and shock your foes.",
     "clone": true,
     "clonePrefabName": "DaedricMace",
     "cloneMaterial": "DeepAbyssBarColor",
@@ -39,7 +39,7 @@
     "m_teleportable": true,
     "m_toolTier": 7,
     "m_value": 0,
-    "m_damages": "m_blunt:29, m_chop:0, m_damage:0, m_fire:25, m_frost:25, m_lightning:25, m_pickaxe:0, m_pierce:28, m_poison:25, m_slash:28, m_spirit:35, ",
-    "m_damagesPerLevel": "m_blunt:2, m_chop:0, m_damage:0, m_fire:2, m_frost:2, m_lightning:2, m_pickaxe:0, m_pierce:2, m_poison:2, m_slash:2, m_spirit:2, ",
+    "m_damages": "m_blunt:79, m_chop:0, m_damage:0, m_fire:0, m_frost:0, m_lightning:25, m_pickaxe:0, m_pierce:79, m_poison:0, m_slash:0, m_spirit:25, ",
+    "m_damagesPerLevel": "m_blunt:4, m_chop:0, m_damage:0, m_fire:2, m_frost:2, m_lightning:2, m_pickaxe:0, m_pierce:4, m_poison:0, m_slash:0, m_spirit:1, ",
     "damageModifiers": []
 }
